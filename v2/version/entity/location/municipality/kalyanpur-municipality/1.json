@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:56.556232Z",
+  "entity_or_relationship_id": "entity:location/municipality/kalyanpur-municipality",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 76.81,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:56.556234Z",
+    "description": null,
+    "id": "entity:location/municipality/kalyanpur-municipality",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "211"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.kalyanpurmun.gov.np/",
+        "value": "http://www.kalyanpurmun.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Kalyanpur Municipality",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "कल्याणपुर नगरपालिका",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/siraha",
+    "pictures": null,
+    "short_description": null,
+    "slug": "kalyanpur-municipality",
+    "sub_type": "municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:56.556232Z",
+      "entity_or_relationship_id": "entity:location/municipality/kalyanpur-municipality",
+      "id": "version:entity:location/municipality/kalyanpur-municipality:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

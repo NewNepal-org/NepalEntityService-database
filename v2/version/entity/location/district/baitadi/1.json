@@ -1,0 +1,107 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:59.463181Z",
+  "entity_or_relationship_id": "entity:location/district/baitadi",
+  "snapshot": {
+    "administrative_level": 2,
+    "area": 1496.04,
+    "attributes": {
+      "headquarter": {
+        "en": {
+          "provenance": "imported",
+          "value": "Dasharathchand"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दशरथचन्द"
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:59.463183Z",
+    "description": null,
+    "id": "entity:location/district/baitadi",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "72"
+      },
+      {
+        "scheme": "website",
+        "url": "https://dccbaitadi.gov.np/",
+        "value": "https://dccbaitadi.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "district",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Baitadi",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "बैतडी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/province/sudur-paschimanchal",
+    "pictures": null,
+    "short_description": null,
+    "slug": "baitadi",
+    "sub_type": "district",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:59.463181Z",
+      "entity_or_relationship_id": "entity:location/district/baitadi",
+      "id": "version:entity:location/district/baitadi:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

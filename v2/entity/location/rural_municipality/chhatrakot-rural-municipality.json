@@ -1,0 +1,80 @@
+{
+  "area": 87.01,
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:58.220164Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "520"
+    },
+    {
+      "scheme": "website",
+      "url": "http://www.chhatrakotmun.gov.np/",
+      "value": "http://www.chhatrakotmun.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Chhatrakot Rural Municipality",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "छत्रकोट गाउपालिका",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/gulmi",
+  "pictures": null,
+  "short_description": null,
+  "slug": "chhatrakot-rural-municipality",
+  "sub_type": "rural_municipality",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:58.220162Z",
+    "entity_or_relationship_id": "entity:location/rural_municipality/chhatrakot-rural-municipality",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

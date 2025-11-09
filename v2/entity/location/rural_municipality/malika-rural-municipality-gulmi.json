@@ -1,0 +1,80 @@
+{
+  "area": 92.49,
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:58.249875Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "527"
+    },
+    {
+      "scheme": "website",
+      "url": "http://www.malikamungulmi.gov.np/",
+      "value": "http://www.malikamungulmi.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Malika Rural Municipality (Gulmi)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "मालिका गाउपालिका (गुल्मी)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/gulmi",
+  "pictures": null,
+  "short_description": null,
+  "slug": "malika-rural-municipality-gulmi",
+  "sub_type": "rural_municipality",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:58.249873Z",
+    "entity_or_relationship_id": "entity:location/rural_municipality/malika-rural-municipality-gulmi",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

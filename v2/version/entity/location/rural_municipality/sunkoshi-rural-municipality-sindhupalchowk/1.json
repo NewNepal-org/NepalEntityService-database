@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:57.481827Z",
+  "entity_or_relationship_id": "entity:location/rural_municipality/sunkoshi-rural-municipality-sindhupalchowk",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 71.84,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:57.481830Z",
+    "description": null,
+    "id": "entity:location/rural_municipality/sunkoshi-rural-municipality-sindhupalchowk",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "385"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.sunkoshimunsindhupalchowk.gov.np/",
+        "value": "http://www.sunkoshimunsindhupalchowk.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "rural_municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sunkoshi Rural Municipality (Sindhupalchowk)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सुनकोशी गाउपालिका (सिन्धुपाल्चोक)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/sindhupalchok",
+    "pictures": null,
+    "short_description": null,
+    "slug": "sunkoshi-rural-municipality-sindhupalchowk",
+    "sub_type": "rural_municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:57.481827Z",
+      "entity_or_relationship_id": "entity:location/rural_municipality/sunkoshi-rural-municipality-sindhupalchowk",
+      "id": "version:entity:location/rural_municipality/sunkoshi-rural-municipality-sindhupalchowk:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

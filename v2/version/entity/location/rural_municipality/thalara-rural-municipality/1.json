@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:59.355632Z",
+  "entity_or_relationship_id": "entity:location/rural_municipality/thalara-rural-municipality",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 105.51,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:59.355634Z",
+    "description": null,
+    "id": "entity:location/rural_municipality/thalara-rural-municipality",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "678"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.thalaramun.gov.np/",
+        "value": "http://www.thalaramun.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "rural_municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Thalara Rural Municipality",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "थलारा गाउपालिका",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/bajhang",
+    "pictures": null,
+    "short_description": null,
+    "slug": "thalara-rural-municipality",
+    "sub_type": "rural_municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:59.355632Z",
+      "entity_or_relationship_id": "entity:location/rural_municipality/thalara-rural-municipality",
+      "id": "version:entity:location/rural_municipality/thalara-rural-municipality:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

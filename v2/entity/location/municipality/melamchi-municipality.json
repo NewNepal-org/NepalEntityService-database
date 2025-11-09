@@ -1,0 +1,80 @@
+{
+  "area": 158.17,
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:57.471397Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "383"
+    },
+    {
+      "scheme": "website",
+      "url": "http://www.melamchimun.gov.np/",
+      "value": "http://www.melamchimun.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Melamchi Municipality",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "मेलम्ची नगरपालिका",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/sindhupalchok",
+  "pictures": null,
+  "short_description": null,
+  "slug": "melamchi-municipality",
+  "sub_type": "municipality",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:57.471394Z",
+    "entity_or_relationship_id": "entity:location/municipality/melamchi-municipality",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

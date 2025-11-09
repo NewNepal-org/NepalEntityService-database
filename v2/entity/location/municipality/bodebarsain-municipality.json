@@ -1,0 +1,80 @@
+{
+  "area": 58.93,
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:56.683072Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "241"
+    },
+    {
+      "scheme": "website",
+      "url": "http://www.bodebarsainmun.gov.np/",
+      "value": "http://www.bodebarsainmun.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Bodebarsain Municipality",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "बोदेबरसाईन नगरपालिका",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/saptari",
+  "pictures": null,
+  "short_description": null,
+  "slug": "bodebarsain-municipality",
+  "sub_type": "municipality",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:56.683070Z",
+    "entity_or_relationship_id": "entity:location/municipality/bodebarsain-municipality",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

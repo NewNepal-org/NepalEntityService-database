@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:55.564442Z",
+  "entity_or_relationship_id": "entity:location/rural_municipality/kamal-rural-municipality-sindhupalchowk",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 104.57,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:55.564444Z",
+    "description": null,
+    "id": "entity:location/rural_municipality/kamal-rural-municipality-sindhupalchowk",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "35"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.kamalmun.gov.np/",
+        "value": "http://www.kamalmun.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "rural_municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Kamal Rural Municipality (Sindhupalchowk)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "कमल गाउपालिका (सिन्धुपाल्चोक)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/jhapa",
+    "pictures": null,
+    "short_description": null,
+    "slug": "kamal-rural-municipality-sindhupalchowk",
+    "sub_type": "rural_municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:55.564442Z",
+      "entity_or_relationship_id": "entity:location/rural_municipality/kamal-rural-municipality-sindhupalchowk",
+      "id": "version:entity:location/rural_municipality/kamal-rural-municipality-sindhupalchowk:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,80 @@
+{
+  "area": 36.03,
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:58.107897Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "499"
+    },
+    {
+      "scheme": "website",
+      "url": "http://www.siddharthanagarmun.gov.np/",
+      "value": "http://www.siddharthanagarmun.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Siddharthanagar Municipality",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "सिद्धार्थनगर नगरपालिका",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/rupandehi",
+  "pictures": null,
+  "short_description": null,
+  "slug": "siddharthanagar-municipality",
+  "sub_type": "municipality",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:58.107895Z",
+    "entity_or_relationship_id": "entity:location/municipality/siddharthanagar-municipality",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

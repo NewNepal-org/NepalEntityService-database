@@ -1,0 +1,107 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:56.834590Z",
+  "entity_or_relationship_id": "entity:location/district/bhaktapur",
+  "snapshot": {
+    "administrative_level": 2,
+    "area": 119.0,
+    "attributes": {
+      "headquarter": {
+        "en": {
+          "provenance": "imported",
+          "value": "Bhaktapur"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "भक्तपुर"
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:56.834593Z",
+    "description": null,
+    "id": "entity:location/district/bhaktapur",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "23"
+      },
+      {
+        "scheme": "website",
+        "url": "https://dccbhaktapur.gov.np/",
+        "value": "https://dccbhaktapur.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "district",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Bhaktapur",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "भक्तपुर",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/province/bagmati",
+    "pictures": null,
+    "short_description": null,
+    "slug": "bhaktapur",
+    "sub_type": "district",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:56.834590Z",
+      "entity_or_relationship_id": "entity:location/district/bhaktapur",
+      "id": "version:entity:location/district/bhaktapur:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

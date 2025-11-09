@@ -1,0 +1,16 @@
+{
+  "migration_name": "001-source-locations",
+  "author": "Damodar Dahal",
+  "date": "2025-11-09T00:00:00",
+  "description": "This migration sources provinces, districts, and local levels including 6500+ wards.",
+  "executed_at": "2025-11-09T08:27:03.357205",
+  "duration_seconds": 11.499788999557495,
+  "status": "completed",
+  "changes": {
+    "entities_created": 7580,
+    "relationships_created": 0,
+    "versions_created": 7580,
+    "summary": "Created 7580 entities, 0 relationships, and 7580 versions",
+    "has_diff": true
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:59.188324Z",
+  "entity_or_relationship_id": "entity:location/rural_municipality/bhairabi-rural-municipality",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 110.46,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:59.188326Z",
+    "description": null,
+    "id": "entity:location/rural_municipality/bhairabi-rural-municipality",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "650"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.bhairabimun.gov.np/",
+        "value": "http://www.bhairabimun.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "rural_municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Bhairabi Rural Municipality",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "भैरवी गाउपालिका",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/dailekh",
+    "pictures": null,
+    "short_description": null,
+    "slug": "bhairabi-rural-municipality",
+    "sub_type": "rural_municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:59.188324Z",
+      "entity_or_relationship_id": "entity:location/rural_municipality/bhairabi-rural-municipality",
+      "id": "version:entity:location/rural_municipality/bhairabi-rural-municipality:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

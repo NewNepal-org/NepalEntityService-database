@@ -1,0 +1,91 @@
+{
+  "area": 1506.09,
+  "attributes": {
+    "headquarter": {
+      "en": {
+        "provenance": "imported",
+        "value": "Amargadhi"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अमरगढी"
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:59.636706Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "75"
+    },
+    {
+      "scheme": "website",
+      "url": "https://dccdadeldhura.gov.np/",
+      "value": "https://dccdadeldhura.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Dadeldhura",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "डडेलधुरा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/province/sudur-paschimanchal",
+  "pictures": null,
+  "short_description": null,
+  "slug": "dadeldhura",
+  "sub_type": "district",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:59.636704Z",
+    "entity_or_relationship_id": "entity:location/district/dadeldhura",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

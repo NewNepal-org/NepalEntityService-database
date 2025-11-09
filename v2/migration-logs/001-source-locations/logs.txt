@@ -1,0 +1,34 @@
+Migration: 001-source-locations
+Executed at: 2025-11-09T08:27:03.382050
+Duration: 11.5s
+
+================================================================================
+Execution Logs:
+================================================================================
+
+Migration started: Importing Nepal administrative locations
+Created author: Damodar Dahal (author:damodar-dahal)
+Fetching English data from GitHub...
+Fetching Nepali data from GitHub...
+Loaded data for 7 provinces
+Created province: Koshi Province (प्रदेश न. १)
+WARNING: Skipping invalid website with Devanagari characters for 'Phakphokthum Rural Municipality': फाकफोकथुम
+Created province: Madhesh Province (प्रदेश न. २)
+Created province: Bagmati (बाग्मती)
+Created province: Gandaki (गण्डकी)
+Created province: Lumbini (लुम्बिनी)
+Created province: Karnali (कर्णाली)
+Created province: Sudur Paschimanchal (सुदुर पश्चिमाञ्चल)
+Created 7 provinces
+Created 77 districts
+Created 753 municipalities
+Created 6743 wards
+Verified: 7 province entities in database
+Verified: 77 district entities in database
+Verified: 6 metropolitan_city entities in database
+Verified: 11 sub_metropolitan_city entities in database
+Verified: 276 municipality entities in database
+Verified: 460 rural_municipality entities in database
+Verified: 6743 ward entities in database
+Verified: 0 constituency entities in database
+Migration completed successfully

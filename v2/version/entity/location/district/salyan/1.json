@@ -1,0 +1,107 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:58.780619Z",
+  "entity_or_relationship_id": "entity:location/district/salyan",
+  "snapshot": {
+    "administrative_level": 2,
+    "area": 1462.0,
+    "attributes": {
+      "headquarter": {
+        "en": {
+          "provenance": "imported",
+          "value": "Salyan"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सल्यान"
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:58.780621Z",
+    "description": null,
+    "id": "entity:location/district/salyan",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "60"
+      },
+      {
+        "scheme": "website",
+        "url": "https://dccsalyan.gov.np/",
+        "value": "https://dccsalyan.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "district",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Salyan",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सल्यान",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/province/karnali",
+    "pictures": null,
+    "short_description": null,
+    "slug": "salyan",
+    "sub_type": "district",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:58.780619Z",
+      "entity_or_relationship_id": "entity:location/district/salyan",
+      "id": "version:entity:location/district/salyan:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

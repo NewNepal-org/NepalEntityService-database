@@ -1,0 +1,80 @@
+{
+  "area": 157.98,
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:55.706544Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "68"
+    },
+    {
+      "scheme": "website",
+      "url": "http://www.miklajungmunmorang.gov.np/",
+      "value": "http://www.miklajungmunmorang.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Miklajung Rural Municipality (Morang)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "मिक्लाजुङ गाउपालिका (मोरङ)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/morang",
+  "pictures": null,
+  "short_description": null,
+  "slug": "miklajung-rural-municipality-morang",
+  "sub_type": "rural_municipality",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:55.706542Z",
+    "entity_or_relationship_id": "entity:location/rural_municipality/miklajung-rural-municipality-morang",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

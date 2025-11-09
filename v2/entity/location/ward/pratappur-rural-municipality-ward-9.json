@@ -1,0 +1,69 @@
+{
+  "area": null,
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:58.076945Z",
+  "description": null,
+  "identifiers": null,
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "pratappur-rural-municipality - Ward 9",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "प्रतापपुर गाउपालिका वडा नं.– 9",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/rural_municipality/pratappur-rural-municipality",
+  "pictures": null,
+  "short_description": null,
+  "slug": "pratappur-rural-municipality-ward-9",
+  "sub_type": "ward",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:58.076943Z",
+    "entity_or_relationship_id": "entity:location/ward/pratappur-rural-municipality-ward-9",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

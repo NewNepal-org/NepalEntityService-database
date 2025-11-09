@@ -1,0 +1,80 @@
+{
+  "area": 32.84,
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:56.593023Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "220"
+    },
+    {
+      "scheme": "website",
+      "url": "http://www.sakhuwanankarkattimun.gov.np/",
+      "value": "http://www.sakhuwanankarkattimun.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "SakhuwanankarKatti Rural Municipality",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "सखुवानान्कारकट्टी गाउपालिका",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/siraha",
+  "pictures": null,
+  "short_description": null,
+  "slug": "sakhuwanankarkatti-rural-municipality",
+  "sub_type": "rural_municipality",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:56.593020Z",
+    "entity_or_relationship_id": "entity:location/rural_municipality/sakhuwanankarkatti-rural-municipality",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

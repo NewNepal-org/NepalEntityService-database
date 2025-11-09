@@ -1,0 +1,85 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:57.185870Z",
+  "entity_or_relationship_id": "entity:location/ward/lalitpur-metropolitan-city-ward-6",
+  "snapshot": {
+    "administrative_level": 4,
+    "area": null,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:57.185872Z",
+    "description": null,
+    "id": "entity:location/ward/lalitpur-metropolitan-city-ward-6",
+    "identifiers": null,
+    "lat": null,
+    "lng": null,
+    "location_type": "ward",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "lalitpur-metropolitan-city - Ward 6",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "ललितपुर महानगरपालिका वडा नं.– 6",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/metropolitan_city/lalitpur-metropolitan-city",
+    "pictures": null,
+    "short_description": null,
+    "slug": "lalitpur-metropolitan-city-ward-6",
+    "sub_type": "ward",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:57.185870Z",
+      "entity_or_relationship_id": "entity:location/ward/lalitpur-metropolitan-city-ward-6",
+      "id": "version:entity:location/ward/lalitpur-metropolitan-city-ward-6:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

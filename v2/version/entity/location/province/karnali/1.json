@@ -1,0 +1,107 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:58.720804Z",
+  "entity_or_relationship_id": "entity:location/province/karnali",
+  "snapshot": {
+    "administrative_level": 1,
+    "area": 30213.0,
+    "attributes": {
+      "headquarter": {
+        "en": {
+          "provenance": "imported",
+          "value": "Birendranagar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बिरेन्द्रनगर"
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:58.720807Z",
+    "description": null,
+    "id": "entity:location/province/karnali",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "6"
+      },
+      {
+        "scheme": "website",
+        "url": "https://karnali.gov.np/",
+        "value": "https://karnali.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "province",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Karnali",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "कर्णाली",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": null,
+    "pictures": null,
+    "short_description": null,
+    "slug": "karnali",
+    "sub_type": "province",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:58.720804Z",
+      "entity_or_relationship_id": "entity:location/province/karnali",
+      "id": "version:entity:location/province/karnali:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

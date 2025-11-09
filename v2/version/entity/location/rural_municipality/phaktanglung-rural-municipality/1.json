@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:55.941380Z",
+  "entity_or_relationship_id": "entity:location/rural_municipality/phaktanglung-rural-municipality",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 1858.51,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:55.941383Z",
+    "description": null,
+    "id": "entity:location/rural_municipality/phaktanglung-rural-municipality",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "121"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.phaktanglungmun.gov.np/",
+        "value": "http://www.phaktanglungmun.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "rural_municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Phaktanglung Rural Municipality",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "फक्ताङलुङ गाउपालिका",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/taplejung",
+    "pictures": null,
+    "short_description": null,
+    "slug": "phaktanglung-rural-municipality",
+    "sub_type": "rural_municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:55.941380Z",
+      "entity_or_relationship_id": "entity:location/rural_municipality/phaktanglung-rural-municipality",
+      "id": "version:entity:location/rural_municipality/phaktanglung-rural-municipality:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

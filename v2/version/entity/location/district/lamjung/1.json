@@ -1,0 +1,107 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:57.670347Z",
+  "entity_or_relationship_id": "entity:location/district/lamjung",
+  "snapshot": {
+    "administrative_level": 2,
+    "area": 1692.0,
+    "attributes": {
+      "headquarter": {
+        "en": {
+          "provenance": "imported",
+          "value": "Besisahar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बेशीसहर"
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:57.670350Z",
+    "description": null,
+    "id": "entity:location/district/lamjung",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "39"
+      },
+      {
+        "scheme": "website",
+        "url": "https://dcclamjung.gov.np/",
+        "value": "https://dcclamjung.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "district",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Lamjung",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "लमजुङ",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/province/gandaki",
+    "pictures": null,
+    "short_description": null,
+    "slug": "lamjung",
+    "sub_type": "district",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:57.670347Z",
+      "entity_or_relationship_id": "entity:location/district/lamjung",
+      "id": "version:entity:location/district/lamjung:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

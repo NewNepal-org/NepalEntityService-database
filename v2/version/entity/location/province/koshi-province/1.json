@@ -1,0 +1,107 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:55.368978Z",
+  "entity_or_relationship_id": "entity:location/province/koshi-province",
+  "snapshot": {
+    "administrative_level": 1,
+    "area": 25906.0,
+    "attributes": {
+      "headquarter": {
+        "en": {
+          "provenance": "imported",
+          "value": "Biratnagar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बिराटनगर"
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:55.369016Z",
+    "description": null,
+    "id": "entity:location/province/koshi-province",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "1"
+      },
+      {
+        "scheme": "website",
+        "url": "https://koshi.gov.np/",
+        "value": "https://koshi.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "province",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Koshi Province",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "प्रदेश न. १",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": null,
+    "pictures": null,
+    "short_description": null,
+    "slug": "koshi-province",
+    "sub_type": "province",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:55.368978Z",
+      "entity_or_relationship_id": "entity:location/province/koshi-province",
+      "id": "version:entity:location/province/koshi-province:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

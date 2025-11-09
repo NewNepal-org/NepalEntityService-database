@@ -1,0 +1,107 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:57.943534Z",
+  "entity_or_relationship_id": "entity:location/district/tanahun",
+  "snapshot": {
+    "administrative_level": 2,
+    "area": 1546.0,
+    "attributes": {
+      "headquarter": {
+        "en": {
+          "provenance": "imported",
+          "value": "Damauli"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दमौली"
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:57.943536Z",
+    "description": null,
+    "id": "entity:location/district/tanahun",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "46"
+      },
+      {
+        "scheme": "website",
+        "url": "https://dcctanahun.gov.np/",
+        "value": "https://dcctanahun.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "district",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Tanahun",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "तनहुँ",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/province/gandaki",
+    "pictures": null,
+    "short_description": null,
+    "slug": "tanahun",
+    "sub_type": "district",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:57.943534Z",
+      "entity_or_relationship_id": "entity:location/district/tanahun",
+      "id": "version:entity:location/district/tanahun:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

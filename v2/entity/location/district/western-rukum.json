@@ -1,0 +1,91 @@
+{
+  "area": 1213.49,
+  "attributes": {
+    "headquarter": {
+      "en": {
+        "provenance": "imported",
+        "value": "Musikot"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मुसिकोट"
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:58.721736Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "59"
+    },
+    {
+      "scheme": "website",
+      "url": "https://dccrukum.gov.np/",
+      "value": "https://dccrukum.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Western Rukum",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "रुकुम पश्चिम",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/province/karnali",
+  "pictures": null,
+  "short_description": null,
+  "slug": "western-rukum",
+  "sub_type": "district",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:58.721733Z",
+    "entity_or_relationship_id": "entity:location/district/western-rukum",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:56.090251Z",
+  "entity_or_relationship_id": "entity:location/ward/kalaiya-sub-metropolitan-city-ward-17",
+  "snapshot": {
+    "administrative_level": 4,
+    "area": null,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:56.090253Z",
+    "description": null,
+    "id": "entity:location/ward/kalaiya-sub-metropolitan-city-ward-17",
+    "identifiers": null,
+    "lat": null,
+    "lng": null,
+    "location_type": "ward",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "kalaiya-sub-metropolitan-city - Ward 17",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "कलैया उपमहानगरपालिका वडा नं.– 17",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/sub_metropolitan_city/kalaiya-sub-metropolitan-city",
+    "pictures": null,
+    "short_description": null,
+    "slug": "kalaiya-sub-metropolitan-city-ward-17",
+    "sub_type": "ward",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:56.090251Z",
+      "entity_or_relationship_id": "entity:location/ward/kalaiya-sub-metropolitan-city-ward-17",
+      "id": "version:entity:location/ward/kalaiya-sub-metropolitan-city-ward-17:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

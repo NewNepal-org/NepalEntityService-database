@@ -1,0 +1,107 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:55.918021Z",
+  "entity_or_relationship_id": "entity:location/district/taplejung",
+  "snapshot": {
+    "administrative_level": 2,
+    "area": 3646.0,
+    "attributes": {
+      "headquarter": {
+        "en": {
+          "provenance": "imported",
+          "value": "Taplejung"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "ताप्लेजुंग"
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:55.918023Z",
+    "description": null,
+    "id": "entity:location/district/taplejung",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "12"
+      },
+      {
+        "scheme": "website",
+        "url": "https://www.ddctaplejung.gov.np/",
+        "value": "https://www.ddctaplejung.gov.np"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "district",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Taplejung",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "ताप्लेजुंग",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/province/koshi-province",
+    "pictures": null,
+    "short_description": null,
+    "slug": "taplejung",
+    "sub_type": "district",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:55.918021Z",
+      "entity_or_relationship_id": "entity:location/district/taplejung",
+      "id": "version:entity:location/district/taplejung:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:55.446292Z",
+  "entity_or_relationship_id": "entity:location/municipality/pakhribas-municipality",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 144.29,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:55.446294Z",
+    "description": null,
+    "id": "entity:location/municipality/pakhribas-municipality",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "11"
+      },
+      {
+        "scheme": "website",
+        "url": "https://pakhribasmun.gov.np/",
+        "value": "https://pakhribasmun.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Pakhribas Municipality",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "पाख्रिबास नगरपालिका",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/dhankuta",
+    "pictures": null,
+    "short_description": null,
+    "slug": "pakhribas-municipality",
+    "sub_type": "municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:55.446292Z",
+      "entity_or_relationship_id": "entity:location/municipality/pakhribas-municipality",
+      "id": "version:entity:location/municipality/pakhribas-municipality:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

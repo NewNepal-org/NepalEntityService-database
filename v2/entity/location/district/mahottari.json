@@ -1,0 +1,91 @@
+{
+  "area": 1002.0,
+  "attributes": {
+    "headquarter": {
+      "en": {
+        "provenance": "imported",
+        "value": "Jaleshwar"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "जलेश्वर"
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:56.761386Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "22"
+    },
+    {
+      "scheme": "website",
+      "url": "https://dccmahottari.gov.np/",
+      "value": "https://dccmahottari.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Mahottari",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "महोत्तरी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/province/madhesh-province",
+  "pictures": null,
+  "short_description": null,
+  "slug": "mahottari",
+  "sub_type": "district",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:56.761384Z",
+    "entity_or_relationship_id": "entity:location/district/mahottari",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

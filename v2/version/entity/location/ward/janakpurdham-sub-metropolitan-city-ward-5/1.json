@@ -1,0 +1,85 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:56.603977Z",
+  "entity_or_relationship_id": "entity:location/ward/janakpurdham-sub-metropolitan-city-ward-5",
+  "snapshot": {
+    "administrative_level": 4,
+    "area": null,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:56.603979Z",
+    "description": null,
+    "id": "entity:location/ward/janakpurdham-sub-metropolitan-city-ward-5",
+    "identifiers": null,
+    "lat": null,
+    "lng": null,
+    "location_type": "ward",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "janakpurdham-sub-metropolitan-city - Ward 5",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "जनकपुरधाम उपमहानगरपालिका वडा नं.– 5",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/sub_metropolitan_city/janakpurdham-sub-metropolitan-city",
+    "pictures": null,
+    "short_description": null,
+    "slug": "janakpurdham-sub-metropolitan-city-ward-5",
+    "sub_type": "ward",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:56.603977Z",
+      "entity_or_relationship_id": "entity:location/ward/janakpurdham-sub-metropolitan-city-ward-5",
+      "id": "version:entity:location/ward/janakpurdham-sub-metropolitan-city-ward-5:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

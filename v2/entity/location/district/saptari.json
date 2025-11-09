@@ -1,0 +1,91 @@
+{
+  "area": 1363.0,
+  "attributes": {
+    "headquarter": {
+      "en": {
+        "provenance": "imported",
+        "value": "Rajbiraj"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "राजविराज"
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:56.682629Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "21"
+    },
+    {
+      "scheme": "website",
+      "url": "https://dccsaptari.gov.np/",
+      "value": "https://dccsaptari.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Saptari",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "सप्तरी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/province/madhesh-province",
+  "pictures": null,
+  "short_description": null,
+  "slug": "saptari",
+  "sub_type": "district",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:56.682627Z",
+    "entity_or_relationship_id": "entity:location/district/saptari",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "area": 2191.0,
+  "attributes": {
+    "headquarter": {
+      "en": {
+        "provenance": "imported",
+        "value": "Bhimeshwar"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "भिमेश्वर"
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "imported",
+          "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+        },
+        "ne": null
+      },
+      "title": {
+        "en": {
+          "provenance": "imported",
+          "value": "Sagar Gautam (GitHub)"
+        },
+        "ne": null
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-09T16:26:56.995640Z",
+  "description": null,
+  "identifiers": [
+    {
+      "scheme": "other",
+      "url": null,
+      "value": "26"
+    },
+    {
+      "scheme": "website",
+      "url": "https://dccdolakha.gov.np/",
+      "value": "https://dccdolakha.gov.np/"
+    }
+  ],
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Dolakha",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "दोलखा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/province/bagmati",
+  "pictures": null,
+  "short_description": null,
+  "slug": "dolakha",
+  "sub_type": "district",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-09T16:26:56.995638Z",
+    "entity_or_relationship_id": "entity:location/district/dolakha",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

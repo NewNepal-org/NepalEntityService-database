@@ -1,0 +1,107 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:57.512160Z",
+  "entity_or_relationship_id": "entity:location/province/gandaki",
+  "snapshot": {
+    "administrative_level": 1,
+    "area": 21856.0,
+    "attributes": {
+      "headquarter": {
+        "en": {
+          "provenance": "imported",
+          "value": "Pokhara"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पोखरा"
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:57.512162Z",
+    "description": null,
+    "id": "entity:location/province/gandaki",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "4"
+      },
+      {
+        "scheme": "website",
+        "url": "https://gandaki.gov.np/",
+        "value": "https://gandaki.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "province",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Gandaki",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "गण्डकी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": null,
+    "pictures": null,
+    "short_description": null,
+    "slug": "gandaki",
+    "sub_type": "province",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:57.512160Z",
+      "entity_or_relationship_id": "entity:location/province/gandaki",
+      "id": "version:entity:location/province/gandaki:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

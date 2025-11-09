@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:56.039113Z",
+  "entity_or_relationship_id": "entity:location/municipality/bahudarmai-municipality",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 31.55,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:56.039115Z",
+    "description": null,
+    "id": "entity:location/municipality/bahudarmai-municipality",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "139"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.bahudarmaimun.gov.np/",
+        "value": "http://www.bahudarmaimun.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Bahudarmai Municipality",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "बहुदरमाई नगरपालिका",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/parsa",
+    "pictures": null,
+    "short_description": null,
+    "slug": "bahudarmai-municipality",
+    "sub_type": "municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:56.039113Z",
+      "entity_or_relationship_id": "entity:location/municipality/bahudarmai-municipality",
+      "id": "version:entity:location/municipality/bahudarmai-municipality:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:59.802874Z",
+  "entity_or_relationship_id": "entity:location/municipality/godawari-municipality-kailali",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 308.63,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:59.802876Z",
+    "description": null,
+    "id": "entity:location/municipality/godawari-municipality-kailali",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "751"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.godawarimunkailali.gov.np/",
+        "value": "http://www.godawarimunkailali.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Godawari Municipality (Kailali)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "गोदावरी नगरपालिका (कैलाली)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/kailali",
+    "pictures": null,
+    "short_description": null,
+    "slug": "godawari-municipality-kailali",
+    "sub_type": "municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:59.802874Z",
+      "entity_or_relationship_id": "entity:location/municipality/godawari-municipality-kailali",
+      "id": "version:entity:location/municipality/godawari-municipality-kailali:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

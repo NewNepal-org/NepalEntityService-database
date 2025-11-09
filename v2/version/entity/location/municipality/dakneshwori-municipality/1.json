@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:56.687733Z",
+  "entity_or_relationship_id": "entity:location/municipality/dakneshwori-municipality",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 69.11,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:56.687735Z",
+    "description": null,
+    "id": "entity:location/municipality/dakneshwori-municipality",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "242"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.dakneshworimun.gov.np/",
+        "value": "http://www.dakneshworimun.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Dakneshwori Municipality",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "डाक्नेश्वरी नगरपालिका",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/saptari",
+    "pictures": null,
+    "short_description": null,
+    "slug": "dakneshwori-municipality",
+    "sub_type": "municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:56.687733Z",
+      "entity_or_relationship_id": "entity:location/municipality/dakneshwori-municipality",
+      "id": "version:entity:location/municipality/dakneshwori-municipality:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

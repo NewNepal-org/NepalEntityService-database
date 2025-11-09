@@ -1,0 +1,96 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-09T16:26:58.472398Z",
+  "entity_or_relationship_id": "entity:location/rural_municipality/madi-rural-municipality-rolpa",
+  "snapshot": {
+    "administrative_level": 3,
+    "area": 129.05,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:58.472401Z",
+    "description": null,
+    "id": "entity:location/rural_municipality/madi-rural-municipality-rolpa",
+    "identifiers": [
+      {
+        "scheme": "other",
+        "url": null,
+        "value": "565"
+      },
+      {
+        "scheme": "website",
+        "url": "http://www.madimunrolpa.gov.np/",
+        "value": "http://www.madimunrolpa.gov.np/"
+      }
+    ],
+    "lat": null,
+    "lng": null,
+    "location_type": "rural_municipality",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Madi Rural Municipality (Rolpa)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "माडी गाउपालिका (रोल्पा)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/rolpa",
+    "pictures": null,
+    "short_description": null,
+    "slug": "madi-rural-municipality-rolpa",
+    "sub_type": "rural_municipality",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-09T16:26:58.472398Z",
+      "entity_or_relationship_id": "entity:location/rural_municipality/madi-rural-municipality-rolpa",
+      "id": "version:entity:location/rural_municipality/madi-rural-municipality-rolpa:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}
