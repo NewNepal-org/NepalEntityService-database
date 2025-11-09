@@ -1,0 +1,11 @@
+Migration: 000-example-migration
+Executed at: 2025-11-09T06:01:02.503015
+Duration: 0.0s
+
+================================================================================
+Execution Logs:
+================================================================================
+
+Starting migration: Creating BP Koirala entity
+Created entity: bishweshwar-prasad-koirala
+Migration completed successfully

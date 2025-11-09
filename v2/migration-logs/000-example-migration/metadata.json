@@ -1,0 +1,16 @@
+{
+  "migration_name": "000-example-migration",
+  "author": "system@nepalentity.org",
+  "date": "2024-11-08T00:00:00",
+  "description": "Create initial example entity - BP Koirala",
+  "executed_at": "2025-11-09T06:01:02.502539",
+  "duration_seconds": 0.001981019973754883,
+  "status": "completed",
+  "changes": {
+    "entities_created": 1,
+    "relationships_created": 0,
+    "versions_created": 1,
+    "summary": "Created 1 entities, 0 relationships, and 1 versions",
+    "has_diff": true
+  }
+}

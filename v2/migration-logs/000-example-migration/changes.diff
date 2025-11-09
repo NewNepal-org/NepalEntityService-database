@@ -1,0 +1,176 @@
+diff --git a/v2/author/migration-000-example-migration.json b/v2/author/migration-000-example-migration.json
+new file mode 100644
+index 0000000..0000000
+--- /dev/null
++++ b/v2/author/migration-000-example-migration.json
+@@ -0,0 +1,4 @@
++{
++  "name": null,
++  "slug": "migration-000-example-migration"
++}
+
+diff --git a/v2/entity/person/bishweshwar-prasad-koirala.json b/v2/entity/person/bishweshwar-prasad-koirala.json
+new file mode 100644
+index 0000000..0000000
+--- /dev/null
++++ b/v2/entity/person/bishweshwar-prasad-koirala.json
+@@ -0,0 +1,69 @@
++{
++  "attributes": null,
++  "attributions": null,
++  "contacts": null,
++  "created_at": "2025-11-09T14:01:02.464510Z",
++  "description": null,
++  "electoral_details": null,
++  "identifiers": null,
++  "misspelled_names": null,
++  "names": [
++    {
++      "en": {
++        "family": "Koirala",
++        "full": "Bishweshwar Prasad Koirala",
++        "given": "Bishweshwar Prasad",
++        "middle": null,
++        "prefix": null,
++        "suffix": null
++      },
++      "kind": "PRIMARY",
++      "ne": {
++        "family": null,
++        "full": "विश्वेश्वर प्रसाद कोइराला",
++        "given": null,
++        "middle": null,
++        "prefix": null,
++        "suffix": null
++      }
++    },
++    {
++      "en": {
++        "family": null,
++        "full": "BP Koirala",
++        "given": null,
++        "middle": null,
++        "prefix": null,
++        "suffix": null
++      },
++      "kind": "ALIAS",
++      "ne": {
++        "family": null,
++        "full": "बी पी कोइराला",
++        "given": null,
++        "middle": null,
++        "prefix": null,
++        "suffix": null
++      }
++    }
++  ],
++  "personal_details": null,
++  "pictures": null,
++  "short_description": null,
++  "slug": "bishweshwar-prasad-koirala",
++  "sub_type": null,
++  "tags": null,
++  "type": "person",
++  "version_summary": {
++    "author": {
++      "id": "author:migration-000-example-migration",
++      "name": null,
++      "slug": "migration-000-example-migration"
++    },
++    "change_description": "Initial migration: Create BP Koirala entity",
++    "created_at": "2025-11-09T14:01:02.464322Z",
++    "entity_or_relationship_id": "entity:person/bishweshwar-prasad-koirala",
++    "type": "ENTITY",
++    "version_number": 1
++  }
++}
+
+diff --git a/v2/version/entity/person/bishweshwar-prasad-koirala/1.json b/v2/version/entity/person/bishweshwar-prasad-koirala/1.json
+new file mode 100644
+index 0000000..0000000
+--- /dev/null
++++ b/v2/version/entity/person/bishweshwar-prasad-koirala/1.json
+@@ -0,0 +1,83 @@
++{
++  "author": {
++    "id": "author:migration-000-example-migration",
++    "name": null,
++    "slug": "migration-000-example-migration"
++  },
++  "change_description": "Initial migration: Create BP Koirala entity",
++  "created_at": "2025-11-09T14:01:02.464322Z",
++  "entity_or_relationship_id": "entity:person/bishweshwar-prasad-koirala",
++  "snapshot": {
++    "attributes": null,
++    "attributions": null,
++    "contacts": null,
++    "created_at": "2025-11-09T14:01:02.464510Z",
++    "description": null,
++    "electoral_details": null,
++    "id": "entity:person/bishweshwar-prasad-koirala",
++    "identifiers": null,
++    "misspelled_names": null,
++    "names": [
++      {
++        "en": {
++          "family": "Koirala",
++          "full": "Bishweshwar Prasad Koirala",
++          "given": "Bishweshwar Prasad",
++          "middle": null,
++          "prefix": null,
++          "suffix": null
++        },
++        "kind": "PRIMARY",
++        "ne": {
++          "family": null,
++          "full": "विश्वेश्वर प्रसाद कोइराला",
++          "given": null,
++          "middle": null,
++          "prefix": null,
++          "suffix": null
++        }
++      },
++      {
++        "en": {
++          "family": null,
++          "full": "BP Koirala",
++          "given": null,
++          "middle": null,
++          "prefix": null,
++          "suffix": null
++        },
++        "kind": "ALIAS",
++        "ne": {
++          "family": null,
++          "full": "बी पी कोइराला",
++          "given": null,
++          "middle": null,
++          "prefix": null,
++          "suffix": null
++        }
++      }
++    ],
++    "personal_details": null,
++    "pictures": null,
++    "short_description": null,
++    "slug": "bishweshwar-prasad-koirala",
++    "sub_type": null,
++    "tags": null,
++    "type": "person",
++    "version_summary": {
++      "author": {
++        "id": "author:migration-000-example-migration",
++        "name": null,
++        "slug": "migration-000-example-migration"
++      },
++      "change_description": "Initial migration: Create BP Koirala entity",
++      "created_at": "2025-11-09T14:01:02.464322Z",
++      "entity_or_relationship_id": "entity:person/bishweshwar-prasad-koirala",
++      "id": "version:entity:person/bishweshwar-prasad-koirala:1",
++      "type": "ENTITY",
++      "version_number": 1
++    }
++  },
++  "type": "ENTITY",
++  "version_number": 1
++}
