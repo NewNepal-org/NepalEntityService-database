@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "rajbiraj-municipality - Ward 15",
+        "full": "Rajbiraj Municipality - Ward 15",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:56.731348Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:43.838924Z",
     "entity_or_relationship_id": "entity:location/ward/rajbiraj-municipality-ward-15",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

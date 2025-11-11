@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "khandachakra-municipality - Ward 3",
+        "full": "Khandachakra Municipality - Ward 3",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:58.999324Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:42.980241Z",
     "entity_or_relationship_id": "entity:location/ward/khandachakra-municipality-ward-3",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

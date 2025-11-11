@@ -1,0 +1,85 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Fix ward name",
+  "created_at": "2025-11-11T22:47:45.108705Z",
+  "entity_or_relationship_id": "entity:location/ward/madi-rural-municipality-kaski-ward-11",
+  "snapshot": {
+    "administrative_level": 4,
+    "area": null,
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "imported",
+            "value": "https://github.com/sagautam5/local-states-nepal (imported 2025-11-09)"
+          },
+          "ne": null
+        },
+        "title": {
+          "en": {
+            "provenance": "imported",
+            "value": "Sagar Gautam (GitHub)"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-09T16:26:57.663613Z",
+    "description": null,
+    "id": "entity:location/ward/madi-rural-municipality-kaski-ward-11",
+    "identifiers": null,
+    "lat": null,
+    "lng": null,
+    "location_type": "ward",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Madi Rural Municipality (Kaski) - Ward 11",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "मादी गाउपालिका वडा नं.– 11",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/rural_municipality/madi-rural-municipality-kaski",
+    "pictures": null,
+    "short_description": null,
+    "slug": "madi-rural-municipality-kaski-ward-11",
+    "sub_type": "ward",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Fix ward name",
+      "created_at": "2025-11-11T22:47:45.108705Z",
+      "entity_or_relationship_id": "entity:location/ward/madi-rural-municipality-kaski-ward-11",
+      "id": "version:entity:location/ward/madi-rural-municipality-kaski-ward-11:2",
+      "type": "ENTITY",
+      "version_number": 2
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 2
+}

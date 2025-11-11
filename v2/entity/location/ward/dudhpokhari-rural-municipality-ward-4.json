@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "dudhpokhari-rural-municipality - Ward 4",
+        "full": "Dudhpokhari Rural Municipality - Ward 4",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:57.705575Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:45.523694Z",
     "entity_or_relationship_id": "entity:location/ward/dudhpokhari-rural-municipality-ward-4",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

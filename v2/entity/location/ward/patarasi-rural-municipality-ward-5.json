@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "patarasi-rural-municipality - Ward 5",
+        "full": "Patarasi Rural Municipality - Ward 5",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:58.962083Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:43.242794Z",
     "entity_or_relationship_id": "entity:location/ward/patarasi-rural-municipality-ward-5",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

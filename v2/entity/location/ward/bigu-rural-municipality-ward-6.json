@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "bigu-rural-municipality - Ward 6",
+        "full": "Bigu Rural Municipality - Ward 6",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:57.021308Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:43.575020Z",
     "entity_or_relationship_id": "entity:location/ward/bigu-rural-municipality-ward-6",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

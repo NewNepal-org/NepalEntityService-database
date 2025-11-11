@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "sahid-lakhan-rural-municipality - Ward 1",
+        "full": "Sahid Lakhan Rural Municipality - Ward 1",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:57.594422Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:43.026853Z",
     "entity_or_relationship_id": "entity:location/ward/sahid-lakhan-rural-municipality-ward-1",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

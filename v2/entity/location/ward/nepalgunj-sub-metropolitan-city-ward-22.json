@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "nepalgunj-sub-metropolitan-city - Ward 22",
+        "full": "Nepalgunj Sub-Metropolitan City - Ward 22",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:58.539056Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:44.611851Z",
     "entity_or_relationship_id": "entity:location/ward/nepalgunj-sub-metropolitan-city-ward-22",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

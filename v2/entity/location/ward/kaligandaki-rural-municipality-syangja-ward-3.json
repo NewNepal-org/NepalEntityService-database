@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "kaligandaki-rural-municipality-syangja - Ward 3",
+        "full": "Kaligandaki Rural Municipality (Syangja) - Ward 3",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:57.931286Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:46.015725Z",
     "entity_or_relationship_id": "entity:location/ward/kaligandaki-rural-municipality-syangja-ward-3",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

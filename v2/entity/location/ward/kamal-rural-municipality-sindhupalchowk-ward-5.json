@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "kamal-rural-municipality-sindhupalchowk - Ward 5",
+        "full": "Kamal Rural Municipality (Sindhupalchowk) - Ward 5",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:55.566625Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:43.533655Z",
     "entity_or_relationship_id": "entity:location/ward/kamal-rural-municipality-sindhupalchowk-ward-5",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

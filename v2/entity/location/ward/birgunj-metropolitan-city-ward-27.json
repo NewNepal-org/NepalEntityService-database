@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "birgunj-metropolitan-city - Ward 27",
+        "full": "Birgunj Metropolitan City - Ward 27",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:56.036612Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:42.758398Z",
     "entity_or_relationship_id": "entity:location/ward/birgunj-metropolitan-city-ward-27",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

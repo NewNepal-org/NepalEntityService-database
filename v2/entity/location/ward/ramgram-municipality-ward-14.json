@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "ramgram-municipality - Ward 14",
+        "full": "Ramgram Municipality - Ward 14",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:58.056326Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:42.463820Z",
     "entity_or_relationship_id": "entity:location/ward/ramgram-municipality-ward-14",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

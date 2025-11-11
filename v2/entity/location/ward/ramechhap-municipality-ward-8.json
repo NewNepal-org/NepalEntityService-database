@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "ramechhap-municipality - Ward 8",
+        "full": "Ramechhap Municipality - Ward 8",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:57.329459Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:44.397212Z",
     "entity_or_relationship_id": "entity:location/ward/ramechhap-municipality-ward-8",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

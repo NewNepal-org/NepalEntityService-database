@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "tara-khola-rural-municipality - Ward 4",
+        "full": "Tara Khola Rural Municipality - Ward 4",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:57.547733Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:44.054252Z",
     "entity_or_relationship_id": "entity:location/ward/tara-khola-rural-municipality-ward-4",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

@@ -30,7 +30,7 @@
     {
       "en": {
         "family": null,
-        "full": "amargadhi-municipality - Ward 1",
+        "full": "Amargadhi Municipality - Ward 1",
         "given": null,
         "middle": null,
         "prefix": null,
@@ -60,10 +60,10 @@
       "name": "Damodar Dahal",
       "slug": "damodar-dahal"
     },
-    "change_description": "Initial sourcing",
-    "created_at": "2025-11-09T16:26:59.661618Z",
+    "change_description": "Fix ward name",
+    "created_at": "2025-11-11T22:47:46.045620Z",
     "entity_or_relationship_id": "entity:location/ward/amargadhi-municipality-ward-1",
     "type": "ENTITY",
-    "version_number": 1
+    "version_number": 2
   }
 }

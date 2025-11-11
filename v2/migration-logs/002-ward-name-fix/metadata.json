@@ -1,0 +1,16 @@
+{
+  "migration_name": "002-ward-name-fix",
+  "author": "Damodar Dahal",
+  "date": "2025-11-11T00:00:00",
+  "description": "[TODO: Describe what this migration does]",
+  "executed_at": "2025-11-11T14:47:49.056966",
+  "duration_seconds": 4.279017925262451,
+  "status": "completed",
+  "changes": {
+    "entities_created": 0,
+    "relationships_created": 0,
+    "versions_created": 6743,
+    "summary": "Created 0 entities, 0 relationships, and 6743 versions",
+    "has_diff": true
+  }
+}
