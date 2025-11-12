@@ -1,0 +1,139 @@
+{
+  "address": {
+    "description": "Kalanki, Kathmandu / कलंकी, काठमाडौँ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779851067379"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779841698655"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9774487721"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.644125Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "100"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Janasamajbadi Party, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "जनसमाजवादी पार्टी, नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    },
+    {
+      "en": null,
+      "kind": "ALTERNATE",
+      "ne": {
+        "family": null,
+        "full": "जनसमाजवादी पार्टी नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairperson: Subasraj Kafle"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षाः सुवासराज काफ्ले"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2016-12-15",
+  "short_description": null,
+  "slug": "janasamajbadi-party-nepal",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Red five-pointed star on a white background"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सेतो पृष्ठभुमिमा रातो पाँच कुने तारा"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.644123Z",
+    "entity_or_relationship_id": "entity:organization/political_party/janasamajbadi-party-nepal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

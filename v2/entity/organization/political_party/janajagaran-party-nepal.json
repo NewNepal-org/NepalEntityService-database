@@ -1,0 +1,127 @@
+{
+  "address": {
+    "description": "Lalitpur Metropolitan City-7, Gwarko Chowk, Lalitpur / ललितपुर महानगरपालिका-७, ग्वार्को चोक, ललितपुर",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779864153995"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779843575281"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779813623072"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.641508Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "85"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Janajagaran Party Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "जनजागरण पार्टी नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "President: Dr. Bishnu Prasad Khanal"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः डा. विष्णु प्रसाद खनाल"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2016-12-15",
+  "short_description": null,
+  "slug": "janajagaran-party-nepal",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Torchlight"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "टर्चलाइट"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.641506Z",
+    "entity_or_relationship_id": "entity:organization/political_party/janajagaran-party-nepal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

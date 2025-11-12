@@ -1,0 +1,137 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.669487Z",
+  "entity_or_relationship_id": "entity:organization/political_party/nepal-socialist-party-naya-shakti",
+  "snapshot": {
+    "address": {
+      "description": "Kathmandu Metropolitan City-32, Subidhanagar, Kathmandu / काठमाडौं महानगरपालिका-३२, सुविधानगर, काठमाडौ",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779808213630"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779851176660"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.669489Z",
+    "description": null,
+    "id": "entity:organization/political_party/nepal-socialist-party-naya-shakti",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "182"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Socialist Party (naya Shakti)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नेपाल समाजवादी पार्टी (नयाँ शक्ति)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: Baburam Bhattarai"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः बाबुराम भट्टराई"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2022-02-17",
+    "short_description": null,
+    "slug": "nepal-socialist-party-naya-shakti",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "One open eye"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "खुलेको एक आँखा"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.669487Z",
+      "entity_or_relationship_id": "entity:organization/political_party/nepal-socialist-party-naya-shakti",
+      "id": "version:entity:organization/political_party/nepal-socialist-party-naya-shakti:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

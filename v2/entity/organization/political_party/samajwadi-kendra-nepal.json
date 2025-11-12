@@ -1,0 +1,123 @@
+{
+  "address": {
+    "description": "Kathmandu Metropolitan City-31, Kathmandu / काठमाडौं महानगरपालिका-३१, काठमाडौं",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779849777092"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779851324357"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.663302Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "169"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Samajwadi Kendra, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "समाजवादी केन्द्र, नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairman: Yubraj Paudel"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः युबराज पौडेल"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2021-09-08",
+  "short_description": null,
+  "slug": "samajwadi-kendra-nepal",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Dancing Peacock"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "नाच्दै गरेको मयुर"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.663299Z",
+    "entity_or_relationship_id": "entity:organization/political_party/samajwadi-kendra-nepal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

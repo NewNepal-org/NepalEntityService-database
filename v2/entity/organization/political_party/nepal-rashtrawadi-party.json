@@ -1,0 +1,108 @@
+{
+  "address": {
+    "description": "Kathmandu Metropolitan City-15, Swayambhu / काठमाडौं महानगरपालिका-१५, स्वयम्भ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779813102391"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.626173Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "27"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Rashtrawadi Party",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपाल राष्ट्रवादी पार्टी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "President: Dorje Lama"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः दोर्जे लामा"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2016-12-15",
+  "short_description": null,
+  "slug": "nepal-rashtrawadi-party",
+  "sub_type": "political_party",
+  "symbol": null,
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.626170Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepal-rashtrawadi-party",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

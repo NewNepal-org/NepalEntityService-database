@@ -1,0 +1,141 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.674369Z",
+  "entity_or_relationship_id": "entity:organization/political_party/jai-janmabhumi-party-nepal",
+  "snapshot": {
+    "address": {
+      "description": "Nagarjun Municipality-1, Kathmandu / नागार्जुन नगरपालिका-१, काठमाडौ",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779857032149"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779846097260"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779851089581"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.674371Z",
+    "description": null,
+    "id": "entity:organization/political_party/jai-janmabhumi-party-nepal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "192"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Jai Janmabhumi Party Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "जय जन्मभूमि पार्टी नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: Dhan Bahadur Wapa"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः धन बहादुर वापा"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2023-02-26",
+    "short_description": null,
+    "slug": "jai-janmabhumi-party-nepal",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Chhatre Topi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "छत्रे टोपी"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.674369Z",
+      "entity_or_relationship_id": "entity:organization/political_party/jai-janmabhumi-party-nepal",
+      "id": "version:entity:organization/political_party/jai-janmabhumi-party-nepal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

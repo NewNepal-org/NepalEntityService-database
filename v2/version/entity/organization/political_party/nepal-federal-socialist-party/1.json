@@ -1,0 +1,137 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.648064Z",
+  "entity_or_relationship_id": "entity:organization/political_party/nepal-federal-socialist-party",
+  "snapshot": {
+    "address": {
+      "description": "Bijuli Bazar, Kathmandu / विजुली बजार, काठमाडौ",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779851244086"
+      },
+      {
+        "type": "PHONE",
+        "value": "+97714786262"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.648066Z",
+    "description": null,
+    "id": "entity:organization/political_party/nepal-federal-socialist-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "122"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Federal Socialist Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नेपाल संघीय समाजवादी पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: Md. Rizwan Ansari"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः मो. रिजवान अन्सारी"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2017-03-14",
+    "short_description": null,
+    "slug": "nepal-federal-socialist-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bus"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बस"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.648064Z",
+      "entity_or_relationship_id": "entity:organization/political_party/nepal-federal-socialist-party",
+      "id": "version:entity:organization/political_party/nepal-federal-socialist-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,123 @@
+{
+  "address": {
+    "description": "Gaushala, Kathmandu / गौशाला, काठमाडौ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779865226925"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779860036790"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.655628Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "153"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Maoist Communist Party, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "माओवादी कम्युनिष्ट पार्टी, नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "General Secretary: Ram Narayan Prasad Pat"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "महासचिवः राम नारायण प्रसाद पात"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2019-09-01",
+  "short_description": null,
+  "slug": "maoist-communist-party-nepal",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Farmer plowing a field"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "हलो जोतिरहेको किसान"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.655626Z",
+    "entity_or_relationship_id": "entity:organization/political_party/maoist-communist-party-nepal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

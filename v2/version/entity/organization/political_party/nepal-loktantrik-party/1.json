@@ -1,0 +1,141 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.653204Z",
+  "entity_or_relationship_id": "entity:organization/political_party/nepal-loktantrik-party",
+  "snapshot": {
+    "address": {
+      "description": "Gyaneshwor, Kathmandu / ज्ञानेश्वर, काठमाडौ",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779841396967"
+      },
+      {
+        "type": "PHONE",
+        "value": "+977159108112"
+      },
+      {
+        "type": "PHONE",
+        "value": "+977159108113"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.653206Z",
+    "description": null,
+    "id": "entity:organization/political_party/nepal-loktantrik-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "146"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepal Loktantrik Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नेपाल लोकतान्त्रिक पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairperson: Geeta Chhetri"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः गीता क्षेत्री"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2018-08-16",
+    "short_description": null,
+    "slug": "nepal-loktantrik-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Namaskar with two folded hands"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दुई हात जोडेको नमस्कार"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.653204Z",
+      "entity_or_relationship_id": "entity:organization/political_party/nepal-loktantrik-party",
+      "id": "version:entity:organization/political_party/nepal-loktantrik-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

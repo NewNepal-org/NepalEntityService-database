@@ -1,0 +1,127 @@
+{
+  "address": {
+    "description": "Kathmandu Metropolitan City-1, Bhagwati Bahal, Naxal, Kathmandu / काठमाडौं महानगरपालिका-१, भगवती बहाल, नक्साल, काठमाडौ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97714510568"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779841783269"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779849362518"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.622780Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "19"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Family Party",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपाल परिवार दल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairman: Eknath Dhakal"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः एकनाथ ढकाल"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2016-12-15",
+  "short_description": null,
+  "slug": "nepal-family-party",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Key"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "साँचो"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.622778Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepal-family-party",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

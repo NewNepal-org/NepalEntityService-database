@@ -1,0 +1,145 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.666388Z",
+  "entity_or_relationship_id": "entity:organization/political_party/terai-madhesh-loktantrik-party",
+  "snapshot": {
+    "address": {
+      "description": "Janakpur Sub-Metropolitan City, Janakpur, Dhanusha / जनकपुर उपमहानगरपालिका, जनकपुर, धनुषा",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779844028706"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.666391Z",
+    "description": null,
+    "id": "entity:organization/political_party/terai-madhesh-loktantrik-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "175"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Terai-madhesh Loktantrik Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "तराई-मधेश लोकतान्त्रिक पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "तराइ-मधेश लोकतान्त्रिक पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Ravi Shankarkumar Karna"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "रवि शंकरकुमार कर्ण"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2021-11-25",
+    "short_description": null,
+    "slug": "terai-madhesh-loktantrik-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Mango kalash on a gagro (water pot) decorated with folk art and a coconut on top"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "लोककला कोरिएको गाग्रोमा आँपको कलश र त्यस माधि नरिवल"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.666388Z",
+      "entity_or_relationship_id": "entity:organization/political_party/terai-madhesh-loktantrik-party",
+      "id": "version:entity:organization/political_party/terai-madhesh-loktantrik-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

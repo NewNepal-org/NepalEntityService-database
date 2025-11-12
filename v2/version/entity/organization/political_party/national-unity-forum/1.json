@@ -1,0 +1,133 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.641032Z",
+  "entity_or_relationship_id": "entity:organization/political_party/national-unity-forum",
+  "snapshot": {
+    "address": {
+      "description": "Yarahiti Wabuchhiri Marg, Balaju / यराहिटी वाबुछिरी मार्ग, बालाजु",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779851058980"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.641035Z",
+    "description": null,
+    "id": "entity:organization/political_party/national-unity-forum",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "84"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "National Unity Forum",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "राष्ट्रिय एकता मच",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: Bijendra Lal Joshi"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः विजेन्द्र लाल जोशी"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2016-12-15",
+    "short_description": null,
+    "slug": "national-unity-forum",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ring"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "औठी"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.641032Z",
+      "entity_or_relationship_id": "entity:organization/political_party/national-unity-forum",
+      "id": "version:entity:organization/political_party/national-unity-forum:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

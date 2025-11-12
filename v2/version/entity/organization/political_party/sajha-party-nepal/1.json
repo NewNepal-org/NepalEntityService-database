@@ -1,0 +1,149 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.669985Z",
+  "entity_or_relationship_id": "entity:organization/political_party/sajha-party-nepal",
+  "snapshot": {
+    "address": {
+      "description": "Kathmandu Metropolitan City-29, Kathmandu / काठमाडौं महानगरपालिका-२९, काठमाडौ",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779841781196"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779865936744"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.669988Z",
+    "description": null,
+    "id": "entity:organization/political_party/sajha-party-nepal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "183"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sajha Party, Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "साझा पार्टी, नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "साझा पार्टी नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Prabhas Basnyat"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "प्रभाष वस्न्यात"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2022-02-16",
+    "short_description": null,
+    "slug": "sajha-party-nepal",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Two footprints"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दुइ वटा पैताला छाप"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.669985Z",
+      "entity_or_relationship_id": "entity:organization/political_party/sajha-party-nepal",
+      "id": "version:entity:organization/political_party/sajha-party-nepal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

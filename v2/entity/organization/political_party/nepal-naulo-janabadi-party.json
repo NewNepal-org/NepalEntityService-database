@@ -1,0 +1,119 @@
+{
+  "address": {
+    "description": "Lalitpur Metropolitan City-9, Balkumari, Lalitpur / ललितपुर महामनगरपालिका-९, बालकुमारी, ललितपुर",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779843145255"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.624512Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "22"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Naulo Janabadi Party",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपाल नौलो जनवादी पार्टी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairman: Dr. Ganga Lal Shrestha"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः डा. गंगा लाल श्रेष्ठ"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2016-12-15",
+  "short_description": null,
+  "slug": "nepal-naulo-janabadi-party",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "A pigeon about to fly with a letter in its beak"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "चुच्चोले चिट्टी बोकेर उड्न लागेको परेवा"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.624509Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepal-naulo-janabadi-party",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

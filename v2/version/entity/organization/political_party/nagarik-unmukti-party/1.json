@@ -1,0 +1,137 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.669009Z",
+  "entity_or_relationship_id": "entity:organization/political_party/nagarik-unmukti-party",
+  "snapshot": {
+    "address": {
+      "description": "Dillibazar, Kathmandu / डिल्लीबजार, काठमाडौं",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779851249954"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779851153561"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.669012Z",
+    "description": null,
+    "id": "entity:organization/political_party/nagarik-unmukti-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "181"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nagarik Unmukti Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नागरिक उन्मुक्ति पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "President: Ranjita Shrestha"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः रन्जिता श्रेष्ठ"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2022-02-15",
+    "short_description": null,
+    "slug": "nagarik-unmukti-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Plain Dhakiya with a base"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पिंध भएको सादा ढकिया"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.669009Z",
+      "entity_or_relationship_id": "entity:organization/political_party/nagarik-unmukti-party",
+      "id": "version:entity:organization/political_party/nagarik-unmukti-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

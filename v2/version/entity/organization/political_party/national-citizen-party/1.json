@@ -1,0 +1,141 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.643135Z",
+  "entity_or_relationship_id": "entity:organization/political_party/national-citizen-party",
+  "snapshot": {
+    "address": {
+      "description": "Nagargun Municipality-4, Khopatol, Kathmandu / नागार्जुन नगरपालिका-४, खोपाटोल, काठमाडौं",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779851079047"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779851316037"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779841215913"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.643138Z",
+    "description": null,
+    "id": "entity:organization/political_party/national-citizen-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "97"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "National Citizen Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "राष्ट्रिय नागरिक पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: Shukra Bahadur Gurung"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः शुक्र बहादुर गुरुङ"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2016-12-15",
+    "short_description": null,
+    "slug": "national-citizen-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Tea"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "चहा"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.643135Z",
+      "entity_or_relationship_id": "entity:organization/political_party/national-citizen-party",
+      "id": "version:entity:organization/political_party/national-citizen-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

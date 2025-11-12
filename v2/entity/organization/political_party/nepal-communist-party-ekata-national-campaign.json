@@ -1,0 +1,123 @@
+{
+  "address": {
+    "description": "Lalitpur Metropolitan City-25, Saibu Awas Kshetra, Bhaisepati, Lalitpur / ललितपुर महानगरपालिका-२५, सैबु आवास क्षेत्र भैसीपाटी, ललितपुर",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779869133681"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779851120538"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.673424Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "190"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Communist Party Ekata National Campaign",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपाल कम्युनिष्ट पार्टी एकता राष्ट्रिय अभियान",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Coordinator: Bamdev Gautam"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "संयोजकः वामदेव गौतम"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2022-07-28",
+  "short_description": null,
+  "slug": "nepal-communist-party-ekata-national-campaign",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Three ears of paddy bent inside a semicircle with two lines"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "दुई रेखा भएको अर्ध गोलाकार भित्र झुकेका धानका तीन बाला"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.673422Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepal-communist-party-ekata-national-campaign",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

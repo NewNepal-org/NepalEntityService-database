@@ -1,0 +1,149 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.659495Z",
+  "entity_or_relationship_id": "entity:organization/political_party/sachet-nepali-party",
+  "snapshot": {
+    "address": {
+      "description": "Bagbazar, Kathmandu / बागबजार, काठमाडौ",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779851012513"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779841452602"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.659498Z",
+    "description": null,
+    "id": "entity:organization/political_party/sachet-nepali-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "161"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sachet Nepali Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सचेत नेपाली पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "सचेत नेपाली पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Coordinator: Pushya Prasad Prasai"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "संयोजकः पुष्य प्रसाद प्रसाई"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2021-01-22",
+    "short_description": null,
+    "slug": "sachet-nepali-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Male lion with a mane on its shoulder"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "काँधमा जगर भएको भाले सिंह"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.659495Z",
+      "entity_or_relationship_id": "entity:organization/political_party/sachet-nepali-party",
+      "id": "version:entity:organization/political_party/sachet-nepali-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

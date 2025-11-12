@@ -1,0 +1,127 @@
+{
+  "address": {
+    "description": "Chappal Karkhana, Kathmandu / चप्पल कारखाना, काठमाडौ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97714379264"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779851100334"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779847371978"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.649464Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "130"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepali For Nepal Party",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपालका लागि नेपाली पार्टी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "President: Balkrishna Neupane"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः बालकृष्ण न्यौपाने"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2017-07-12",
+  "short_description": null,
+  "slug": "nepali-for-nepal-party",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Bull inside a circle"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गोलाकार भित्र शंड"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.649462Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepali-for-nepal-party",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

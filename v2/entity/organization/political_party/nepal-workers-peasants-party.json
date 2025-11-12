@@ -1,0 +1,131 @@
+{
+  "address": {
+    "description": "Bhaktapur Municipality-7, Golmadhi, Bhaktapur / भक्तपुर नगरपालिका-७, गोल्मढी, भक्तपुर",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779851081379"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779851078885"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9776610974"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9776610026"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.615309Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "1"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Workers Peasants Party",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपाल मजदुर किसान पार्टी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Narayan Man Bijukchhe"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "नारायणमान विजुक्छे"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2016-12-15",
+  "short_description": null,
+  "slug": "nepal-workers-peasants-party",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Madal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मादल"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.615209Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepal-workers-peasants-party",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

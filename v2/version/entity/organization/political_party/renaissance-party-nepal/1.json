@@ -1,0 +1,145 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.672930Z",
+  "entity_or_relationship_id": "entity:organization/political_party/renaissance-party-nepal",
+  "snapshot": {
+    "address": {
+      "description": "Kathmandu Metropolitan City-7, Chabahil, Kathmandu / काठमाडौं महानगरपालिका-७, चावहिल, काठमाडौं",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779851007413"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.672932Z",
+    "description": null,
+    "id": "entity:organization/political_party/renaissance-party-nepal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "189"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Renaissance Party, Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "पुनर्जागरण पार्टी, नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "पुनर्जागरण पार्टी नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "President: Shyam Chabu Gautam"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः श्याम चाबु गौतम"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2022-07-28",
+    "short_description": null,
+    "slug": "renaissance-party-nepal",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Burning Candle"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बलिरहेको मैनबत्ती"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.672930Z",
+      "entity_or_relationship_id": "entity:organization/political_party/renaissance-party-nepal",
+      "id": "version:entity:organization/political_party/renaissance-party-nepal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,123 @@
+{
+  "address": {
+    "description": "Lalitpur Metropolitan City-2, Sanepa, Lalitpur / ललितपुर महानगरपालिका-२, सानेपा, ललितपुर",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779851112324"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779841100244"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.672466Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "188"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Hamro Nepali Party",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "हाम्रो नेपाली पार्टी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairman: Anantaraj Ghimire"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः अनन्तराज घिमिरे"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2022-07-13",
+  "short_description": null,
+  "slug": "hamro-nepali-party",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Stick"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "लौरो"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.672464Z",
+    "entity_or_relationship_id": "entity:organization/political_party/hamro-nepali-party",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

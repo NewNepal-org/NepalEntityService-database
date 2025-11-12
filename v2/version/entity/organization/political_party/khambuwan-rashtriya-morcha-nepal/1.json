@@ -1,0 +1,161 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.632260Z",
+  "entity_or_relationship_id": "entity:organization/political_party/khambuwan-rashtriya-morcha-nepal",
+  "snapshot": {
+    "address": {
+      "description": "Dharan Sub-Metropolitan City-11, Sunsari / धरान उपमहानगरपालिका-११, सुनसरी",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779851161936"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779742014334"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779819030166"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779741214711"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779841081697"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.632262Z",
+    "description": null,
+    "id": "entity:organization/political_party/khambuwan-rashtriya-morcha-nepal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "48"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Khambuwan Rashtriya Morcha, Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "खम्बुवान राष्ट्रिय मोर्चा, नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "खम्बुवान राष्ट्रिय मोर्चा नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: Ram Kumar Rai"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः रामकुमार राई"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2016-12-15",
+    "short_description": null,
+    "slug": "khambuwan-rashtriya-morcha-nepal",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Hammer"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "हथौडा"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.632260Z",
+      "entity_or_relationship_id": "entity:organization/political_party/khambuwan-rashtriya-morcha-nepal",
+      "id": "version:entity:organization/political_party/khambuwan-rashtriya-morcha-nepal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

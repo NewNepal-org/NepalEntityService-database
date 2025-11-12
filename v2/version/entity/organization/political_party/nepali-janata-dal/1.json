@@ -1,0 +1,137 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.636179Z",
+  "entity_or_relationship_id": "entity:organization/political_party/nepali-janata-dal",
+  "snapshot": {
+    "address": {
+      "description": "Kathmandu Metropolitan City-29, 86/25 Sangamgalli, Kathmandu / काठमाडौं महानगरपालिका-२९, ८६/२५ संगमगल्ली, काठमाडौं",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779851050250"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779801050250"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.636181Z",
+    "description": null,
+    "id": "entity:organization/political_party/nepali-janata-dal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "63"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Nepali Janata Dal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नेपाली जनता दल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: Haricharan Shah"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः हरिचरण शाह"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2016-12-15",
+    "short_description": null,
+    "slug": "nepali-janata-dal",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bullock Cart Wheel (Padyo)"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "गोरू गाडाको चक्का (पाड्यो)"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.636179Z",
+      "entity_or_relationship_id": "entity:organization/political_party/nepali-janata-dal",
+      "id": "version:entity:organization/political_party/nepali-janata-dal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,119 @@
+{
+  "address": {
+    "description": "Kathmandu Metropolitan City-29, Kathmandu / काठमाडौं महानगरपालिका-२९, काठमाडौ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779849700123"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.670556Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "184"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Communist Party (glorious)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपाल कम्युनिष्ट पार्टी (गौरवशाली)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairperson: Bhavisor Parajuli"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः भविसोर पराजुली"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2022-02-16",
+  "short_description": null,
+  "slug": "nepal-communist-party-glorious",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Apple"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "स्याउ"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.670554Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepal-communist-party-glorious",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

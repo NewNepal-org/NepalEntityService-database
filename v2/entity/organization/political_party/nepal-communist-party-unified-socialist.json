@@ -1,0 +1,131 @@
+{
+  "address": {
+    "description": "Naya Baneshwor, Kathmandu / नयाँ बानेश्वर, काठमाडौ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97714106302"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.661775Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "166"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Communist Party (unified Socialist)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    },
+    {
+      "en": null,
+      "kind": "ALTERNATE",
+      "ne": {
+        "family": null,
+        "full": "नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी)",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairman: Madhav Kumar Nepal"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः माधव कुमार नेपाल"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2021-08-25",
+  "short_description": null,
+  "slug": "nepal-communist-party-unified-socialist",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Pen"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "कलम"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.661773Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepal-communist-party-unified-socialist",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

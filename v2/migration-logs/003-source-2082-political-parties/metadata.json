@@ -1,0 +1,16 @@
+{
+  "migration_name": "003-source-2082-political-parties",
+  "author": "Damodar Dahal",
+  "date": "2025-11-11T00:00:00",
+  "description": "Import registered political parties from Election Commission of Nepal",
+  "executed_at": "2025-11-11T20:39:54.501168",
+  "duration_seconds": 0.07530093193054199,
+  "status": "completed",
+  "changes": {
+    "entities_created": 124,
+    "relationships_created": 0,
+    "versions_created": 124,
+    "summary": "Created 124 entities, 0 relationships, and 124 versions",
+    "has_diff": true
+  }
+}

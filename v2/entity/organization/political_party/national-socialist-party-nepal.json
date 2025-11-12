@@ -1,0 +1,131 @@
+{
+  "address": {
+    "description": "Balkhu, Kathmandu / बल्खु, काठमाडौ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779843334370"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779851004082"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779851076139"
+    },
+    {
+      "type": "PHONE",
+      "value": "+97714289380"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.648979Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "125"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "National Socialist Party Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "राष्ट्रिय समाजवादी पार्टी नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairman: Rudrajung Pulami"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः रुद्रजंग पुलामी"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2017-03-14",
+  "short_description": null,
+  "slug": "national-socialist-party-nepal",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Earth"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "पृथ्वी"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.648976Z",
+    "entity_or_relationship_id": "entity:organization/political_party/national-socialist-party-nepal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

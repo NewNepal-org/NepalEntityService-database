@@ -1,0 +1,141 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.618088Z",
+  "entity_or_relationship_id": "entity:organization/political_party/united-nepal-democratic-party",
+  "snapshot": {
+    "address": {
+      "description": "Kathmandu Metropolitan City-9, Bhimsengola, Kathmandu / काठमाडौं महानगरपालिका-९, भिमसेनगोला, काठमाडौ",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779860452020"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779860479900"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779851087241"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.618092Z",
+    "description": null,
+    "id": "entity:organization/political_party/united-nepal-democratic-party",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "6"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "United Nepal Democratic Party",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "युनाईटेड नेपाल डिमोक्राटीक पार्टी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: Lion Mr. Muskan Paudel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः लायन श्री मुस्कान पौडेल"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2016-12-15",
+    "short_description": null,
+    "slug": "united-nepal-democratic-party",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Man"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पुरूष"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.618088Z",
+      "entity_or_relationship_id": "entity:organization/political_party/united-nepal-democratic-party",
+      "id": "version:entity:organization/political_party/united-nepal-democratic-party:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

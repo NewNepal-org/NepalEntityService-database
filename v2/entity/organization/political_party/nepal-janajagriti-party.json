@@ -1,0 +1,119 @@
+{
+  "address": {
+    "description": "Mahagadhimai Municipality-3, Benauli, Pipradi Chowk, Bara / महागढीमाई नगरपालिका-३, बेनौली, पिप्राडी चौक, वारा",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779806801510"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.678626Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "200"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nepal Janajagriti Party",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नेपाल जनजागृति पार्टी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "President: Dhuplal Prasad Sahani"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः धुपलाल प्रसाद सहनी"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2024-12-04",
+  "short_description": null,
+  "slug": "nepal-janajagriti-party",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Fish"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "माछा"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.678623Z",
+    "entity_or_relationship_id": "entity:organization/political_party/nepal-janajagriti-party",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "address": {
+    "description": "Kathmandu Metropolitan City-3, Basundhara, Kathmandu / काठमाडौं महानगरपालिका-३, वसुन्धारा, काठमाडौं",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+97715910125"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779865164957"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.647089Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "119"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Jan Prajatantrik Party, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "जन प्रजातान्त्रिक पार्टी, नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairman: Gyan Bahadur Tamang"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः ज्ञान बहादुर तामाङ"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2017-03-14",
+  "short_description": null,
+  "slug": "jan-prajatantrik-party-nepal",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Rhinoceros"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गैंडा"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.647087Z",
+    "entity_or_relationship_id": "entity:organization/political_party/jan-prajatantrik-party-nepal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.627834Z",
+  "entity_or_relationship_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+  "snapshot": {
+    "address": {
+      "description": "Tulsilal Memorial Building, Chyasal, Lalitpur / तुल्सीलाल स्मृति भवन, च्यासल, ललितपुर",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+97714378055"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9774378099"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779815017687"
+      },
+      {
+        "type": "PHONE",
+        "value": "+9779849853360"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.627839Z",
+    "description": null,
+    "id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "32"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Communist Party Of Nepal (unified Marxist-leninist)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "नेपाल कम्युनिष्ट पार्टी (एमाले)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chairman: KP Sharma Oli"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः केपी शर्मा ओली"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2016-12-15",
+    "short_description": null,
+    "slug": "communist-party-of-nepal-unified-marxist-leninist",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sun"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सूर्य"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.627834Z",
+      "entity_or_relationship_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+      "id": "version:entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

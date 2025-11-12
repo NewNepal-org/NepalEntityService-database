@@ -1,0 +1,145 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing",
+  "created_at": "2025-11-12T04:39:53.646612Z",
+  "entity_or_relationship_id": "entity:organization/political_party/aamul-parivartan-republican-party-nepal",
+  "snapshot": {
+    "address": {
+      "description": "K.M.N.P. 31, Nayabaneshwor, Kathmandu / का.म.न.पा. ३१, नयावानेश्वर, काठमाडौ",
+      "location_id": null
+    },
+    "attributes": null,
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "Registered Parties (2082) - imported 2025-11-11"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग"
+          }
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "type": "PHONE",
+        "value": "+9779801120589"
+      }
+    ],
+    "created_at": "2025-11-12T04:39:53.646614Z",
+    "description": null,
+    "id": "entity:organization/political_party/aamul-parivartan-republican-party-nepal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "Election Commission Registration Number (2082)"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं."
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "114"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Aamul Parivartan Republican Party Nepal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "आमूल परिवर्तन रिपब्लिकन पार्टी नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      },
+      {
+        "en": null,
+        "kind": "ALTERNATE",
+        "ne": {
+          "family": null,
+          "full": "आमूल परिवर्तन मसिहा पार्टी नेपाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "party_chief": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "President: Bharat Giri"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अध्यक्षः भरत गिरी"
+      }
+    },
+    "pictures": null,
+    "registration_date": "2017-03-14",
+    "short_description": null,
+    "slug": "aamul-parivartan-republican-party-nepal",
+    "sub_type": "political_party",
+    "symbol": {
+      "name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Love"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "प्रेम"
+        }
+      }
+    },
+    "tags": null,
+    "type": "organization",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing",
+      "created_at": "2025-11-12T04:39:53.646612Z",
+      "entity_or_relationship_id": "entity:organization/political_party/aamul-parivartan-republican-party-nepal",
+      "id": "version:entity:organization/political_party/aamul-parivartan-republican-party-nepal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

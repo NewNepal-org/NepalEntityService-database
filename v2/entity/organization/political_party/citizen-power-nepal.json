@@ -1,0 +1,139 @@
+{
+  "address": {
+    "description": "Kathmandu Metropolitan City-3, Lazimpat, Kathmandu / काठमाडौं महानगरपालिका-३, लाजिम्पाट, काठमाडौ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779851066740"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779851022587"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779848826904"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.617399Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "5"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Citizen Power, Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नागरिक शक्ति, नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    },
+    {
+      "en": null,
+      "kind": "ALTERNATE",
+      "ne": {
+        "family": null,
+        "full": "एकीकृत शक्ति नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairman: Dev Prakash Tripathi"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः देवप्रकाश त्रिपाठी"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2016-12-15",
+  "short_description": null,
+  "slug": "citizen-power-nepal",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Trishul"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "त्रिशुल"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.617391Z",
+    "entity_or_relationship_id": "entity:organization/political_party/citizen-power-nepal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

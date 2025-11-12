@@ -1,0 +1,127 @@
+{
+  "address": {
+    "description": "Kathmandu Metropolitan City-10, Mahadevasthan Marga, Kathmandu / काठमाडौं महानगरपालिका-१०, महादेवस्थान मार्ग, काठमाडौ",
+    "location_id": null
+  },
+  "attributes": null,
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "Registered Parties (2082) - imported 2025-11-11"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "दर्ता भएका दलहरू (२०८२) - आयात मिति 2025-11-11 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "PHONE",
+      "value": "+9779817644775"
+    },
+    {
+      "type": "PHONE",
+      "value": "+9779804793880"
+    },
+    {
+      "type": "PHONE",
+      "value": "+97716630583"
+    }
+  ],
+  "created_at": "2025-11-12T04:39:53.654634Z",
+  "description": null,
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "Election Commission Registration Number (2082)"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं."
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "150"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Janamat Party",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "जनमत पार्टी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "party_chief": {
+    "en": {
+      "provenance": "translation_service",
+      "value": "Chairman: Chandra Kant Raut"
+    },
+    "ne": {
+      "provenance": "imported",
+      "value": "अध्यक्षः चन्द्रकान्त राउत"
+    }
+  },
+  "pictures": null,
+  "registration_date": "2019-05-20",
+  "short_description": null,
+  "slug": "janamat-party",
+  "sub_type": "political_party",
+  "symbol": {
+    "name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Loud Speaker"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "लाउड स्पिकर"
+      }
+    }
+  },
+  "tags": null,
+  "type": "organization",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing",
+    "created_at": "2025-11-12T04:39:53.654632Z",
+    "entity_or_relationship_id": "entity:organization/political_party/janamat-party",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}
