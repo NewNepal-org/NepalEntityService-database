@@ -1,0 +1,68 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Add election constituencies.",
+  "created_at": "2025-11-14T01:22:11.798104Z",
+  "entity_or_relationship_id": "entity:location/constituency/jumla-1",
+  "snapshot": {
+    "administrative_level": null,
+    "area": null,
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2025-11-14T01:22:11.798106Z",
+    "description": null,
+    "id": "entity:location/constituency/jumla-1",
+    "identifiers": null,
+    "lat": null,
+    "lng": null,
+    "location_type": "constituency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Jumla - 1",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "जुम्ला - 1",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/jumla",
+    "pictures": null,
+    "short_description": null,
+    "slug": "jumla-1",
+    "sub_type": "constituency",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Add election constituencies.",
+      "created_at": "2025-11-14T01:22:11.798104Z",
+      "entity_or_relationship_id": "entity:location/constituency/jumla-1",
+      "id": "version:entity:location/constituency/jumla-1:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

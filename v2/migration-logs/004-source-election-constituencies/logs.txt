@@ -1,0 +1,13 @@
+Migration: 004-source-election-constituencies
+Executed at: 2025-11-13T17:22:12.792668
+Duration: 0.2s
+
+================================================================================
+Execution Logs:
+================================================================================
+
+Migration started: Creating election constituencies
+Created author: Damodar Dahal (author:damodar-dahal)
+Loaded 77 districts from CSV
+Created 165 constituencies
+Migration completed successfully

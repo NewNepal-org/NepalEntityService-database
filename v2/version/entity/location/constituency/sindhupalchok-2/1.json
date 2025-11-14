@@ -1,0 +1,68 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Add election constituencies.",
+  "created_at": "2025-11-14T01:22:11.943983Z",
+  "entity_or_relationship_id": "entity:location/constituency/sindhupalchok-2",
+  "snapshot": {
+    "administrative_level": null,
+    "area": null,
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2025-11-14T01:22:11.943985Z",
+    "description": null,
+    "id": "entity:location/constituency/sindhupalchok-2",
+    "identifiers": null,
+    "lat": null,
+    "lng": null,
+    "location_type": "constituency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sindhupalchok - 2",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सिन्धुपाल्चोक - 2",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/sindhupalchok",
+    "pictures": null,
+    "short_description": null,
+    "slug": "sindhupalchok-2",
+    "sub_type": "constituency",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Add election constituencies.",
+      "created_at": "2025-11-14T01:22:11.943983Z",
+      "entity_or_relationship_id": "entity:location/constituency/sindhupalchok-2",
+      "id": "version:entity:location/constituency/sindhupalchok-2:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

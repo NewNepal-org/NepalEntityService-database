@@ -1,0 +1,68 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Add election constituencies.",
+  "created_at": "2025-11-14T01:22:11.901487Z",
+  "entity_or_relationship_id": "entity:location/constituency/myagdi-1",
+  "snapshot": {
+    "administrative_level": null,
+    "area": null,
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2025-11-14T01:22:11.901490Z",
+    "description": null,
+    "id": "entity:location/constituency/myagdi-1",
+    "identifiers": null,
+    "lat": null,
+    "lng": null,
+    "location_type": "constituency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Myagdi - 1",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "म्याग्दी - 1",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/myagdi",
+    "pictures": null,
+    "short_description": null,
+    "slug": "myagdi-1",
+    "sub_type": "constituency",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Add election constituencies.",
+      "created_at": "2025-11-14T01:22:11.901487Z",
+      "entity_or_relationship_id": "entity:location/constituency/myagdi-1",
+      "id": "version:entity:location/constituency/myagdi-1:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

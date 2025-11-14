@@ -1,0 +1,52 @@
+{
+  "area": null,
+  "attributes": null,
+  "attributions": null,
+  "contacts": null,
+  "created_at": "2025-11-14T01:22:11.946968Z",
+  "description": null,
+  "identifiers": null,
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sindhuli - 1",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "सिन्धुली - 1",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/sindhuli",
+  "pictures": null,
+  "short_description": null,
+  "slug": "sindhuli-1",
+  "sub_type": "constituency",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Add election constituencies.",
+    "created_at": "2025-11-14T01:22:11.946966Z",
+    "entity_or_relationship_id": "entity:location/constituency/sindhuli-1",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

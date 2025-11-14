@@ -1,0 +1,52 @@
+{
+  "area": null,
+  "attributes": null,
+  "attributions": null,
+  "contacts": null,
+  "created_at": "2025-11-14T01:22:11.846151Z",
+  "description": null,
+  "identifiers": null,
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Nuwakot - 1",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "नुवाकोट - 1",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/nuwakot",
+  "pictures": null,
+  "short_description": null,
+  "slug": "nuwakot-1",
+  "sub_type": "constituency",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Add election constituencies.",
+    "created_at": "2025-11-14T01:22:11.846148Z",
+    "entity_or_relationship_id": "entity:location/constituency/nuwakot-1",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

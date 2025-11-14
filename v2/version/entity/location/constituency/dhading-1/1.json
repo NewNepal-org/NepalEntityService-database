@@ -1,0 +1,68 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Add election constituencies.",
+  "created_at": "2025-11-14T01:22:11.841686Z",
+  "entity_or_relationship_id": "entity:location/constituency/dhading-1",
+  "snapshot": {
+    "administrative_level": null,
+    "area": null,
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2025-11-14T01:22:11.841688Z",
+    "description": null,
+    "id": "entity:location/constituency/dhading-1",
+    "identifiers": null,
+    "lat": null,
+    "lng": null,
+    "location_type": "constituency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Dhading - 1",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "धादिङ्ग - 1",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/dhading",
+    "pictures": null,
+    "short_description": null,
+    "slug": "dhading-1",
+    "sub_type": "constituency",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Add election constituencies.",
+      "created_at": "2025-11-14T01:22:11.841686Z",
+      "entity_or_relationship_id": "entity:location/constituency/dhading-1",
+      "id": "version:entity:location/constituency/dhading-1:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

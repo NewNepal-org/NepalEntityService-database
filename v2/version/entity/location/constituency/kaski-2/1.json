@@ -1,0 +1,68 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Add election constituencies.",
+  "created_at": "2025-11-14T01:22:11.776538Z",
+  "entity_or_relationship_id": "entity:location/constituency/kaski-2",
+  "snapshot": {
+    "administrative_level": null,
+    "area": null,
+    "attributes": null,
+    "attributions": null,
+    "contacts": null,
+    "created_at": "2025-11-14T01:22:11.776542Z",
+    "description": null,
+    "id": "entity:location/constituency/kaski-2",
+    "identifiers": null,
+    "lat": null,
+    "lng": null,
+    "location_type": "constituency",
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Kaski - 2",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "कास्की - 2",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "parent": "entity:location/district/kaski",
+    "pictures": null,
+    "short_description": null,
+    "slug": "kaski-2",
+    "sub_type": "constituency",
+    "tags": null,
+    "type": "location",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Add election constituencies.",
+      "created_at": "2025-11-14T01:22:11.776538Z",
+      "entity_or_relationship_id": "entity:location/constituency/kaski-2",
+      "id": "version:entity:location/constituency/kaski-2:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

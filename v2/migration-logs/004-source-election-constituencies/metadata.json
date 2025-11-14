@@ -1,0 +1,16 @@
+{
+  "migration_name": "004-source-election-constituencies",
+  "author": "Damodar Dahal",
+  "date": "2025-11-12T00:00:00",
+  "description": "Create election constituency entities for all districts.",
+  "executed_at": "2025-11-13T17:22:12.791310",
+  "duration_seconds": 0.22254419326782227,
+  "status": "completed",
+  "changes": {
+    "entities_created": 165,
+    "relationships_created": 0,
+    "versions_created": 165,
+    "summary": "Created 165 entities, 0 relationships, and 165 versions",
+    "has_diff": true
+  }
+}

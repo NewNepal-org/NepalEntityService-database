@@ -1,0 +1,52 @@
+{
+  "area": null,
+  "attributes": null,
+  "attributions": null,
+  "contacts": null,
+  "created_at": "2025-11-14T01:22:11.892647Z",
+  "description": null,
+  "identifiers": null,
+  "lat": null,
+  "lng": null,
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Mahottari - 2",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "महोत्तरी - 2",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "parent": "entity:location/district/mahottari",
+  "pictures": null,
+  "short_description": null,
+  "slug": "mahottari-2",
+  "sub_type": "constituency",
+  "tags": null,
+  "type": "location",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Add election constituencies.",
+    "created_at": "2025-11-14T01:22:11.892645Z",
+    "entity_or_relationship_id": "entity:location/constituency/mahottari-2",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}
