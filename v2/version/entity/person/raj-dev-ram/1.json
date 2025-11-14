@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.637594Z",
+  "entity_or_relationship_id": "entity:person/raj-dev-ram",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "जे एस मुरारका क्याम्प्स लहान सिरहा"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bachelor"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "स्नातक"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.637598Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 334935,
+          "constituency_id": "entity:location/constituency/saptari-4",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2476,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Water Tap"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "पानीको धारा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 2086
+        }
+      ]
+    },
+    "id": "entity:person/raj-dev-ram",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "334935"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Raj Dev Ram",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "राज देव राम",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Saptari Khadak Municipality Garuraha"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सप्तरी खडक नगरपालिका गरुराहा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1985-06-11",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/saptari"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "J.S. Murarka Campus Lahan Siraha"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "जे एस मुरारका क्याम्प्स लहान सिरहा"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Laxmi Mochi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "लक्ष्मी मोची"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Parvati Chaudhary"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पार्वती चौधरी"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334935.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "raj-dev-ram",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.637594Z",
+      "entity_or_relationship_id": "entity:person/raj-dev-ram",
+      "id": "version:entity:person/raj-dev-ram:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

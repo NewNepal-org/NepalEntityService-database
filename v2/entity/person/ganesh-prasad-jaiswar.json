@@ -1,0 +1,188 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ten Pass"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दश पास"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.627137Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333259,
+        "constituency_id": "entity:location/constituency/bara-3",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/national-democratic-party",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2279,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Plough"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "हलो"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 571
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333259"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Ganesh Prasad Jaiswar",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "गणेश प्रसाद जैसवार",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bara Kalaiya Sub-Metropolitan City Brahmpuri"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बारा कलैया उपमहानगरपालिका ब्रहम्‍पुरी"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1969-02-16",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/bara"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Hari Prasad Jaiswar"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "हरि प्रसाद जैसवार"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Lalita Devi Raut Kurmi"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "ललिता देवी राउत कुर्मी"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333259.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "ganesh-prasad-jaiswar",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.627135Z",
+    "entity_or_relationship_id": "entity:person/ganesh-prasad-jaiswar",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:22.706231Z",
+  "entity_or_relationship_id": "entity:person/naresh-bahadur-pachhai-chhetri",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "My candidacy is to make special efforts to ensure zero landless people, a corruption-free society, and equal justice for rights throughout my constituency. I am not here to govern by speeches, but to work day and night to solve the burning problems of the people and uplift society."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "मेरो उम्मेदवारी मेरो  निर्वाचन क्षेत्र भरि सुन्य सुकुम्बासी, भ्रस्टचार रहित समाज, समान न्यायका  लागि हक अधिकार दिलाउन विशेष पहल भाषण गरेर शासन गर्ने होइन जनताका जल्दा बल्दा समस्या र समाज  उकास्नका लागि  मात्र रातदिन  खटेर काम  गर्नका लागि उम्मेदवारी  प्रस्तुत गरेको छु ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "एस.एल.सी."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:22.706233Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 333653,
+          "constituency_id": "entity:location/constituency/rupandehi-1",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/national-independent-party",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2445,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Bell inside a circle"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "गोलाकार भित्र घण्टी"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 14145
+        }
+      ]
+    },
+    "id": "entity:person/naresh-bahadur-pachhai-chhetri",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "333653"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Naresh Bahadur Pachhai Chhetri",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नरेश बहादुर पछाई क्षेत्री",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Rupandehi Tilottama Municipality Bewari"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "रुपन्देही तिलोत्तमा नगरपालिका वेवरी"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1975-04-10",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/rupandehi"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Tek Bahadur Pachhai Chhetri"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "टेक बहादुर पछाई क्षेत्री"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bipana Karki"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बिपना कार्की"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333653.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "naresh-bahadur-pachhai-chhetri",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:22.706231Z",
+      "entity_or_relationship_id": "entity:person/naresh-bahadur-pachhai-chhetri",
+      "id": "version:entity:person/naresh-bahadur-pachhai-chhetri:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

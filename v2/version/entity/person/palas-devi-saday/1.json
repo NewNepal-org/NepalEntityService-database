@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.671911Z",
+  "entity_or_relationship_id": "entity:person/palas-devi-saday",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "छैन"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "To develop society."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "समाज विकास गर्ने।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Education N/A"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Education N/A"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.671913Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 338778,
+          "constituency_id": "entity:location/constituency/siraha-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 19,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Rickshaw"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "रिक्सा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 72
+        }
+      ]
+    },
+    "id": "entity:person/palas-devi-saday",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "338778"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Palas Devi Saday",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "पलास देवी सदाय",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Siraha Dhangadhimai Municipality Bhawanipur"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सिराहा धनगढीमाई नगरपालिका भवानीपुर"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1970-08-31",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/siraha"
+      },
+      "education": [
+        {
+          "degree": null,
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": {
+              "provenance": "imported",
+              "value": "छैन"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Devnarayan Saday"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "देवनारायण सदाय"
+        }
+      },
+      "gender": "female",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Shyam Sundar Saday"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "श्‍याम सुन्दर सदाय"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338778.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "palas-devi-saday",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.671911Z",
+      "entity_or_relationship_id": "entity:person/palas-devi-saday",
+      "id": "version:entity:person/palas-devi-saday:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

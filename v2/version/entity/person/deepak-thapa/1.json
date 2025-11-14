@@ -1,0 +1,210 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.459690Z",
+  "entity_or_relationship_id": "entity:person/deepak-thapa",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Proficiency Certificate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Proficiency Certificate"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.459693Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 338098,
+          "constituency_id": "entity:location/constituency/sindhupalchok-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/national-democratic-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2279,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Plough"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "हलो"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 2468
+        }
+      ]
+    },
+    "id": "entity:person/deepak-thapa",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "338098"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Deepak Thapa",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "दीपक थापा",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bataase, Chautara Sangachokgadhi Municipality, Sindhupalchok"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सिन्धुपाल्चोक चौतारा साँगाचोकगढी नगरपालिका बतासे"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1983-03-01",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/sindhupalchok"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "PCL"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": null
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Lal Bahadur Thapa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "लाल बहालुर थापा"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338098.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "deepak-thapa",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.459690Z",
+      "entity_or_relationship_id": "entity:person/deepak-thapa",
+      "id": "version:entity:person/deepak-thapa:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,232 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:25.391932Z",
+  "entity_or_relationship_id": "entity:person/baijnath-kalwar",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "पाल्ही  बुहुमुखी क्याम्पस"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "10+2"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "10+2"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:25.391934Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 334634,
+          "constituency_id": "entity:location/constituency/parasi-2",
+          "elected": true,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepali-congress",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 1,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tree"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "रुख"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 11782
+        }
+      ]
+    },
+    "id": "entity:person/baijnath-kalwar",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "334634"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Baijnath Kalwar",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "वैजनाथ कलवार",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Nawalparasi (Bardaghat Susta West) Ramgram Municipality Parasi"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) रामग्राम नगरपालिका परासी"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1972-01-24",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/parasi"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Intermediate"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Palhi Multipurpose Campus"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "पाल्ही  बुहुमुखी क्याम्पस"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Banarsi Kalwar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बनारसी कलवार"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Anjani Jaiswal"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "अंजनी जैसवाल"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334634.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "baijnath-kalwar",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate",
+      "provincial-election-2079-elected"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:25.391932Z",
+      "entity_or_relationship_id": "entity:person/baijnath-kalwar",
+      "id": "version:entity:person/baijnath-kalwar:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,223 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "नेपाल ल. क्याम्पस"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Certificate Level"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "प्रमाण पत्र तह"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.715672Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333961,
+        "constituency_id": "entity:location/constituency/rupandehi-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepal-workers-peasants-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 12,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Madal"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "मादल"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 80
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333961"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Tulsi Ram Dhukhwa",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "तुल्सी राम धुख्वा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Khauma, Bhaktapur Municipality, Bhaktapur"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "भक्तपुर भक्तपुर नगरपालिका खौमा"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1971-10-28",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/bhaktapur"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "PCL"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Law"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Nepal Law Campus"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "नेपाल ल. क्याम्पस"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Harsha Veer Dhukhwa"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "हर्ष वीर धुख्वा"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Aas Laxmi Boyaju"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "आस लक्ष्मी बोयजु"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333961.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "tulsi-ram-dhukhwa",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.715670Z",
+    "entity_or_relationship_id": "entity:person/tulsi-ram-dhukhwa",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

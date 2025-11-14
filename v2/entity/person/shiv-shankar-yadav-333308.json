@@ -1,0 +1,226 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "बरकुरवा मा.वि."
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "My candidacy is to understand the will of the people, do good work, raise voice against corruption, and help people in times of need. To inquire for the benefit of the people and construct roads, etc."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "मेरो उम्मेदवारी जनता इच्छा बुझी राम्रो काम गर्ने भ्रष्टाचारी विरुद्ध आवाज उठाउने, जनतालाई आइपरेको बेला बतमा सहयोग गर्ने । जनताको हितको लागि सोधपुछ गरी बाटो घाटो निर्माण गर्ने इत्यादी ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "S.L.C."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "S.L.C."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.985941Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333308,
+        "constituency_id": "entity:location/constituency/dhanusha-4",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": null,
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2027,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Jeep"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "जिप"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 94
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333308"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Shiv Shankar Yadav",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "शिव शंकर यादव",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Dhanusha Bateshwar Rural Municipality"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "धनुषा बटेश्वर गाउँपालिका"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1982-10-26",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/dhanusha"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "SLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Barkurwa Secondary School"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "बरकुरवा मा.वि."
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Kailash Yadav"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "कैलाश यादव"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Rita Devi"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "रीता देवी"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333308.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "shiv-shankar-yadav-333308",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.985937Z",
+    "entity_or_relationship_id": "entity:person/shiv-shankar-yadav-333308",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "SLC"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "SLC"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:25.099715Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 337635,
+        "constituency_id": "entity:location/constituency/rolpa-1",
+        "elected": true,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": null,
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2476,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Water Tap"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "पानीको धारा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 14927
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "337635"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Dipendra Kumar Pun Magar",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "दिपेन्द्र कुमार पुन मगर",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Madichaur, Madi Rural Municipality, Rolpa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रोल्पा माडी गाउँपालिका माडिचौर"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1969-03-23",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/rolpa"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Sarvajit Pun Magar"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सर्वजित पुन मगर"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Dil Kumari Watha Magar"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "दिल कुमारी वाठा मगर"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337635.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dipendra-kumar-pun-magar",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate",
+    "provincial-election-2079-elected"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:25.099713Z",
+    "entity_or_relationship_id": "entity:person/dipendra-kumar-pun-magar",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

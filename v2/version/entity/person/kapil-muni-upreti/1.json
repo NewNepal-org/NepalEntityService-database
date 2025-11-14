@@ -1,0 +1,202 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.261218Z",
+  "entity_or_relationship_id": "entity:person/kapil-muni-upreti",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Masters"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Masters"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.261221Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 337210,
+          "constituency_id": "entity:location/constituency/kathmandu-3",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepal-communist-party-maoist-centre",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 3,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Hammer and Sickle inside a circle"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "गोलाकारभित्र हँसिया हथौडा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 363
+        }
+      ]
+    },
+    "id": "entity:person/kapil-muni-upreti",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "337210"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Kapil Muni Upreti",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "कपिल मुनी उप्रेती",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Kathmandu Gokarneshwor Municipality Nayabasti"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "काठमाडौं गोकर्णेश्वर नगरपालिका नयाँबस्ती"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1969-02-01",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/taplejung"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Narad Muni Upreti"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नारद मुनी उप्रेती"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ganga Mainali (upreti)"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "गंगा मैनाली (उप्रेती)"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337210.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "kapil-muni-upreti",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.261218Z",
+      "entity_or_relationship_id": "entity:person/kapil-muni-upreti",
+      "id": "version:entity:person/kapil-muni-upreti:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

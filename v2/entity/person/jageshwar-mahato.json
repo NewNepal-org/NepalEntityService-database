@@ -1,0 +1,232 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "प्राविधिक शिक्षालय लहान"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Social worker, morally supports various organizations within the rural municipality to the municipality, helps poor, destitute, and helpless individuals. Constantly works day and night for development."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "समाजसेवी गा.पा. देखी न.पा भित्र पर्ने विभिन्न संघ संस्थाहरुमा नैतिकरुप सहयोग गर्ने गरिब विपन्न व्यक्ति तथा असहायलाई सहयोग गर्ने। विकासको निम्ति अहोरात खटिरहने ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "I.Sc.Ag."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "I.Sc.Ag."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.698289Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336690,
+        "constituency_id": "entity:location/constituency/siraha-2",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/national-democratic-party",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2279,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Plough"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "हलो"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 610
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336690"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Jageshwar Mahato",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "जागेश्‍वर महतो",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Siraha, Dhanagadimai Municipality, Simaltoki"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सिराहा धनगढीमाई नगरपालिका सिमलटोकी"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1976-10-22",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/siraha"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Intermediate"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Agriculture"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Lahan Technical School"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "प्राविधिक शिक्षालय लहान"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Jhauli Mahato"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "झौली महतो"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Geeta Kumari Mahato"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गीता कुमारी महतो"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336690.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "jageshwar-mahato",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.698285Z",
+    "entity_or_relationship_id": "entity:person/jageshwar-mahato",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

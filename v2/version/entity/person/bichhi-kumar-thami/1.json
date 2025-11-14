@@ -1,0 +1,228 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.818744Z",
+  "entity_or_relationship_id": "entity:person/bichhi-kumar-thami",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Committed to party policies and integrity, actively working for social change"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "समाज परिवर्तनका लागि क्रियाशिल रहिरहने पार्टी नीति निष्ठा प्रति ईमान्दार रहने"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "General"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "साधारण"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.818765Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 334629,
+          "constituency_id": "entity:location/constituency/dolakha-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/janata-samajwadi-party-nepal",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2278,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tilting Umbrella"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "ढल्केको छाता"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 243
+        }
+      ]
+    },
+    "id": "entity:person/bichhi-kumar-thami",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "334629"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Bichhi Kumar Thami",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "विछि कुमार थामी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Basimpa, Bhimeshwar Municipality, Dolakha"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "दोलखा भिमेश्वर  नगरपालिका बसिम्पा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1958-12-24",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/dolakha"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Literate"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": null
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Shriman Thami"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "श्रीमान थामी"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Cheli Thami"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "चेली थामी"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334629.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "bichhi-kumar-thami",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.818744Z",
+      "entity_or_relationship_id": "entity:person/bichhi-kumar-thami",
+      "id": "version:entity:person/bichhi-kumar-thami:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

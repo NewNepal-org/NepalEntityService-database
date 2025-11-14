@@ -1,0 +1,205 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Class 5"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कक्षा ५"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.151784Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336598,
+        "constituency_id": "entity:location/constituency/sankhuwasabha-1",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/national-democratic-party-nepal",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2332,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Arrow"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "तीर"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 140
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336598"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Gham Singh Rai",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "घाम सिं राई",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bhadure, Sabhapokhari Rural Municipality, Sankhuwasabha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "संखुवासभा सभापोखरी गाउँपालिका भदौरे"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1969-11-29",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/sankhuwasabha"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "UnderSLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": null,
+          "ne": null
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Gajendra Bahadur Rai"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गजेन्द्र बहादुर राई"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Deuki Maya Rai"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "देउकी माया राई"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336598.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "gham-singh-rai",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.151781Z",
+    "entity_or_relationship_id": "entity:person/gham-singh-rai",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

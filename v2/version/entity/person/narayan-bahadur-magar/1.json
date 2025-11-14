@@ -1,0 +1,241 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.531261Z",
+  "entity_or_relationship_id": "entity:person/narayan-bahadur-magar",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "श्री जनता उच्च मावि शिसुवारी"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Has been working with CPN (Maoist Centre) since 2045 BS, holding party responsibilities. Our party aims to establish a federal democratic republic of Nepal and move from socialism to communism."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "नेकपा माओवादी केन्द्रमा काम गर्दै अाएको २०४५ साल देखि पार्टिको जिम्मेवारीमा रही अाएको हाम्रो पार्टी संघीय लोकतान्त्रीक गणतन्त्र नेपाललाई संस्था गर्दै समाजवाद देखि सामनेवाद सम्म पुग्ने ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "+2"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "+2"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.531265Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335737,
+          "constituency_id": "entity:location/constituency/udayapur-2",
+          "elected": true,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepal-communist-party-maoist-centre",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 3,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Hammer and Sickle within a Circle"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "गोलाकारभित्र हँसिया हथौडा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 8105
+        }
+      ]
+    },
+    "id": "entity:person/narayan-bahadur-magar",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335737"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Narayan Bahadur Magar",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नारायण वहादुर मगर",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Udayapur Triyuga Municipality, Purano Gaighat"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "उदयपुर त्रियुगा नगरपालिका पुरानो गाईघाट"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1964-04-17",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/udayapur"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Intermediate"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Shree Janata Higher Secondary School, Shisuwari"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "श्री जनता उच्च मावि शिसुवारी"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Lalit Bahadur Magar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "ललित वहादुर मगर"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Purna Maya Magar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पुर्ण माया मगर"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335737.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "narayan-bahadur-magar",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate",
+      "provincial-election-2079-elected"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.531261Z",
+      "entity_or_relationship_id": "entity:person/narayan-bahadur-magar",
+      "id": "version:entity:person/narayan-bahadur-magar:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,218 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "दुध पोखरी मा.वि. मादी १"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Committed to establishing socialism in Nepal, realizing the vision of Prosperous Nepal, Happy Nepali, and building the foundations of socialism."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नेपालमा समाजवाद स्थापनार्थ समृद्ध नेपाल सुखी नेपालीको परिकल्पना साकार पार्न समाजवादका आधारहरु निर्माण गर्न प्रतिबद्ध रहँदै आएको"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "S.L.C."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "S.L.C."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.593750Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 334289,
+        "constituency_id": "entity:location/constituency/kaski-1",
+        "elected": true,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sun"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सूर्य"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 25708
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "334289"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Man Bahadur Gurung",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "मन बहादुर गुरुङ्ग",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sikles Gairithar, Madi Rural Municipality, Kaski"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कास्की मादी गाउँपालिका सिक्लेस गैरीथर"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1966-04-13",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kaski"
+    },
+    "education": [
+      {
+        "degree": null,
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "दुध पोखरी मा.वि. मादी १"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Yam Bahadur Gurung"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "यम बहादुर गुरुङ्ग"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Khim Suba Gurung"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "खिम सुवा गुरुङ्ग"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334289.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "man-bahadur-gurung",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate",
+    "federal-election-2079-elected"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.593748Z",
+    "entity_or_relationship_id": "entity:person/man-bahadur-gurung",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

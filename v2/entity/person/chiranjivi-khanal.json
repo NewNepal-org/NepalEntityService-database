@@ -1,0 +1,188 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Masters"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Masters"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.332976Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 337662,
+        "constituency_id": "entity:location/constituency/kathmandu-8",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": null,
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2476,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Water Tap"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "पानीको धारा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 506
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "337662"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Chiranjivi Khanal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "चिरञ्जीवी खनाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kathmandu Nagarjun Municipality Sitapaila"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "काठमाडौं नागार्जुन नगरपालिका सीतापाइला"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1962-10-18",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kathmandu"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Kedar Nath Khanal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "केदार नाथ खनाल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Devaki Khanal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "देवकी खनाल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337662.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "chiranjivi-khanal",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.332974Z",
+    "entity_or_relationship_id": "entity:person/chiranjivi-khanal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

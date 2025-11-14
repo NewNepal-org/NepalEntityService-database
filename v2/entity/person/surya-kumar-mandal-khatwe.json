@@ -1,0 +1,226 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "हनुमान प्रसाद सार्दा मा. वि. ईनरवा।"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "To free from corruption."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "भ्रष्टचारबाट मुक्त गर्न।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Class-5"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कक्षा-5"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.681384Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 335244,
+        "constituency_id": "entity:location/constituency/siraha-1",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": null,
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2048,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Badminton Shuttlecock"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "ब्याडमिन्टन कर्क"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 41
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "335244"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Surya Kumar Mandal Khatwe",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "सुर्य कुमार मंडल खत्वे",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Paroul, Bhagwanpur Rural Municipality, Siraha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सिराहा भगवानपुर गाउँपालिका परौल"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1974-01-09",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/siraha"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "UnderSLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Hanuman Prasad Sarda Ma. Vi. Inarwa"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "हनुमान प्रसाद सार्दा मा. वि. ईनरवा।"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Sukala Khang Khatwe"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सुकला खंग खत्वे"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Shiv Kumari Mandal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "शिव कुमारी मंडल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335244.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "surya-kumar-mandal-khatwe",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.681381Z",
+    "entity_or_relationship_id": "entity:person/surya-kumar-mandal-khatwe",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

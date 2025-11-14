@@ -1,0 +1,219 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:25.327660Z",
+  "entity_or_relationship_id": "entity:person/ran-bahadur-bist",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "UNDER SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "UNDER SLC"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:25.327662Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 337696,
+          "constituency_id": "entity:location/constituency/baitadi-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/national-democratic-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2279,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Plough"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "हलो"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 968
+        }
+      ]
+    },
+    "id": "entity:person/ran-bahadur-bist",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "337696"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Ran Bahadur Bist",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "रण बहादुर बिष्ट",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Todegair, Patan Municipality, Baitadi"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "बैतडी पाटन नगरपालिका टुडेगैर"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1959-03-23",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/baitadi"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "UnderSLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": null
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Gune Bist"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "गुने बिष्ट"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Parvati Devi Bist"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पारवती देवी बिष्ट"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337696.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "ran-bahadur-bist",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:25.327660Z",
+      "entity_or_relationship_id": "entity:person/ran-bahadur-bist",
+      "id": "version:entity:person/ran-bahadur-bist:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,197 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Provided strong service as a capable, honest, and hardworking youth for this society."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "यस समाजको लागि म जस्तो योग्य इमान्दार कर्मठ युवा शसक्त  सेवा प्रदान गरेको"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "10"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "१०"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.772156Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 338032,
+        "constituency_id": "entity:location/constituency/kapilvastu-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepali-for-nepal-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2329,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Conch shell inside a circle"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोलाकार भित्र शंख"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 128
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "338032"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Bishwanath Yadav",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "विश्वनाथ यादव",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kapilvastu Kapilvastu Municipality Barandihawa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कपिलवस्तु कपिलवस्तु नगरपालिका वरन्डिहवा"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1971-05-24",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kapilvastu"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Keshari Yadav"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "केशरी यादव"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Sanju Yadav"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सन्जु यादव"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338032.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "bishwanath-yadav-338032",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.772153Z",
+    "entity_or_relationship_id": "entity:person/bishwanath-yadav-338032",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

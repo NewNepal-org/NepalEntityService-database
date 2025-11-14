@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.479360Z",
+  "entity_or_relationship_id": "entity:person/prem-kumar-rai",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "T.U."
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "My candidacy in Provincial Assembly Constituency No. B of Khotang District under the upcoming House of Representatives and Provincial Assembly Election 2079 is for the honor and prestige of the people of Khotang. If I win, I will not let the people's heads bow down."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "आसन्न प्रतिनिधि सभा तथा प्रदेश सभा निर्वाचन 2079 अन्तर्गत खोटाङ जिल्ला प्रदेश सभा निर्वाचन क्षेत्र नं. ख मा मेरो उम्मेदवारी खोटाङे जनताको मान सम्मान र प्रतिष्ठाको लागि हो । मैले विजय प्राप्त गरेमा जनताको शिर झुक्न दिने छैन ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Postgraduate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "स्नातकोत्तर"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.479370Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336685,
+          "constituency_id": "entity:location/constituency/khotang-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/janata-samajwadi-party-nepal",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2278,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tilting Umbrella"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "ढल्केको छाता"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 935
+        }
+      ]
+    },
+    "id": "entity:person/prem-kumar-rai",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336685"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Prem Kumar Rai",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "प्रेम कुमार राई",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Langala, Sakela Rural Municipality, Khotang"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "खोटाङ्ग साकेला गाउँपालिका लङ्गाला"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1973-09-21",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/khotang"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Masters"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tribhuvan University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "T.U."
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Dhan Bikram Rai"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "धन विक्रम राई"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Jasu Rai"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "जसु राई"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336685.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "prem-kumar-rai",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.479360Z",
+      "entity_or_relationship_id": "entity:person/prem-kumar-rai",
+      "id": "version:entity:person/prem-kumar-rai:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

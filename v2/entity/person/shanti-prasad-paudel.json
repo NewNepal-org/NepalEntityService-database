@@ -1,0 +1,226 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "त्रि.बि."
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Obtained membership of CPN UML in 2047 BS and worked for 7 years in Ramechhap Liaison Forum, 3 years in the area, and 24 years in the District Committee as a member, deputy secretary, secretary, and chairman. Currently serving as a Bagmati Province Committee member for 2 years. Experience as a District Development Committee (DDC) member in Ramechhap from 2054-59 BS. Elected Chairman of Namadi Village Development Committee (VDC) in 2054 BS."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नेकपा एमालेको २०४७ सालमा सदस्यता प्राप्त गरी रामेछाप सम्पर्क मञ्चमा ७ वर्ष, इलाकामा ३ वर्ष, जिल्ला कमिटिमा  सदस्य, उपसचिव, सचिव, हध्यक्ष गरी २४ वर्ष काम गरेको, हाल बागमती प्रदेश कमिटि सदस्य २ वर्ष देखि कार्यरत।\n२०५४-५९ जिसस सदस्य रामेछापको अनुभव\n२०५४ नामाडी गाविसको अध्यक्ष निर्वाचित"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Masters"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Masters"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.828542Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 334386,
+        "constituency_id": "entity:location/constituency/ramechap-1",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sun"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सूर्य"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 15157
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "334386"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Shanti Prasad Paudel",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "शान्ति प्रसाद पौडेल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ramechhap Gokulganga Rural Municipality Nagi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रामेछाप गोकुलगङ्गा गाउँपालिका नागी"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1966-06-09",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/ramechap"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Masters"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रि.बि."
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Govinda Prasad Paudel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गोविन्द प्रसाद पौडेल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Sudha Neupane Paudel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सुधा न्यौपाने पौडेल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334386.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "shanti-prasad-paudel",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.828539Z",
+    "entity_or_relationship_id": "entity:person/shanti-prasad-paudel",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

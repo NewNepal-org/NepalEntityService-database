@@ -1,0 +1,217 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "TU"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Having 36 years of experience working in administration, accounting, and technical roles within the administrative service of the Government of Nepal, if I get the opportunity to serve the nation by winning this election, I will work with honesty and loyalty, giving due consideration to corruption and unorganized administrative work in the country, and strive for improvement."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नेपाल सरकारको प्रशासनिक सेवा तर्फ प्रशासन लेखा, प्राविधिक भै काम गरेको ३६ वर्षको अनुभव भएको यो निर्वाचनमा विजय भई राष्ट्रको सेवा गर्न मौका पाएमा इमान्दारी बफादारी भै काम गरी देशमा भएका भ्रष्टाचार अव्यवस्थीत प्रशासनिक काम अगाडि समेतको राम्रो ख्याल गरी काम गरी सुधार गर्ने"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bachelor"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Bachelor"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.285790Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 335481,
+        "constituency_id": "entity:location/constituency/kathmandu-5",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-marxist-leninist",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 9,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sickle and Star"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "हँसिया र तारा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 91
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "335481"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Ram Mohan Risal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "राम मोहन रिसाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kathmandu Metropolitan City, Rudramati Marg"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "काठमाडौं काठमाण्डौ महानगरपालिका रुद्रमति मार्ग"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1944-04-27",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kathmandu"
+    },
+    "education": [
+      {
+        "degree": null,
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "TU"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Kedarnath Risal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "केदारनाथ रिसाल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Shanta Risal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "शान्ता रिसाल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335481.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "ram-mohan-risal",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.285788Z",
+    "entity_or_relationship_id": "entity:person/ram-mohan-risal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

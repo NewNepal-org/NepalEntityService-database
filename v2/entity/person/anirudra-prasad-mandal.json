@@ -1,0 +1,217 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "tu"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "To end the self-serving actions of political parties."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "राजनैतिक दालहरु गरेको स्वसन अन्तय गर्नको लागि।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Proficiency Certificate"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Proficiency Cetificater"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.684074Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 334624,
+        "constituency_id": "entity:location/constituency/siraha-1",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": null,
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2002,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Scooter"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "स्कुटर"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 25
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "334624"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Anirudra Prasad Mandal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "अनिरुद्र प्रसाद मंडल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Siraha Laxmipur Patari Rural Municipality Harinagar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सिराहा लक्ष्मीपुर पतारी गाउँपालिका हरिनगर"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1976-11-20",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/siraha"
+    },
+    "education": [
+      {
+        "degree": null,
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "tu"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Ram Narayan Mandal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "राम नारायण मंडल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Gita Mandal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गिता मंडल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334624.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "anirudra-prasad-mandal",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.684070Z",
+    "entity_or_relationship_id": "entity:person/anirudra-prasad-mandal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

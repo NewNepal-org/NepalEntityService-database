@@ -1,0 +1,16 @@
+{
+  "migration_name": "005-seed-2079-election-candidates",
+  "author": "Damodar Dahal",
+  "date": "2025-11-12T00:00:00",
+  "description": "Import 2079 election candidates as Person entities",
+  "executed_at": "2025-11-13T17:32:30.507497",
+  "duration_seconds": 5.760922908782959,
+  "status": "completed",
+  "changes": {
+    "entities_created": 5636,
+    "relationships_created": 0,
+    "versions_created": 5636,
+    "summary": "Created 5636 entities, 0 relationships, and 5636 versions",
+    "has_diff": true
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.063613Z",
+  "entity_or_relationship_id": "entity:person/gajindra-tiwari",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Under SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "UNDER SLC"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.063617Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336955,
+          "constituency_id": "entity:location/constituency/mahottari-3",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2465,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Gallon"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "ग्यालिन"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 16
+        }
+      ]
+    },
+    "id": "entity:person/gajindra-tiwari",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336955"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Gajindra Tiwari",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "गजिन्‍द्र तिवारी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Mahottari Ekdara Rural Municipality Ekdara"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "महोत्तरी एकडारा गाउँपालिका एकडारा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1968-02-16",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/mahottari"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sone Lal Tiwari"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सोने लाल तिवारी"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336955.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "gajindra-tiwari",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.063613Z",
+      "entity_or_relationship_id": "entity:person/gajindra-tiwari",
+      "id": "version:entity:person/gajindra-tiwari:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

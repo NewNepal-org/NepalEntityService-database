@@ -1,0 +1,217 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "अरनिको मा.वि."
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Primary Level"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "प्राथमिक तह"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.628864Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 334428,
+        "constituency_id": "entity:location/constituency/tanahun-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2472,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Traffic Police"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "ट्राफिक प्रहरी"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 194
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "334428"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Ram Chandra Karki",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "राम चन्द्र कार्की",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Galbuwesi, Byas Municipality, Tanahun"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "तनहुँ व्यास नगरपालिका गल्वुवेसी"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1969-11-03",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/tanahun"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "UnderSLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Araniko Secondary School"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "अरनिको मा.वि."
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Man Bahadur Karki"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मान वहादुर कार्की"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Shanta Karki"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "शान्ता कार्की"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334428.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "ram-chandra-karki",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.628861Z",
+    "entity_or_relationship_id": "entity:person/ram-chandra-karki",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

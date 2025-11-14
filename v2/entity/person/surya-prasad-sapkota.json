@@ -1,0 +1,188 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "S.L.C."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "S.L.C."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.693429Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 337080,
+        "constituency_id": "entity:location/constituency/nawalpur-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2321,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Clock Tower"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "घण्टाघर"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 106
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "337080"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Surya Prasad Sapkota",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "सुर्य प्रसाद सापकोटा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Nawalparasi (Bardaghat Susta Purba) Kawasoti Municipality Sabhapati Chowk"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नवलपरासी (बर्दघाट सुस्ता पूर्व) कावासोती नगरपालिका सभपति चोक"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1983-12-01",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/nawalpur"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Laxmi Prasad Sapkota"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "लक्ष्मी प्रसाद सापकोटा"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Gyanu Gautam"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "ज्ञानु गौतम"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337080.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "surya-prasad-sapkota",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.693426Z",
+    "entity_or_relationship_id": "entity:person/surya-prasad-sapkota",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "आदर्श मा.वि. स्याङ्जा"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "SLC"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "S.L.C."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.859279Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333700,
+        "constituency_id": "entity:location/constituency/gulmi-1",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/rastriya-janamorcha",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 10,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Glass"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गिलास"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 902
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333700"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Om Bahadur Kunwar",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "ओम बहादुर कुँवर",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Pipalbot, Satyawati Rural Municipality, Gulmi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "गुल्मी सत्यवती गाउँपालिका पिपलबोट"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1975-06-04",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/gulmi"
+    },
+    "education": [
+      {
+        "degree": null,
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Adarsha Secondary School, Syangja"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "आदर्श मा.वि. स्याङ्जा"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Kesar Bahadur Kunwar"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "केशर बहादुर कुँवर"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Jamuna Kunwar"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "जमूना कुँवर"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333700.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "om-bahadur-kunwar",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.859276Z",
+    "entity_or_relationship_id": "entity:person/om-bahadur-kunwar",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.109777Z",
+  "entity_or_relationship_id": "entity:person/parmeshwar-sah",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "नवजिवन विद्याश्रम मा.वि. जुटपानी"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "10th Grade"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "१० कक्षा"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.109780Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 339123,
+          "constituency_id": "entity:location/constituency/sarlahi-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2027,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Jeep"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "जिप"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 342
+        }
+      ]
+    },
+    "id": "entity:person/parmeshwar-sah",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "339123"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Parmeshwar Sah",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "परमेश्‍वर साह",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Nawalpur, Lalbandi Municipality, Sarlahi"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सर्लाही लालबन्दी नगरपालिका नवलपुर"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1984-07-19",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/sarlahi"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "SLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Navajeevan Vidyashram Secondary School, Jutpani"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "नवजिवन विद्याश्रम मा.वि. जुटपानी"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Mahendra Sah Kanu"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "महेन्द्र साह कानु"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Asha Kumari Sah"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "आशा कुमारी साह"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/339123.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "parmeshwar-sah",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.109777Z",
+      "entity_or_relationship_id": "entity:person/parmeshwar-sah",
+      "id": "version:entity:person/parmeshwar-sah:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

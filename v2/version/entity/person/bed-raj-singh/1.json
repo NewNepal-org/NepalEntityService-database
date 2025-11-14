@@ -1,0 +1,241 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:25.165697Z",
+  "entity_or_relationship_id": "entity:person/bed-raj-singh",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्वविद्यालय"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I am contesting for the Provincial Assembly member position in Jajarkot 'A' on behalf of the Nepali Congress in the upcoming House of Representatives and Provincial Assembly elections on Mangsir 4. If elected, I pledge to work for the protection and promotion of national identity and democracy, and for the development and prosperity of the people of Jajarkot and the district."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "म अगामी मंसिर ४ गते हुन गइरहेको प्रतिनिधिसभा तथा प्रदेश सभा निर्वाचनमा नेपाली कांग्रेसको तर्फबाट जाजरकोट क मा प्रदेश सभा सदस्य पदमा प्रतिस्पर्द्धा गर्न गईरहेको छु । निर्वाचनमा विजय भएको खण्डमा राष्ट्र राष्ट्रियता लोकतान्त्रको संरक्षण सम्वद्ध तथा जाजरकोटवासी जनता र जिल्लाको विकास तथा समृद्धिको लागी भएर काम गर्ने प्रतिवद्धता व्यक्त गर्दछु ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bachelor"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Bachelor"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:25.165699Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335757,
+          "constituency_id": "entity:location/constituency/jajarkot-1",
+          "elected": true,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepali-congress",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 1,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tree"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "रुख"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 18543
+        }
+      ]
+    },
+    "id": "entity:person/bed-raj-singh",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335757"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Bed Raj Singh",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "बेद राज सिंह",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Sepukhola, Birekot Rural Municipality, Jajarkot"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "जाजरकोट बारेकोट गाउँपालिका सेपुखोला"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1980-05-06",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/jajarkot"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tribhuvan University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "त्रिभुवन विश्वविद्यालय"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Lal Bhakta Singh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "लाल भक्त सिंह"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Dhan Kumari Shah Singh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "धन कुमारी शाह सिंह"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335757.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "bed-raj-singh",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate",
+      "provincial-election-2079-elected"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:25.165697Z",
+      "entity_or_relationship_id": "entity:person/bed-raj-singh",
+      "id": "version:entity:person/bed-raj-singh:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

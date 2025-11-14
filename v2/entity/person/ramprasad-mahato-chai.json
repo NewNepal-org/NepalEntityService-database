@@ -1,0 +1,211 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "रामदेव कलवार उच्च मा.वि. पोखरिया"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Education N/A"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Education N/A"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.373394Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 335426,
+        "constituency_id": "entity:location/constituency/parsa-3",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2316,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Butterfly"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "पुतली"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 15
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "335426"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Ramprasad Mahato Chai",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "रामप्रसाद महतेा चाई",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Parsa Pokhariya Municipality"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पर्सा पोखरिया नगरपालिका"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1971-04-14",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/parsa"
+    },
+    "education": [
+      {
+        "degree": null,
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Ramdev Kalwar Higher Secondary School Pokhariya"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "रामदेव कलवार उच्च मा.वि. पोखरिया"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Narsingh Mahato Chai"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "नरसिह‍ं महतेा चाई"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Sumintra Devi Chain"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सुमीन्त्रा देवी चाईन"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335426.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "ramprasad-mahato-chai",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.373392Z",
+    "entity_or_relationship_id": "entity:person/ramprasad-mahato-chai",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

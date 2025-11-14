@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:21.436973Z",
+  "entity_or_relationship_id": "entity:person/gyanendra-raj-karki",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "शारदा मा वि ताप्लेजुङ्ग"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Developing political, economic, and social aspects, ending corruption and irregularities."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "राजनैतिक आर्थिक सामाजिका विकास गर्ने भ्रष्टाचार मुक्त बेथितिको अन्त्य गर्ने"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "SLC Pass"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "एस एल सी उत्तीर्ण"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:21.436975Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 333245,
+          "constituency_id": "entity:location/constituency/jhapa-2",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/nepali-for-nepal-party",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2329,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Conch inside a circle"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "गोलाकार भित्र शंख"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 106
+        }
+      ]
+    },
+    "id": "entity:person/gyanendra-raj-karki",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "333245"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Gyanendra Raj Karki",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "ज्ञानेन्द्रराज कार्की",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Charpane, Budhashanti Rural Municipality, Jhapa"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "झापा बुद्धशान्ति गाउँपालिका चारपाने"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1986-01-15",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/taplejung"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "SLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sharda Ma Vi Taplejung"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "शारदा मा वि ताप्लेजुङ्ग"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kedar Jang Karki"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "केदारजंग कार्की"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Divya Karki"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दिव्या कार्की"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333245.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "gyanendra-raj-karki",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:21.436973Z",
+      "entity_or_relationship_id": "entity:person/gyanendra-raj-karki",
+      "id": "version:entity:person/gyanendra-raj-karki:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

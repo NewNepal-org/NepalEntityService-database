@@ -1,0 +1,211 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:21.767212Z",
+  "entity_or_relationship_id": "entity:person/samiksha-shrestha",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I am not a person who has joined this party from a political background; I am a person who earns a living through my own work. I have come to serve the people, being fed up with the tendency in Nepali politics to enrich oneself and one's relatives while making the public suffer, and my feelings have become connected with this Rastriya Swatantra Party."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "म राजनैतिक पृष्ट भुमिमा यस पार्टीमा आवद्व हुन आएको व्यक्ति होईन म आफ्नै का गरी जिवन यापन गर्ने व्यक्ति हो। नेपालमा राजनिति आफु र आफन्तलाई धनि बनायर जनतालेई दोसि बानउने प्रवृद्वी बाट दिक्क भएर जनतालाई सेवा गर्न आएको र यस रा.स्वा.पा. समक्ष मेरा भावना  जोडिएर आइपुगेको हू ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "10+2"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "10+2"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:21.767215Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 339024,
+          "constituency_id": "entity:location/constituency/ramechap-1",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/national-independent-party",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2445,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Bell inside a circle"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "गोलाकार भित्र घण्टी"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 1457
+        }
+      ]
+    },
+    "id": "entity:person/samiksha-shrestha",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "339024"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Samiksha Shrestha",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "समिक्षा श्रेष्ठ",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bettini, Manthali Municipality, Ramechhap"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "रामेछाप मन्थली नगरपालिका बेतिनी"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1987-07-02",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/ramechap"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Gopal Das Karma"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "गोपाल दास कर्मा"
+        }
+      },
+      "gender": "female",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Dinesh Kumar Shrestha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दिनेश कुमार श्रेष्ठ"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/339024.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "samiksha-shrestha",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:21.767212Z",
+      "entity_or_relationship_id": "entity:person/samiksha-shrestha",
+      "id": "version:entity:person/samiksha-shrestha:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

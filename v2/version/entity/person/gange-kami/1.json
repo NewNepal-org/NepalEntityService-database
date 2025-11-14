@@ -1,0 +1,222 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:25.183657Z",
+  "entity_or_relationship_id": "entity:person/gange-kami",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "सूर्यज्योती मावि मेहेलकुना"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "General"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "साधारण"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:25.183659Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 338373,
+          "constituency_id": "entity:location/constituency/surkhet-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/janata-samajwadi-party-nepal",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2278,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tilting Umbrella"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "ढल्केको छाता"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 49
+        }
+      ]
+    },
+    "id": "entity:person/gange-kami",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "338373"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Gange Kami",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "गंगे कामी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Surkhet Gurbhakot Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सुर्खेत गुर्भाकोट नगरपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1981-12-30",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/surkhet"
+      },
+      "education": [
+        {
+          "degree": null,
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": {
+              "provenance": "imported",
+              "value": "सूर्यज्योती मावि मेहेलकुना"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bude Kami"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बुदे कामी"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Gaumati Kami"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "गौमति कामी"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338373.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "gange-kami",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:25.183657Z",
+      "entity_or_relationship_id": "entity:person/gange-kami",
+      "id": "version:entity:person/gange-kami:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

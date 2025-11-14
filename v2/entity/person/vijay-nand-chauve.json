@@ -1,0 +1,226 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "रत्नसेन इन्टर कलेज बाँसी"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "To participate in social service and national development processes as a candidate"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "आफु उम्मेदवार भई समाज सेवा तथा देश विकास गर्ने प्रकृयामा सहभागी हुने"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Certificate Level"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "प्रमाणपत्र तह"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.774670Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333414,
+        "constituency_id": "entity:location/constituency/kapilvastu-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 1037,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Stool"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "स्टूल"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 11
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333414"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Vijay Nand Chauve",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "विजय नन्द चौवे",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bhadahar, Yashodhara Rural Municipality, Kapilvastu"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कपिलवस्तु यसोधरा गाउँपालिका भडेहर"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1963-03-23",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kapilvastu"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Intermediate"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Ratnasen Inter College Bansi"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "रत्नसेन इन्टर कलेज बाँसी"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Triloki Nath Chauve"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "त्रिलोकी नाथ चौवे"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Madhuri Chauve"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "माधुरी चौवे"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333414.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "vijay-nand-chauve",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.774667Z",
+    "entity_or_relationship_id": "entity:person/vijay-nand-chauve",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

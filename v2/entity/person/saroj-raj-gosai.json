@@ -1,0 +1,217 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "त्रिभुवन विश्वविद्यालय"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Masters"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Masters"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.378097Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336912,
+        "constituency_id": "entity:location/constituency/bhaktapur-2",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/nepal-workers-peasants-party",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 12,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Madal"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "मादल"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 3086
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336912"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Saroj Raj Gosai",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "सरोज राज गोसाई",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bhaktapur Bhaktapur Municipality Taulachhe"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "भक्तपुर भक्तपुर नगरपालिका तौलाछे"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1973-10-18",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/bhaktapur"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Masters"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्वविद्यालय"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Buddhi Kumar Gosai"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "बुद्धि कुमार गोसाई"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Kalpana Kumari Thapa"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "कल्पना कुमारी थापा"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336912.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "saroj-raj-gosai",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.378094Z",
+    "entity_or_relationship_id": "entity:person/saroj-raj-gosai",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

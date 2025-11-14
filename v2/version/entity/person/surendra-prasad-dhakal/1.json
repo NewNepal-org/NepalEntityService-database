@@ -1,0 +1,193 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:21.998734Z",
+  "entity_or_relationship_id": "entity:person/surendra-prasad-dhakal",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Masters"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Masters"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:21.998737Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 333353,
+          "constituency_id": "entity:location/constituency/kathmandu-1",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/communist-party-of-nepal-marxist-leninist",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 9,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Sickle and Star"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "हँसिया र तारा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 92
+        }
+      ]
+    },
+    "id": "entity:person/surendra-prasad-dhakal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "333353"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Surendra Prasad Dhakal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सुरेन्द्र प्रसाद ढकाल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Kathmandu Kathmandu Metropolitan City Devkota Sadak"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "काठमाडौं काठमाण्डौ महानगरपालिका देवकोटा सड्क"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1958-11-01",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/kathmandu"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Basu Dev Dhakal"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बासु देव ढकाल"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333353.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "surendra-prasad-dhakal",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:21.998734Z",
+      "entity_or_relationship_id": "entity:person/surendra-prasad-dhakal",
+      "id": "version:entity:person/surendra-prasad-dhakal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,247 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:25.335016Z",
+  "entity_or_relationship_id": "entity:person/tara-prasad-joshi",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "जावाहरलाल विश्वविद्यालय, भारत"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Good governance, democratic governance practices and development; Contributing to establishing and developing accountable and responsible public administration"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "शुसाशन, लोकतन्त्र शासकिय अभ्यास र विकास\nउत्तरदायी र जवाफदेही सार्वजनिक प्रशासन कायम र विकास गर्ने दिशामा योगदान पुर्याउने"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "PHD"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "PHD"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:25.335018Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336749,
+          "constituency_id": "entity:location/constituency/dadeldhura-1",
+          "elected": true,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2457,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Lantern"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "लालटिन"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 11162
+        }
+      ]
+    },
+    "id": "entity:person/tara-prasad-joshi",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336749"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Tara Prasad Joshi",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "तारा प्रसाद जोशी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Baman Gaun, Ganyapadhura Rural Municipality, Dadeldhura"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "डडेलधुरा गन्यापधुरा गाउँपालिका बामनगाउँ"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1971-04-12",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/dadeldhura"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "PhD"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Political Science"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Jawaharlal University, India"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "जावाहरलाल विश्वविद्यालय, भारत"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bhawani Dutt Joshi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "भवानी दत्त जोशी"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kumari Shanti Pant/joshi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कुमारी शान्ती पन्त/जोशी"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336749.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "tara-prasad-joshi",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate",
+      "provincial-election-2079-elected"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:25.335016Z",
+      "entity_or_relationship_id": "entity:person/tara-prasad-joshi",
+      "id": "version:entity:person/tara-prasad-joshi:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

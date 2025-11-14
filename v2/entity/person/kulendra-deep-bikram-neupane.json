@@ -1,0 +1,205 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bachelor"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Bachelor"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.259865Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336428,
+        "constituency_id": "entity:location/constituency/makwanpur-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/sachet-nepali-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 85,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Mother holding a child in her lap"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "बच्चा काखमा लिएकी आमा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 275
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336428"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Kulendra Deep Bikram Neupane",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "कुलेन्द्र दिप विक्रम न्यौपाने",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Makwanpur Hetauda Sub-Metropolitan City"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "मकवानपुर हेटौडा उपमहानगरपालिका"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1983-08-16",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/makwanpur"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Bachelor"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": null,
+          "ne": null
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chiranjeevi Neupane"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "चिरंजिवि न्यौपाने"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Minu Khadka Neupane"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मिनु खड्का न्यौपाने"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336428.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "kulendra-deep-bikram-neupane",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.259863Z",
+    "entity_or_relationship_id": "entity:person/kulendra-deep-bikram-neupane",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

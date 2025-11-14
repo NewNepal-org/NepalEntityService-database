@@ -1,0 +1,237 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.590230Z",
+  "entity_or_relationship_id": "entity:person/kamrullah-ansari",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "मेडिकल बायो बंगला देश"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Masters"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Masters"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.590232Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336005,
+          "constituency_id": "entity:location/constituency/bara-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2461,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Shirt"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "कमिज"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 908
+        }
+      ]
+    },
+    "id": "entity:person/kamrullah-ansari",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336005"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Kamrullah Ansari",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "कमरुल्लाह अंसारी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Naykatola, Simraungadh Municipality, Bara"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "बारा सिम्रौनगढ नगरपालिका नयकाटोला"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1978-03-08",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/bara"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Masters"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Medical Bio"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Medical Bio Bangladesh"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "मेडिकल बायो बंगला देश"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Isu Miyan Ansari"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "इसु मियाँ अंसारी"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Anjum Pravin"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "अन्जुम प्रविन"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336005.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "kamrullah-ansari",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.590230Z",
+      "entity_or_relationship_id": "entity:person/kamrullah-ansari",
+      "id": "version:entity:person/kamrullah-ansari:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

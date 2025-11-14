@@ -1,0 +1,188 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Masters"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Masters"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.818416Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336338,
+        "constituency_id": "entity:location/constituency/pyuthan-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/rastriya-janamorcha",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 10,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Glass"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गिलास"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 35814
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336338"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Durga Paudel",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "दुर्गा पौडेल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Pyuthan Jhimruk Rural Municipality Machhi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "प्यूठान झिमरुक गाउँपालिका मच्छी"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1971-09-21",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kapilvastu"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Bishnu Prasad Paudel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "विष्णु प्रसाद पौडेल"
+      }
+    },
+    "gender": "female",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Mohan Singh G.C."
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मोहन सिं जि.सी"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336338.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "durga-paudel",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.818414Z",
+    "entity_or_relationship_id": "entity:person/durga-paudel",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

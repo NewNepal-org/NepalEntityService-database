@@ -1,0 +1,202 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.772222Z",
+  "entity_or_relationship_id": "entity:person/ram-bahadur-lama",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Education N/A"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Education N/A"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.772225Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 337856,
+          "constituency_id": "entity:location/constituency/gorkha-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/mongol-national-organization",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 35,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Rooster"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "कुखुराको भाले"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 241
+        }
+      ]
+    },
+    "id": "entity:person/ram-bahadur-lama",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "337856"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Ram Bahadur Lama",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "राम बहादुर लामा",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Gorkha Aarughat Rural Municipality Kavre"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "गोरखा आरूघाट गाउँपालिका काभ्रे"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1972-04-19",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/gorkha"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Temba Lama"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "तेम्वा लामा"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Phul Maya Lama"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "फुल माया लामा"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337856.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "ram-bahadur-lama",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.772222Z",
+      "entity_or_relationship_id": "entity:person/ram-bahadur-lama",
+      "id": "version:entity:person/ram-bahadur-lama:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

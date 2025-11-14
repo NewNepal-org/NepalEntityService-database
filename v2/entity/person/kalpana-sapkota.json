@@ -1,0 +1,217 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "पोखरे मा वि पाेखरे"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "S.L.C."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "S.L.C."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.517967Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336672,
+        "constituency_id": "entity:location/constituency/udayapur-1",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/sachet-nepali-party",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 85,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Mother holding a baby"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "बच्चा काखमा लिएकी आमा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 293
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336672"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Kalpana Sapkota",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "कल्पना सापकोटा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Udayapur Belaka Municipality Galeni"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "उदयपुर वेलका  नगरपालिका गलेनि"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1988-08-21",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/udayapur"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "SLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Pokhare Ma Vi Pokhare"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "पोखरे मा वि पाेखरे"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Bhim Bahadur Sapkota"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "भिम बहादुर सापकोटा"
+      }
+    },
+    "gender": "female",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Gajendra Kumar Katuwal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गजेन्द्र कुमार कटुवाल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336672.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "kalpana-sapkota",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.517963Z",
+    "entity_or_relationship_id": "entity:person/kalpana-sapkota",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

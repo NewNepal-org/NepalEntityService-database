@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:22.167826Z",
+  "entity_or_relationship_id": "entity:person/champa-bogati",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "श्री मनोहर मा . वि"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "SLC"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:22.167829Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335098,
+          "constituency_id": "entity:location/constituency/bhaktapur-2",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": null,
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2475,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Water Jar"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "पानीको जार"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 6
+        }
+      ]
+    },
+    "id": "entity:person/champa-bogati",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335098"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Champa Bogati",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "चम्पा बोगती",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bhaktapur Suryavinayak Municipality Suvarneshwor"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "भक्तपुर सूर्यविनायक नगरपालिका सुवर्णेश्‍वर"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1983-01-26",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/kathmandu"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "SLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Shree Manohar Ma. Vi."
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "श्री मनोहर मा . वि"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ram Sharan Bogati"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "राम शरण बोगती"
+        }
+      },
+      "gender": "female",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Purna Nepali Bisunke"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पुर्ण नेपाली बिसुंके"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335098.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "champa-bogati",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:22.167826Z",
+      "entity_or_relationship_id": "entity:person/champa-bogati",
+      "id": "version:entity:person/champa-bogati:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

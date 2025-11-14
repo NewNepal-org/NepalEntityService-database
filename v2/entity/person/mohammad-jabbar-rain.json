@@ -1,0 +1,223 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "मदरसा (अकरमुम ओलुम)"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "S.L.C. (Urdu)"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "S.L.C. (उर्दु)"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.971074Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336819,
+        "constituency_id": "entity:location/constituency/dhanusha-4",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": null,
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2457,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Lantern"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "लालटिन"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 326
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336819"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Mohammad Jabbar Rain",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "मो. जब्बार राईन",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Dhanusha Janakpurdham Sub-Metropolitan City"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "धनुषा जनकपुरधाम उपमहानगरपालिका"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1979-02-17",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/dhanusha"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "SLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Urdu"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Madrasa (Akramum Olum)"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "मदरसा (अकरमुम ओलुम)"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Mohammad Yasin Rain"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "महम्मद यासिन राईन"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Farmuda Khatun"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "फरमुदा खातुन"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336819.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "mohammad-jabbar-rain",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.971072Z",
+    "entity_or_relationship_id": "entity:person/mohammad-jabbar-rain",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

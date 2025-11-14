@@ -1,0 +1,234 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:22.228270Z",
+  "entity_or_relationship_id": "entity:person/yok-bahadur-ghising",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रि.वि."
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "With the intention of dedicating myself to the country and its people for a long time, I have been involved in politics and have held various responsibilities within the party, serving as Secretary, Chairman, Political Council Member, and then as a Standing Committee Member. I am informing that I have participated in the House of Representatives election on December 4, 2022 (Mangsir 4, 2079 BS) to get an opportunity to serve the public directly elected by the people. If the people cast their valuable votes and make me victorious, I wish to dedicate all my available time to the public."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "विगत लामो समयदेखि देश र जनताको पक्षमा दत्तचित्त भई लागि पर्ने अभिप्रायले राजनितिक रुपमा पार्टीमा आबद्द भई जिम्मेवारी बहन गर्ने क्रममा पार्टीको जिम्मेवारी सचिव, अध्यक्ष, राजनीतिक परिषद सदस्य हुँदै स्थायी समिति सदस्य रही जिम्मेवारी वहन गर्दै आएकोमा प्रत्यक्ष जनताद्वारा निर्वाचित भई थप जनसेवा गर्ने मौकाको लागि 2079 मंसीर 4 को प्रतिनिधि सभा सदस्यमा भाग लिएको अवगत गराउदै जनताले आफ्नो अमुल्य मत दिई विजयी गराउनु भएमा आफूले भ्याए सम्मको सम्पुर्ण समय जनतामा समर्पित गर्न चहान्छु।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Proficiency Certificate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Proficiency Certificate"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:22.228273Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 334775,
+          "constituency_id": "entity:location/constituency/kavrepalanchok-2",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/nepal-communist-party-maoist-socialist",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2314,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Male Female"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "महिला पुरुष"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 99
+        }
+      ]
+    },
+    "id": "entity:person/yok-bahadur-ghising",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "334775"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Yok Bahadur Ghising",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "योक बहादुर घिसिङ",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Khajuli Besi, Khanikhola Rural Municipality, Kavrepalanchok"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "काभ्रेपलाञ्चोक खानीखोला गाउँपालिका खजुलीबेसी"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1979-06-14",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/kavrepalanchok"
+      },
+      "education": [
+        {
+          "degree": null,
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tribhuvan University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "त्रि.वि."
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Gagan Singh Ghising"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "गगन सिं घिसिङ"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sangita+kamala Gole Ghising+ Thadamagar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "संगिता+कमला गोले घिसिङ+ ठाडामगर"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334775.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "yok-bahadur-ghising",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:22.228270Z",
+      "entity_or_relationship_id": "entity:person/yok-bahadur-ghising",
+      "id": "version:entity:person/yok-bahadur-ghising:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

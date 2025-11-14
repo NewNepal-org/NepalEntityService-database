@@ -1,0 +1,237 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.638277Z",
+  "entity_or_relationship_id": "entity:person/rama-kant-chaudhary",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "महेन्द्र मोरङ्ग बहुमुखी क्याम्पस विराटनगर"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "B.Com."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "वि.कम."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.638280Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335192,
+          "constituency_id": "entity:location/constituency/saptari-4",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepal-communist-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 62,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Hammer and Spade"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "घन कोदालो"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 996
+        }
+      ]
+    },
+    "id": "entity:person/rama-kant-chaudhary",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335192"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Rama Kant Chaudhary",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "रामा कान्त चौधरी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Siraha Lahan Municipality Matiarwa"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सिराहा लहान नगरपालिका मटिअर्वा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1971-09-15",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/saptari"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Commerce"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Mahendra Morang Multiple Campus Biratnagar"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "महेन्द्र मोरङ्ग बहुमुखी क्याम्पस विराटनगर"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Hari Narayan Chaudhary"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "हरी नारायण चौधरी"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Mohani Devi Chaudhary"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "मोहनी देवी चौधरी"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335192.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "rama-kant-chaudhary",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.638277Z",
+      "entity_or_relationship_id": "entity:person/rama-kant-chaudhary",
+      "id": "version:entity:person/rama-kant-chaudhary:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

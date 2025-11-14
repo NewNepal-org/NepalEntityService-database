@@ -1,0 +1,237 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.813248Z",
+  "entity_or_relationship_id": "entity:person/khim-prasad-timilsina",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "tu"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "The main objective is to lead the youth in the country, work transparently in youth policy formulation, develop according to the geography, emphasize fulfilling basic needs of individuals, create employment and self-employment opportunities, and focus on agriculture and tourism to move the country towards prosperity."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "देशमा युवा वर्गलाई अग्रसरगरी नेतृत्वमा युवा निती निर्माणमा रही पारदर्शी कार्य गर्ने, आफ्नो भुगोल सुहाउदो विकास, व्यक्तिको आधारभुत कुरा परिपुर्तिमा जोड रोजगार एवं स्वरोजगारको अवसरको सृजना गरी देश सम्वृद्धि तर्फ उन्मुख गरी कृषी र पर्यटनमा जोड दिनु मुख्य उद्धेश्य"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bachelor"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "स्नातक"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.813251Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 333370,
+          "constituency_id": "entity:location/constituency/kaski-3",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/hamro-nepali-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2319,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Stick"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "लौरो"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 2515
+        }
+      ]
+    },
+    "id": "entity:person/khim-prasad-timilsina",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "333370"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Khim Prasad Timilsina",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "खिम प्रसाद तिमिल्सिना",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Kaski Pokhara Metropolitan City Padeli"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "कास्की पोखरा महानगरपालिका पदेली"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1991-11-20",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/kaski"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": {
+              "provenance": "imported",
+              "value": "tu"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Prajapati Timilsina"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "प्रजापती तिमिल्सिना"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Dev Kumari Timilsina"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "देव कुमारी तिमिल्सना"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333370.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "khim-prasad-timilsina",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.813248Z",
+      "entity_or_relationship_id": "entity:person/khim-prasad-timilsina",
+      "id": "version:entity:person/khim-prasad-timilsina:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

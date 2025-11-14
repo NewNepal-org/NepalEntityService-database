@@ -1,0 +1,211 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:21.634994Z",
+  "entity_or_relationship_id": "entity:person/yagya-raj-sunuwar",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Institutionalizing the republic, serving and protecting the country and its people, contributing further to building a prosperous Nepal and happy Nepalis, and continuously working for the destiny and future of Nepalis by utilizing my experience to the maximum."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "गणतन्त्रको संस्थागत गर्ने देश र जनताको सेवा र संरक्षण गर्दै समृद्ध नेपाल सुखी नेपाली निर्माणमा अझै भुमिका निर्वाह गर्दै मेरो आफ्नो अनुभवलाई अधीक्तम प्रयोग गरी नेपालीहरुको भाग्य र भविष्य निर्माणमा निरन्तर लागि रहने"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Masters"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Masters"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:21.634996Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 334866,
+          "constituency_id": "entity:location/constituency/okhaldhunga-1",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Sun"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "सूर्य"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 26738
+        }
+      ]
+    },
+    "id": "entity:person/yagya-raj-sunuwar",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "334866"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Yagya Raj Sunuwar",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "यज्ञ राज सुनुवार",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Okhaldhunga Molung Rural Municipality Majuwa"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "ओखलढुंगा मोलुङ गाउँपालिका मजुवा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1972-10-19",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/okhaldhunga"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Man Bahadur Sunuwar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "मान बहादुर सुनुवार"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sanjana Rai"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सन्जना राई"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334866.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "yagya-raj-sunuwar",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:21.634994Z",
+      "entity_or_relationship_id": "entity:person/yagya-raj-sunuwar",
+      "id": "version:entity:person/yagya-raj-sunuwar:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

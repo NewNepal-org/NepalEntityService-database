@@ -1,0 +1,208 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "उर्दु मेडिल उच्च विद्यालय चन्दन बारा बिहार"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "10"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "१०"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.287665Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 338838,
+        "constituency_id": "entity:location/constituency/rautahat-3",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/rastriya-sadbhawana-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2328,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Palm"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "पञ्जाछाप"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 59
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "338838"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sheikh Arshad",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "शेख अरसद",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Rautahat Gujara Municipality"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रौतहट गुजरा नगरपालिका"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1994-01-14",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/rautahat"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "SLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Urdu Middle High School Chandan Bara Bihar"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "उर्दु मेडिल उच्च विद्यालय चन्दन बारा बिहार"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Sheikh Mustaq Arshad"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "शेख मुस्ताक अरसद"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338838.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "sheikh-arshad",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.287662Z",
+    "entity_or_relationship_id": "entity:person/sheikh-arshad",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.969242Z",
+  "entity_or_relationship_id": "entity:person/gyanendra-kumar-yadav-335521",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "रा.रा.ब. क्याम्पस जनकपुर / त्रि. विश्वविद्यालय"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I am a fully qualified candidate as per the constitution and prevailing laws. I do not hold any office of profit receiving remuneration or financial benefits from the government treasury, and no criminal charges have been filed against me. I am fully committed to the observance and implementation of the Constitution of Nepal 2072 of the Federal Democratic Republic of Nepal."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "संविधान तथा प्रचलित कानून बमोजिम सर्वथा योग्य उम्मेदवार छु । \nसरकारी कोषबाट पारिश्रमिक वा आर्थिक सुविधा पाउने कुनै लाभको पद धारण गरेको छैन र म बिरुद्ध कुनै किसिमको फौजदारी अभियोग लागेको छैन । \nसंघिय लोकतान्त्रिक गणतन्त्र राज्य नेपालको संविधान २०७२ को पूर्ण प्रति पालन तथा कार्यान्वयन प्रति प्रतिबद्ध छु ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Masters"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Masters"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.969245Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335521,
+          "constituency_id": "entity:location/constituency/dhanusha-4",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/janata-samajwadi-party-nepal",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2278,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tilting Umbrella"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "ढल्केको छाता"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 8196
+        }
+      ]
+    },
+    "id": "entity:person/gyanendra-kumar-yadav-335521",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335521"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Gyanendra Kumar Yadav",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "ज्ञानेन्द्र कुमार यादव",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Dhanusha Janakpurdham Sub-Metropolitan City Jamuniya"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "धनुषा जनकपुरधाम उपमहानगरपालिका जमुनिया"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1975-04-28",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/dhanusha"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Masters"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "R.R.B. Campus Janakpur / Tribhuvan University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "रा.रा.ब. क्याम्पस जनकपुर / त्रि. विश्वविद्यालय"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Mahavir Yadav"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "महावीर यादव"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Rita Kumari Yadav"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रिता कुमारी यादव"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335521.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "gyanendra-kumar-yadav-335521",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.969242Z",
+      "entity_or_relationship_id": "entity:person/gyanendra-kumar-yadav-335521",
+      "id": "version:entity:person/gyanendra-kumar-yadav-335521:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

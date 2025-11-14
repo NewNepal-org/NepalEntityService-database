@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.146769Z",
+  "entity_or_relationship_id": "entity:person/gayatri-kumari",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्वविद्यालय"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "For the construction of modern Nepal"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "आधुनिक नेपाल निर्माणका लागि"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bachelor"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "स्नातक"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.146772Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336981,
+          "constituency_id": "entity:location/constituency/sarlahi-3",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2002,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Scooter"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "स्कुटर"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 187
+        }
+      ]
+    },
+    "id": "entity:person/gayatri-kumari",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336981"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Gayatri Kumari",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "गायत्री कुमारी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Sarlahi Basbariya Rural Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सर्लाही बसबरिया गाउँपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1985-07-30",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/sarlahi"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tribhuvan University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "त्रिभुवन विश्वविद्यालय"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Shivsharan Sah"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "शिवशरण साह"
+        }
+      },
+      "gender": "female",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Phulchan Prasad Sah"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "फुलचन प्रसाद साह"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336981.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "gayatri-kumari",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.146769Z",
+      "entity_or_relationship_id": "entity:person/gayatri-kumari",
+      "id": "version:entity:person/gayatri-kumari:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

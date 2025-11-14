@@ -1,0 +1,211 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:22.301691Z",
+  "entity_or_relationship_id": "entity:person/bhav-nath-sharma-ghimire",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I have been continuously involved in social service for the past 20-25 years. So far, I have not done any work against the constitution of Nepal."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "म विगत २०-२५ वर्ष देखि समाज सेवामा निरन्तर रुपमा लागि रहेको छु। हाल सम्म नेपाल संविधान विपरित कुनै कार्य गरेको छैन।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Basic literacy"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "साधारण लेखपढ"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:22.301694Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335074,
+          "constituency_id": "entity:location/constituency/rautahat-4",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": null,
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2317,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Rabbit"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "खरायो"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 16
+        }
+      ]
+    },
+    "id": "entity:person/bhav-nath-sharma-ghimire",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335074"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Bhav Nath Sharma Ghimire",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "भव नाथ शर्मा घिमिरे",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Kaptaan, Chandrapur Municipality, Rautahat"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "रौतहट चन्द्रपुर नगरपालिका कपतान"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1945-11-25",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/bara"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Tika Ram Sharma Ghimire"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "टिका राम शर्मा घिमिरे"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Yadu Kumari Ghimire"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "यदु कुमारी घिमिरे"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335074.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "bhav-nath-sharma-ghimire",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:22.301691Z",
+      "entity_or_relationship_id": "entity:person/bhav-nath-sharma-ghimire",
+      "id": "version:entity:person/bhav-nath-sharma-ghimire:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

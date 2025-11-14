@@ -1,0 +1,197 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "There is a lack of efficient politics in our country, and proper evaluation of members has not been observed. Discrimination between men and women and other irregularities have been seen. Considering all these issues, my opinion is that we will only exist if our country exists."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "हाम्रो देशमा कुशल राजनितिको अभाव देखियो सदस्यहरुको सही मुल्याङकण गरेको देखिएन । महिला पुरुषको भेद भाव एवं अन्य विकृति देखियो । यी सबै कुमारमा विचार गर्दा हामी हाम्रो देश रहे मात्र हामी रहन्छौ भन्ने मेरो भनाई छ ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "10+2"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "10+2"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.984942Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 338630,
+        "constituency_id": "entity:location/constituency/dhanusha-4",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/janata-pragatisheel-party-nepal",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2324,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Farmer with a hoe"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "कोदालो बोकेको किसान"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 139
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "338630"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Shobha Karki",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "शोभा कार्की",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sindhulitol, Kshireswarnath Municipality, Dhanusha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "धनुषा क्षिरेश्वरनाथ नगरपालिका सिंधुलीटोल"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1973-07-29",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/dhanusha"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Krishna Bahadur Khadka"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "कृष्‍ण बहादुर खडका"
+      }
+    },
+    "gender": "female",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Mohan Kumar Karki"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मोहन कुमार कार्की"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338630.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "shobha-karki-338630",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.984939Z",
+    "entity_or_relationship_id": "entity:person/shobha-karki-338630",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

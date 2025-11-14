@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.793190Z",
+  "entity_or_relationship_id": "entity:person/babu-ram-thapa",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "PN"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Contribute from one's own sector for education, health, development and prosperity. Develop social service, religious and tourism sectors."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "शिक्षा स्वास्थय विकास र समृद्धिको लागि आफ्नो क्षेत्रबाट योगदान पुर्याउने । समाज सेवा तथा धार्मिक तथा पर्यटन क्षेत्रको विकास गर्ने"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Proficiency Certificate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Proficiency Certificate"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.793193Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336927,
+          "constituency_id": "entity:location/constituency/kaski-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/national-democratic-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2279,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Plough"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "हलो"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 3534
+        }
+      ]
+    },
+    "id": "entity:person/babu-ram-thapa",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336927"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Babu Ram Thapa",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "बाबु राम थापा",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Kaski Pokhara Metropolitan City Gumaj"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "कास्की पोखरा महानगरपालिका गुमाज"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1966-12-29",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/kaski"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "PCL"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "PN"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "PN"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Khadga Bahadur Thapa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "खड्ग बहादुर थापा"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Santi Thapa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सन्ती थापा"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336927.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "babu-ram-thapa",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.793190Z",
+      "entity_or_relationship_id": "entity:person/babu-ram-thapa",
+      "id": "version:entity:person/babu-ram-thapa:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

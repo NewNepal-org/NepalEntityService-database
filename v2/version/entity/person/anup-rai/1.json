@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.114076Z",
+  "entity_or_relationship_id": "entity:person/anup-rai",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "मेची बहुमुखि क्याम्पस"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Working with the idea of continuous service in the social sector, we must play an important role in national construction. For this, I have submitted my candidacy from Province Assembly Member Constituency No. 3(1) for the year 2022 AD, as it is also the responsibility of every citizen from their respective places. I am proud to be a united Nepali who always advocates for state integrity and a Hindu nation."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सामाजिक क्षेत्रमा निरन्तर सेवा भावनाको विचार लिई कार्य गर्दै हामी राष्ट्रिय निर्माणमा महत्वपूर्ण भूमिका निर्वाह गर्नुपर्छ। त्यसको लागि आ-आफ्नो स्थानबाट प्रत्येक नागरिकको दायित्व समेत भएकाोमा २०७९ सालको प्रदेश सभा सदस्य क्षेत्र नं. ३(१) बाट उम्मेद्वार दिएको छु। राज्यता अखण्डता एवं हिन्दु राष्ट्रको पक्षमा सदैव वकालत गर्ने एकता नेपाली भएको गर्व गर्दछु।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Proficiency Certificate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Proficiency Certificate"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.114078Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335073,
+          "constituency_id": "entity:location/constituency/jhapa-3",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepali-congress-bp",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 86,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Karuwa"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "करुवा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 353
+        }
+      ]
+    },
+    "id": "entity:person/anup-rai",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335073"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Anup Rai",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "अनुप राय",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Jhapa Bhadrapur Municipality Mechimarg"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "झापा भद्रपुर नगरपालिका मेचीमार्ग"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1979-12-04",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/jhapa"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Intermediate"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Mechi Multipurpose Campus"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "मेची बहुमुखि क्याम्पस"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bijay Kumar Rai"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बिजय कुमार राय"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Rita Barman"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रीता बर्मन"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335073.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "anup-rai",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.114076Z",
+      "entity_or_relationship_id": "entity:person/anup-rai",
+      "id": "version:entity:person/anup-rai:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

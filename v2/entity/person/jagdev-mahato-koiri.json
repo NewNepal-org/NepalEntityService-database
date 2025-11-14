@@ -1,0 +1,188 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Education N/A"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Education N/A"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.601262Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 337096,
+        "constituency_id": "entity:location/constituency/bara-2",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/nepali-for-nepal-party",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2329,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Conch shell inside a circle"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोलाकार भित्र शंख"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 267
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "337096"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Jagdev Mahato Koiri",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "जगदेव महतो कोइरि",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bara Mahagadhimai Municipality Bariarpur"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बारा महागढीमाई नगरपालिका बरियारपुर"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1946-04-23",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/bara"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Muni Mahato"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मुनी महतो"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Koshila Devi"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "कोशिला देवी"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337096.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "jagdev-mahato-koiri",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.601260Z",
+    "entity_or_relationship_id": "entity:person/jagdev-mahato-koiri",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

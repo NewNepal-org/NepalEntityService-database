@@ -1,0 +1,226 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "त्रि.बि."
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Inspired by the student movement of 035/036, I have been continuously active in leftist politics through ANNFSU, joining the then CPN (ML) and today's UML. I also have experience in various learning and experiences in the field of social development. I have gained practical knowledge, especially in participatory development, good governance, and entrepreneurship. I have traveled abroad at various times (China, India, Burma, Bangladesh, Thailand, etc.). I enjoy reading and writing."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "०३५/०३६ को बिद्यार्थी आन्दोलनवाट प्रेरित भइ अनेरास्ववियू मार्फत बामपन्थी राजनितिमा संलग्न हुँदै तत्कालिक नेकपा माले आजको एमालेमा निरन्तर कृयाशील छु। साथै सामाजिक विकासको क्षेत्रमा विबिन्न सिकाई भोगाइको अनुभव मलाई प्राप्त छ। विशेष गरी सहभागीतामुलक विकास, सुशासन र उद्यमशीलताको व्यवहारिक ज्ञान प्राप्त गरेको छु। विबिन्न समयमा वैदेशिक भ्रमण (चीन, भारत। बर्मा, बङ्गलादेश थाइल्यान्ड आदि) गरेको छु। पढ्ने लेख्ने काममा रुची।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Masters"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Masters"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:21.765863Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 334251,
+        "constituency_id": "entity:location/constituency/ramechap-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sun"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सूर्य"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 30730
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "334251"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Kailash Prasad Dhungel",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "कैलाश प्रसाद ढुंगेल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Amalwote, Khandadevi Rural Municipality, Ramechhap"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रामेछाप खाँडादेवी गाउँपालिका अमलवोटे"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1960-09-26",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/ramechap"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Masters"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रि.बि."
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Indra Prasad Dhungel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "इन्द्र प्रसाद ढुंगेल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Radha Dhungel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "राधा ढुंगेल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334251.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "kailash-prasad-dhungel",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:21.765861Z",
+    "entity_or_relationship_id": "entity:person/kailash-prasad-dhungel",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

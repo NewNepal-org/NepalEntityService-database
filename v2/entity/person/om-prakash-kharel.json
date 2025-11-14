@@ -1,0 +1,217 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "त्रिभुवन विश्‍व विद्यालय"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Actively involved in supporting the country and its people during disasters and major calamities like earthquakes, floods, landslides, and lockdowns, making life easier by facing adversities. Dedicated life to public service under the Sachet Nepali Mahabhiyog (Conscious Nepali Impeachment). Received due appreciation from society for this work. Raised voice against evil practices like kidnapping, rape, dowry, and untouchability, and launched campaigns. Has been involved in street struggles to protect the nation's identity throughout life."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "भुकम्प, वादी, पहिरो तथा लकडाउन जस्ता समस्य र महाविपत्तिको समयमा देश तथा जनताको साथ दिएर विपत्तिको समाना गरी जनजीवन सरल बनाउन सक्रिय रहेको। सचेत नेपाली महा अभियोग अन्तर्गत जनताको सेवामा आफ्नो जीवन अर्पण गरेको। यसरी काम गरे बापत समाजबाट उचित मुल्यांकन पाएको। अपहरण बलत्कार, दाइजो तथा छुवाछुत लगायतका कु प्रथा विरूद्ध आवाज बुलन्द गरी अभियान सञ्‍चालन गरेको। अहिले सम्मको जीवन राष्ट्रको अस्मिता जोगाउन सडक संघर्षकमा होमिएको"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Postgraduate"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "स्तात्तकोतर"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:21.446222Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333568,
+        "constituency_id": "entity:location/constituency/jhapa-3",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/sachet-nepali-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 85,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Mother with a child in her lap"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "बच्चा काखमा लिएकी आमा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 107
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333568"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Om Prakash Kharel",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "ओम प्रकाश खरेल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Jhapa Barhadashi Rural Municipality"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "झापा बाह्रदशी गाउँपालिका"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1979-08-16",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/jhapa"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Masters"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्‍व विद्यालय"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Bishnu Prasad Kharel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "विष्णु प्रसाद खरेल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333568.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "om-prakash-kharel",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:21.446220Z",
+    "entity_or_relationship_id": "entity:person/om-prakash-kharel",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

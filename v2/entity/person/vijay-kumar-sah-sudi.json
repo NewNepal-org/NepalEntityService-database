@@ -1,0 +1,217 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "क्षि.ज.उ.मा.वि. महेन्द्रनगर"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "S.L.C."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "S.L.C."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:21.868778Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 337423,
+        "constituency_id": "entity:location/constituency/dhanusha-4",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2472,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Traffic Police"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "ट्राफिक प्रहरी"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 12
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "337423"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Vijay Kumar Sah Sudi",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "विजय कुमार साह सुडी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Mahendranagar, Kshireswarnath Municipality, Dhanusha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "धनुषा क्षिरेश्वरनाथ नगरपालिका महेन्द्रनगर"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1979-02-25",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/dhanusha"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "SLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Kshi. Ja. U. Ma. Vi. Mahendranagar"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "क्षि.ज.उ.मा.वि. महेन्द्रनगर"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Bishwanath Sah"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "विश्वनाथ साह"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Anu Devi"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "अनु देवी"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337423.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "vijay-kumar-sah-sudi",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:21.868776Z",
+    "entity_or_relationship_id": "entity:person/vijay-kumar-sah-sudi",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

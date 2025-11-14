@@ -1,0 +1,233 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "त्रिभुवन विश्वविद्यालय"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "1. Deputy General Secretary of Nepal Communist Party (Maoist Centre) 2. Actively involved in political and social activities full-time for the past 31 years"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "१ नेपाल कम्युनिष्ट पार्ती (माओवादी केन्द्र) उप-महासचिव\n२ विगत ३१ वर्ष देखि पूर्णकालिन रुपमा राजनीतिक र सामाजिक गतिविधिमा सहभागी"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Postgraduate in Political Science"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "स्नातकोत्तर राजनीति शास्त्र"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.882383Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 337500,
+        "constituency_id": "entity:location/constituency/jajarkot-1",
+        "elected": true,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepal-communist-party-maoist-centre",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 3,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Hammer and Sickle inside a Circle"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोलाकारभित्र हँसिया हथौडा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 34151
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "337500"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Shakti Bahadur Basnet",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "शक्ति बहादुर वस्नेत",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kale Gaun, Bheri Municipality, Jajarkot"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "जाजरकोट भेरी नगरपालिका काले गाउँ"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1969-05-11",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/jajarkot"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Masters"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Political Science"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्वविद्यालय"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Dandabir Basnet"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "डण्डवीर वस्नेत"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Satya Pahadi"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सत्य पहाडी"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337500.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "shakti-bahadur-basnet",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate",
+    "federal-election-2079-elected"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.882380Z",
+    "entity_or_relationship_id": "entity:person/shakti-bahadur-basnet",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

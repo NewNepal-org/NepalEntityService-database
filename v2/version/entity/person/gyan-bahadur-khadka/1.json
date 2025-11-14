@@ -1,0 +1,237 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.496089Z",
+  "entity_or_relationship_id": "entity:person/gyan-bahadur-khadka",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "नेपाल ल क्याम्पस"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bachelor"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Bachelor"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.496092Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 334595,
+          "constituency_id": "entity:location/constituency/okhaldhunga-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Sun"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "सूर्य"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 14640
+        }
+      ]
+    },
+    "id": "entity:person/gyan-bahadur-khadka",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "334595"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Gyan Bahadur Khadka",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "ज्ञान बहादुर खड्का",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Okhaldhunga Sunkoshi Rural Municipality Katuwabesi"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "ओखलढुंगा सुनकोशी गाउँपालिका कटुवाबेशी"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1974-07-07",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/okhaldhunga"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Law"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Nepal Law Campus"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "नेपाल ल क्याम्पस"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Karna Bahadur Khadka"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कर्ण बहादुर खड्का"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Durga Kumari Khatri"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दुर्गा कुमारी खत्री"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334595.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "gyan-bahadur-khadka",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.496089Z",
+      "entity_or_relationship_id": "entity:person/gyan-bahadur-khadka",
+      "id": "version:entity:person/gyan-bahadur-khadka:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

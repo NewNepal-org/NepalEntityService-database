@@ -1,0 +1,202 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.709975Z",
+  "entity_or_relationship_id": "entity:person/sujit-kumar-tripathi",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Proficiency Certificate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Proficiency Certificate"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.709978Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 337392,
+          "constituency_id": "entity:location/constituency/parsa-3",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/national-democratic-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2279,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Plough"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "हलो"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 669
+        }
+      ]
+    },
+    "id": "entity:person/sujit-kumar-tripathi",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "337392"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sujit Kumar Tripathi",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सुजित कुमार त्रिपाठी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Parsa Pakaha Mainpur Rural Municipality Mainpur"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "पर्सा पकाहा मैनपुर गाउँपालिका मैनपूर"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1977-03-04",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/parsa"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Har Dev Tripathi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "हर देव त्रिपाठी"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Rinku Tripathi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रिन्कु त्रिपाठी"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337392.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "sujit-kumar-tripathi",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.709975Z",
+      "entity_or_relationship_id": "entity:person/sujit-kumar-tripathi",
+      "id": "version:entity:person/sujit-kumar-tripathi:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

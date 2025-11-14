@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:22.063898Z",
+  "entity_or_relationship_id": "entity:person/ram-prasad-upreti",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "ग्लास्गो विश्वविद्यालय, स्कटलैंड, UK"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Worked as a visiting professor in various universities worldwide; received gold medals/certificates of honor from the Ministry of Education and various organizations; established endowment funds in schools and various institutions; published various medical and literary works; conducted free health camps; donated blood more than 100 times"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "विश्वका विभिन्न विद्यालयमा आगन्तुक प्राध्यापक भई काम गरेको, शिक्षा मन्त्रालय एवं विभिन्न संघ संस्थाबाट स्वर्णपदक/सम्मानपत्र प्राप्त, स्कुल तथा विभिन्न संस्थाहरुमा अक्षयकोष स्थापना। विभिन्न मेडिकल तथा साहित्यक कृति प्रकाशन। निःशुल्क स्वास्थ्य शिविरहरु संचालन। १०० पटक भन्दा बढी रक्तदान"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Master"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Master"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:22.063900Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336762,
+          "constituency_id": "entity:location/constituency/kathmandu-5",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/national-democratic-party",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2279,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Plough"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "हलो"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 3162
+        }
+      ]
+    },
+    "id": "entity:person/ram-prasad-upreti",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336762"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Ram Prasad Upreti",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "राम प्रसाद उप्रेती",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Hattigauda, Budhanilkantha Municipality, Kathmandu"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "काठमाडौं बुढानिलकण्ठ नगरपालिका हातीगौडा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1957-12-17",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/jhapa"
+      },
+      "education": [
+        {
+          "degree": null,
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": {
+              "provenance": "imported",
+              "value": "ग्लास्गो विश्वविद्यालय, स्कटलैंड, UK"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Khageshwar Upreti"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "खगेश्‍वर उप्रेती"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Laxmi Upreti"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "लक्ष्मी उप्रेती"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336762.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "ram-prasad-upreti",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:22.063898Z",
+      "entity_or_relationship_id": "entity:person/ram-prasad-upreti",
+      "id": "version:entity:person/ram-prasad-upreti:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

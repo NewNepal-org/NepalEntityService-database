@@ -1,0 +1,247 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "पि.एन. क्याम्पस त्रि.वि.वि"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Committed to realizing the vision of prosperous Nepal and happy Nepalis for the establishment of socialism in Nepal."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नेपालमा समाजवाद स्थापनार्थ समृद्ध नेपाल सुखी नेपालीको परिकल्पना साकार पार्न प्रतिबद्तारहि आएको"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bachelor"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "स्नातक"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.796228Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 334431,
+        "constituency_id": "entity:location/constituency/kaski-1",
+        "elected": true,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sun"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सूर्य"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 12661
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "334431"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Bed Bahadur Gurung",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "बेद बहादुर गुरुङ्ग",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kaski Madi Rural Municipality Tangting"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कास्की मादी गाउँपालिका ताङतिङ्ग"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1970-06-05",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kaski"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Bachelor"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "P.N. Campus Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "पि.एन. क्याम्पस त्रि.वि.वि"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Tek Shahi Gurung"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "टेक शाही गुरुङ्ग"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": [
+      {
+        "description": null,
+        "end_date": null,
+        "organization": {
+          "en": {
+            "provenance": "llm",
+            "value": "Social Organizations"
+          },
+          "ne": null
+        },
+        "start_date": null,
+        "title": {
+          "en": {
+            "provenance": "llm",
+            "value": "Rural Municipality Chairman"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Shir Shobha Gurung"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "शिर शोभा गुरुङ्ग"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334431.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "bed-bahadur-gurung",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate",
+    "provincial-election-2079-elected"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.796226Z",
+    "entity_or_relationship_id": "entity:person/bed-bahadur-gurung",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": null
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.558046Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 337584,
+        "constituency_id": "entity:location/constituency/saptari-1",
+        "elected": true,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/janamat-party",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2289,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Loudspeaker"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "लाउड स्पिकर"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 16155
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "337584"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Sakil Miya",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "सकिल मियाँ",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Hanumannagar, Hanumannagar Kankalini Municipality, Saptari"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सप्तरी हनुमाननगर कङ्कालिनी नगरपालिका हनुमाननगर"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1954-03-08",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/saptari"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Wajij Ali"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "वाजिज अली"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Jinnu Khatun"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "जिन्नु खातुन"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337584.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "sakil-miya",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate",
+    "provincial-election-2079-elected"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.558041Z",
+    "entity_or_relationship_id": "entity:person/sakil-miya",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

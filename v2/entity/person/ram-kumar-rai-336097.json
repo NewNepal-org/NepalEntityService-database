@@ -1,0 +1,233 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "HSEB"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Embracing the belief that public representatives are servants of the people, I will continuously strive for the upliftment of the general public and the development of Khotang."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "जनप्रतिनिधि जनताको सेवकको मान्यतालाई आत्मासाथ गर्दै आम जननताको स्तर वृद्धि र आम खोटाङको विकासको लागि निरन्तर लागी रहने छू"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "I.A."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "I.A."
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:21.629085Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336097,
+        "constituency_id": "entity:location/constituency/khotang-1",
+        "elected": true,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepal-communist-party-maoist-centre",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 3,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Hammer and Sickle within a Circle"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोलाकारभित्र हँसिया हथौडा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 31351
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336097"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Ram Kumar Rai",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "राम कुमार राई",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Suntale Tole, Sakela Rural Municipality, Khotang"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "खोटाङ्ग साकेला गाउँपालिका सुन्तले टोल"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1968-04-26",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/khotang"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Intermediate"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Arts"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "HSEB"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "HSEB"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Barm Dhwaj Rai"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "बर्म ध्वज राई"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Laxmi Devi Rai"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "लक्ष्मी देवि राई"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336097.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "ram-kumar-rai-336097",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate",
+    "federal-election-2079-elected"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:21.629082Z",
+    "entity_or_relationship_id": "entity:person/ram-kumar-rai-336097",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

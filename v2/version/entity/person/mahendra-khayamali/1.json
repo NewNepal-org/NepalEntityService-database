@@ -1,0 +1,237 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:21.439425Z",
+  "entity_or_relationship_id": "entity:person/mahendra-khayamali",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "नेपाल ल क्याम्पस"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "B.L."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "बि एल"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:21.439428Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 333971,
+          "constituency_id": "entity:location/constituency/jhapa-2",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/nepal-workers-peasants-party",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 12,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Madal"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "मादल"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 14
+        }
+      ]
+    },
+    "id": "entity:person/mahendra-khayamali",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "333971"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Mahendra Khayamali",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "महेन्द्र खायमली",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bhaktapur Bhaktapur Municipality Jenla"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "भक्तपुर भक्तपुर नगरपालिका जेंला"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1972-08-21",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/bhaktapur"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Law"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Nepal Law Campus"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "नेपाल ल क्याम्पस"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Krishna Khayamali"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कृष्ण खायमली"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ratna Maya Khayamali"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रत्‍न माया खायमली"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333971.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "mahendra-khayamali",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:21.439425Z",
+      "entity_or_relationship_id": "entity:person/mahendra-khayamali",
+      "id": "version:entity:person/mahendra-khayamali:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,202 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:25.293639Z",
+  "entity_or_relationship_id": "entity:person/jang-bahadur-deuwa",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Education N/A"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Education N/A"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:25.293641Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336942,
+          "constituency_id": "entity:location/constituency/kailali-2",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepal-communist-party-maoist-socialist",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2314,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Female Male"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "महिला पुरुष"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 80
+        }
+      ]
+    },
+    "id": "entity:person/jang-bahadur-deuwa",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336942"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Jang Bahadur Deuwa",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "जंग वहादुर देउवा",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Kailali Joshipur Rural Municipality Muddi"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "कैलाली जोशीपुर गाउँपालिका मुद्धि"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1965-03-01",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/kailali"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Naya Ram Deuwa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नयाँ राम देउवा"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bhana Devi Deuwa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "भाना देवि देउवा"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336942.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "jang-bahadur-deuwa",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:25.293639Z",
+      "entity_or_relationship_id": "entity:person/jang-bahadur-deuwa",
+      "id": "version:entity:person/jang-bahadur-deuwa:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

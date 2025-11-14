@@ -1,0 +1,202 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.744163Z",
+  "entity_or_relationship_id": "entity:person/prem-kumar-shrestha",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "S.L.C."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "S.L.C."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.744214Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 337513,
+          "constituency_id": "entity:location/constituency/chitwan-2",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/democratic-socialist-party-nepal",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 92,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Bicycle"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "साइकल"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 241
+        }
+      ]
+    },
+    "id": "entity:person/prem-kumar-shrestha",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "337513"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Prem Kumar Shrestha",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "प्रेम कुमार श्रेष्ठ",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Chitwan Kalika Municipality Lankaline"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "चितवन कालिका नगरपालिका लंकालाइन"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1962-06-29",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/chitwan"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bir Bahadur Shrestha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "विर बहादुर श्रेष्ठ"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Chandra Maya Lama"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "चन्द्र माया लामा"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337513.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "prem-kumar-shrestha",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.744163Z",
+      "entity_or_relationship_id": "entity:person/prem-kumar-shrestha",
+      "id": "version:entity:person/prem-kumar-shrestha:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

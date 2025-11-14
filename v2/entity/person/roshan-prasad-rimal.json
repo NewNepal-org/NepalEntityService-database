@@ -1,0 +1,217 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "S.V.Academy Kathmandu"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Making health education free."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "स्वास्थ्य शिक्षालाई निशुल्क गर्ने।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Plus Two"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Plus Two"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.786024Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336297,
+        "constituency_id": "entity:location/constituency/dolakha-1",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-marxist-leninist",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 9,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sickle and Star"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "हँसिया र तारा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 892
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336297"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Roshan Prasad Rimal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "रोसन प्रसाद रिमालः",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Rimagau, Baiteswor Rural Municipality, Dolakha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दोलखा वैतेश्वर  गाउँपालिका रिमागाउ"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1993-08-19",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/dolakha"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Intermediate"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "S.V.Academy Kathmandu"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "S.V.Academy Kathmandu"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Ram Prasad Rimal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "राम प्रसाद रिमाल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": null
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336297.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "roshan-prasad-rimal",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.786022Z",
+    "entity_or_relationship_id": "entity:person/roshan-prasad-rimal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

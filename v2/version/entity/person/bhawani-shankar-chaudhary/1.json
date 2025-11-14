@@ -1,0 +1,237 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:25.386467Z",
+  "entity_or_relationship_id": "entity:person/bhawani-shankar-chaudhary",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "लुम्बिनी बाणिज्य क्याम्पस बुटवल"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "B.A."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "बि.ए."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:25.386469Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335604,
+          "constituency_id": "entity:location/constituency/parasi-2",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nagarik-unmukti-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2306,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Plain Dhakiya with a base"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "पिधँ भएको सादा ढकिया"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 3371
+        }
+      ]
+    },
+    "id": "entity:person/bhawani-shankar-chaudhary",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335604"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Bhawani Shankar Chaudhary",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "भवानी शंकर चौधरी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Ranipakad, Ramgram Municipality, Nawalparasi (Bardaghat Susta West)"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) रामग्राम नगरपालिका रानीपाकड"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1967-12-09",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/parasi"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Commerce"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Lumbini Commerce Campus, Butwal"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "लुम्बिनी बाणिज्य क्याम्पस बुटवल"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Mukti Nath Tharu"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "मुक्ति नाथ थारु"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Palti Devi Chaudhary"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पल्टी देवी चौधरी"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335604.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "bhawani-shankar-chaudhary",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:25.386467Z",
+      "entity_or_relationship_id": "entity:person/bhawani-shankar-chaudhary",
+      "id": "version:entity:person/bhawani-shankar-chaudhary:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

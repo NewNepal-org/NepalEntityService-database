@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.387748Z",
+  "entity_or_relationship_id": "entity:person/mina-suchikar",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "गणेश मा वि"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "UNDER SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "UNDER SLC"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.387750Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336452,
+          "constituency_id": "entity:location/constituency/bhaktapur-2",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/janata-samajwadi-party-nepal",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2278,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tilting Umbrella"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "ढल्केको छाता"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 266
+        }
+      ]
+    },
+    "id": "entity:person/mina-suchikar",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336452"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Mina Suchikar",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "मिना सुचिकार",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bhaktapur Madhyapur Thimi Municipality Bishnu Tirtha"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "भक्तपुर मध्यपुर थिमी नगरपालिका बिष्णु तिर्थ"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1973-07-25",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/bhaktapur"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "UnderSLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Ganesh Secondary School"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गणेश मा वि"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Shambhu Suchikar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "शम्भु सुचिकार"
+        }
+      },
+      "gender": "female",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kumar Pariyar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कुमार परियार"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336452.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "mina-suchikar",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.387748Z",
+      "entity_or_relationship_id": "entity:person/mina-suchikar",
+      "id": "version:entity:person/mina-suchikar:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

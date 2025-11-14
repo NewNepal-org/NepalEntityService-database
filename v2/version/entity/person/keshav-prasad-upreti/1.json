@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:21.980462Z",
+  "entity_or_relationship_id": "entity:person/keshav-prasad-upreti",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "कुम्भेश्वर मा.वि.,सुनखानी"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Class 8 Pass"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "८ पास"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:21.980466Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336879,
+          "constituency_id": "entity:location/constituency/nuwakot-1",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/communist-party-of-nepal-marxist-leninist",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 9,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Sickle and Star"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "हँसिया र तारा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 970
+        }
+      ]
+    },
+    "id": "entity:person/keshav-prasad-upreti",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336879"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Keshav Prasad Upreti",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "केशव प्रसाद उप्रेती",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Geruwagaun, Shivapuri Rural Municipality, Nuwakot"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "नुवाकोट शिवपुरी गाउँपालिका गेरुवागाउ"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1985-01-15",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/nuwakot"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "UnderSLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Kumbheshwar Secondary School, Sunkhani"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "कुम्भेश्वर मा.वि.,सुनखानी"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ram Prasad Upreti"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "राम प्रसाद उप्रेती"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Annapurna Upreti"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "अन्नपुर्ण उप्रेती"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336879.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "keshav-prasad-upreti",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:21.980462Z",
+      "entity_or_relationship_id": "entity:person/keshav-prasad-upreti",
+      "id": "version:entity:person/keshav-prasad-upreti:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,226 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "त्रिभुवन विश्वविद्यालय"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Wishes to represent Syangja District Constituency No. 2 in the House of Representatives in the general election to be held on November 20, 2022, and serve the Nepali people and the nation of Nepal."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०७९ मंसिर ४ गते सम्पन्न हुने आम निर्वाचनमा प्रतिनिधि सभामा स्याङ्जा जिल्ला क्षेत्र नं २ बाट प्रतिनिधित्व गरी नेपाली जनता र नेपाल राष्ट्रको सेवा गर्न चाहेको ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bachelor"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "स्नातक"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.646111Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336700,
+        "constituency_id": "entity:location/constituency/syangja-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sun"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सूर्य"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 25839
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336700"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Padma Kumari Aryal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "पद्‍मा कुमारी अर्याल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Gaidanda, Waling Municipality, Syangja"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "स्याङ्जा वालिङ नगरपालिका गाएडाँडा"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1969-01-01",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/syangja"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Bachelor"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्वविद्यालय"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Gupta Prasad Aryal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गुप्‍त प्रसाद अर्याल"
+      }
+    },
+    "gender": "female",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Laxmipati Paudel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "लक्ष्मीपति पौडेल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336700.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "padma-kumari-aryal",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.646108Z",
+    "entity_or_relationship_id": "entity:person/padma-kumari-aryal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

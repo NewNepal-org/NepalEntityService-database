@@ -1,0 +1,197 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "I have filed my candidacy because the political situation and corruption in the country, and most of those associated with the Government of Nepal, knowingly or unknowingly, have brought the country to a very weak state."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "देशको राजनीतिक अवस्था र भ्रष्टाचार र नेपाल सरकारसँग आवद्ध प्राय जसोले जानी जानी होस् अथवा अन्जानमा देशलाई निकै कम्जोर अवस्थामा पुर्याएका कारण मैले उम्मेदवारी दिएको हो ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Under SLC"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "UNDER SLC"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.230654Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336266,
+        "constituency_id": "entity:location/constituency/kavrepalanchok-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 1004,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Helmet"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "हेलमेट"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 45
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336266"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Krishna Khatri",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "कृष्ण खत्री",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bhandarigaun, Banepa Municipality, Kavrepalanchok"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "काभ्रेपलाञ्चोक बनेपा नगरपालिका भण्डारीगाँउ"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1981-01-27",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kavrepalanchok"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Jit Bahadur Khatri"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "जित बहादुर खत्री"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Gadi Mai Thapa Khatri"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गदी माई थापा खत्री"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336266.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "krishna-khatri",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.230651Z",
+    "entity_or_relationship_id": "entity:person/krishna-khatri",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

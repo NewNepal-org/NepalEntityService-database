@@ -1,0 +1,223 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "त्रिभुवन विश्‍वविद्यालय"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Continuously contributed to the Nepali Congress party since 2046 BS. Currently, I am continuously serving the party as a Nepali Congress General Convention Representative."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "२०४६ सालदेखि निरन्तर नेपाली कांग्रेस पार्टिमा योगदान गरेको ५ु । हाल म नेपाली कांग्रेज महाधिवेशन प्रतिनिधी भई पार्टिका लागि निरन्तर सेवारत छु ।"
+        }
+      },
+      "qualification": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "Bachelor"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.253047Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 334611,
+        "constituency_id": "entity:location/constituency/morang-6",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/nepali-congress-bp",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 86,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Karuwa"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "करुवा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 186
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "334611"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Janardan Ram Niroula",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "जनार्दन राम निरौला",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Brikuti Chowk, Biratnagar Metropolitan City, Morang"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "मोरङ्ग विराटनगर महानगरपालिका भृकुटीचौक"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1968-10-31",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/morang"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Bachelor"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्‍वविद्यालय"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Parshu Ram Niroula"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "पर्शु राम निरौला"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Kokila Kafle"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "कोकिला काफ्ले"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334611.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "janardan-ram-niroula",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.253045Z",
+    "entity_or_relationship_id": "entity:person/janardan-ram-niroula",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

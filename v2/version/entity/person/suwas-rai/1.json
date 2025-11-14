@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.480782Z",
+  "entity_or_relationship_id": "entity:person/suwas-rai",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "श्री राधाकृष्ण मा.वि."
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I will liberate the economically disadvantaged and discriminated Nepali people and build a prosperous nation. I will end corruption, nepotism, and favoritism."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "म नेपाली जनतालाई आर्थिक विपन्नता विभेद भएका जनतालाई मुक्त गरेर सम्मुनत निर्माण गर्नेछु । भ्रष्टचारी नातावात कृपावात अन्त्य गर्नेछु ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "SLC"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.480806Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335523,
+          "constituency_id": "entity:location/constituency/khotang-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/khambuwan-rashtriya-morcha-nepal",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 18,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Hammer"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "हथौडा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 313
+        }
+      ]
+    },
+    "id": "entity:person/suwas-rai",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335523"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Suwas Rai",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सुवास राई",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Khotang Sakela Rural Municipality Nagi"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "खोटाङ्ग साकेला गाउँपालिका नागी"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1986-10-22",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/khotang"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "SLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Shree Radhakrishna Secondary School"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "श्री राधाकृष्ण मा.वि."
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Jas Bahadur Rai"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "जस बहादुर राई"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335523.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "suwas-rai",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.480782Z",
+      "entity_or_relationship_id": "entity:person/suwas-rai",
+      "id": "version:entity:person/suwas-rai:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

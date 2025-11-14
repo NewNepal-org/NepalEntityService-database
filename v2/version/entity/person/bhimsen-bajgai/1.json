@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.801294Z",
+  "entity_or_relationship_id": "entity:person/bhimsen-bajgai",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "Kalika Ma.Vi."
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Working for the nation and nationality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "राष्ट्र र राष्ट्रियताको लागी काम गर्ने"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "S.L.C."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.801297Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 334360,
+          "constituency_id": "entity:location/constituency/dolakha-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/national-motherland-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 85,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Mother holding a child in her lap"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "बच्चा काखमा लिएकी आमा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 57
+        }
+      ]
+    },
+    "id": "entity:person/bhimsen-bajgai",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "334360"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Bhimsen Bajgai",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "भिमसेन बजगाई",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bhame, Tamakoshi Rural Municipality, Dolakha"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "दोलखा तामाकोशी  गाउँपालिका भस्मे"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1990-09-01",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/dolakha"
+      },
+      "education": [
+        {
+          "degree": null,
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": {
+              "provenance": "imported",
+              "value": "Kalika Ma.Vi."
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Nandalal Bajgai"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नन्दलाल बजगाई"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bimala Bhandari Bajgai"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "विमला भण्डारी बजगाई"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334360.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "bhimsen-bajgai",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.801294Z",
+      "entity_or_relationship_id": "entity:person/bhimsen-bajgai",
+      "id": "version:entity:person/bhimsen-bajgai:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

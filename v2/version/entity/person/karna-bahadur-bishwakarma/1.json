@@ -1,0 +1,231 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:25.254467Z",
+  "entity_or_relationship_id": "entity:person/karna-bahadur-bishwakarma",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "सामुदायिक विद्यालय"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "UNDER SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "UNDER SLC"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:25.254470Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 338081,
+          "constituency_id": "entity:location/constituency/bajura-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepal-communist-party-maoist-centre",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 3,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Hammer and Sickle inside a Circle"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "गोलाकारभित्र हँसिया हथौडा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 1098
+        }
+      ]
+    },
+    "id": "entity:person/karna-bahadur-bishwakarma",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "338081"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Karna Bahadur Bishwakarma",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "कर्ण बहादुर विश्‍वकर्मा",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Panthunga, Jagannath Rural Municipality, Bajura"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "बाजुरा जगन्नाथ गाउँपालिका पानढुंगा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1981-01-12",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/bajura"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "UnderSLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Community School"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सामुदायिक विद्यालय"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Dhanmal Bishwakarma"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "धनमल विश्‍वकर्मा"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Binita Bishwakarma"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "विनिता विश्‍वकर्मा"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338081.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "karna-bahadur-bishwakarma",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:25.254467Z",
+      "entity_or_relationship_id": "entity:person/karna-bahadur-bishwakarma",
+      "id": "version:entity:person/karna-bahadur-bishwakarma:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,260 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.245515Z",
+  "entity_or_relationship_id": "entity:person/hari-narayan-tawadar",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "गोग्राहा उच्च मा.वि"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I have worked as the District Secretary of the Nepal Trade Union Congress District Working Committee for 2 terms. Currently, I am the Morang District President of the Nepali Congress (B.P.) party and also serving as the General Secretary of the National Committee of the Nepal Industrial Workers Trade Union."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "म नेपाल ट्रेड युनियन कांग्रेस जिल्ला कार्य समितिको २ कार्यकाल जिल्ला सचिव भएर काम गरेको छु हाल नेपाली कांग्रेस(बि.पी) पार्टीको मोरङ जिल्ला सभापति पदमा छु साथै नेपाल औद्योगिक श्रमिक ट्रेड यनियनको राष्ट्रिय समितिको महासचिव भएर कार्य गरि रहेको छु ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "S.L.C."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.245517Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 333789,
+          "constituency_id": "entity:location/constituency/morang-6",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepali-congress-bp",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 86,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Karuwa"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "करुवा"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 341
+        }
+      ]
+    },
+    "id": "entity:person/hari-narayan-tawadar",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "333789"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Hari Narayan Tawadar",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "हरि नारायण तवदार",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Morang Budhiganga Rural Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "मोरङ्ग बुढीगंगा गाउँपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1978-05-27",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/morang"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "SLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Gograha Higher Secondary School"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोग्राहा उच्च मा.वि"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ramcharan Tawadar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रामचरण तवदार"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": [
+        {
+          "description": "I have worked as the District Secretary of the Nepal Trade Union Congress District Working Committee for 2 terms. Currently, I am the Morang District President of the Nepali Congress (B.P.) party and ",
+          "end_date": null,
+          "organization": {
+            "en": {
+              "provenance": "llm",
+              "value": "Nepal Trade Union Congress, Nepali Congress (B.P.), Nepal Industrial Workers Trade Union"
+            },
+            "ne": null
+          },
+          "start_date": null,
+          "title": {
+            "en": {
+              "provenance": "llm",
+              "value": "District President, General Secretary"
+            },
+            "ne": null
+          }
+        }
+      ],
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sabita Tawadar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सविता तवदार"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333789.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "hari-narayan-tawadar",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.245515Z",
+      "entity_or_relationship_id": "entity:person/hari-narayan-tawadar",
+      "id": "version:entity:person/hari-narayan-tawadar:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

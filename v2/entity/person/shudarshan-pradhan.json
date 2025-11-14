@@ -1,0 +1,246 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "बन्दिपुर क्याम्पस तनहुँ"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Big parties have made the country difficult. Now, all candidates, members of parliament who reach the leadership and policy-making levels of the state, should not take any salary, allowances, or benefits. Servants should be entrepreneurs and businessmen. We must learn from Switzerland. Those who are not self-reliant should not be given a place in politics. If the hungry reach power and authority, they will eat anything day and night without saying anything. If those who reach the policy-making level become clean, they will guide the bright future of the earth, the country, and the people."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "ठूला दलहरुले मुलुकलाई दुरुह तुल्याए । अव उम्मेदवारहरु सवैले राज्यको नेतृत्व र निति निर्माण तहमा पुग्ने सभासदहरुले तलब भत्ता सुविधाहरु केहि लिन हुँदैन । सेवकहरु उद्दमी व्यवसायीहरु हुन पर्छ ।स्वीजरल्याण्डबाट सिक्नु पर्छ । आत्म निर्भर नहुनेहरुलाई राजनितिमा स्थान दिन हुन्न । भोकाहरु शक्ति र सत्तामा पुगे तिनले रातदिन केहि नभनी जे पनि खान्छन । निति निर्माण तहमा पुग्नेहरु स्वच्छ बने तिनले धर्ती देश र जनताको उज्जल भविष्यको पथ दर्शन गर्नेछन ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Certificate Level"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "प्रमाणपत्र तह"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.402634Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 337625,
+        "constituency_id": "entity:location/constituency/chitwan-2",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2455,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Bee"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "मौरी"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 16
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "337625"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Shudarshan Pradhan",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "शुदर्शन प्रधान",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Chandenai, Bandipur Rural Municipality, Tanahun"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "तनहुँ बन्दिपुर गाउँपालिका चण्डेनी"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1962-12-04",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/tanahun"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Intermediate"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Environmental Studies, Agriculture, Philosophy"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bandipur Campus, Tanahun"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "बन्दिपुर क्याम्पस तनहुँ"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Prem Kumar Pradhan"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "प्रेम कुमार प्रधान"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": [
+      {
+        "description": null,
+        "end_date": null,
+        "organization": null,
+        "start_date": null,
+        "title": {
+          "en": {
+            "provenance": "llm",
+            "value": "Activist, Producer, Writer"
+          },
+          "ne": null
+        }
+      }
+    ],
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Laxmi Pokhrel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "लक्ष्‍मी पोख्रेल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337625.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "shudarshan-pradhan",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.402630Z",
+    "entity_or_relationship_id": "entity:person/shudarshan-pradhan",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

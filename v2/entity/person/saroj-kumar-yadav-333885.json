@@ -1,0 +1,233 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "विहार विश्व विद्यालय सितामाणी भारत"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Worked for the country and its people"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "देश र जन्ताको लागि काम गरेको"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "I.A. Sc."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "आईए सि"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.587152Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333885,
+        "constituency_id": "entity:location/constituency/bara-1",
+        "elected": true,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/janata-samajwadi-party-nepal",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 2278,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tilting Umbrella"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "ढल्केको छाता"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 15927
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333885"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Saroj Kumar Yadav",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "सरोज कुमार यादव",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bara Simraungadh Municipality Naya Katola"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बारा सिम्रौनगढ नगरपालिका नया काटोला"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1972-01-31",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/bara"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Intermediate"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Science"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bihar University Sitamarhi India"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "विहार विश्व विद्यालय सितामाणी भारत"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Parmanand Prasad Yadav"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "परमानन्द प्रसाद यादव"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Sakuntala Yadav"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सकुन्तला यादब"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333885.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "saroj-kumar-yadav-333885",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate",
+    "provincial-election-2079-elected"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.587150Z",
+    "entity_or_relationship_id": "entity:person/saroj-kumar-yadav-333885",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.795013Z",
+  "entity_or_relationship_id": "entity:person/ram-kaji-charmakar",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "With the change in the country, to uplift and empower the backward classes, discriminated communities, cultural minorities who are the pillars of the nation, and the main oppressed regions, communities, classes, genders, and those marginalized from protection and subjected to economic discrimination by the state, I am engaged in this struggle and affiliated with this political party, and I hereby declare my candidacy."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "देशको परिवर्तन सँगै हामी पिछडिएको वर्ग विभदेमा परेको समुदाय देशको खम्बाको रुपमा रहेको सांस्कृतिक अल्पमतमा परेका जनताको र राज्यको अर्थतन्त्रको पक्षपातमा पारेका मुख्य उत्पीडित क्षेत्र समुदाय वर्ग लिङ्ग र संरक्षितसँग टाढ९ा रहेकासँग उत्थान र पहिचानसँग उदार गर्नका लागि म यो संघर्षमा रहेको र यो राजनीतिक पार्टीसँग आवद्ध रहि यो उम्मेदवारी घोषणा गर्दछु"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "UNDER SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "UNDER SLC"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.795016Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 338395,
+          "constituency_id": "entity:location/constituency/kaski-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/janata-samajwadi-party-nepal",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2278,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tilting Umbrella"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "ढल्केको छाता"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 303
+        }
+      ]
+    },
+    "id": "entity:person/ram-kaji-charmakar",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "338395"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Ram Kaji Charmakar",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "राम काजी चर्माकार",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Kaski Madi Rural Municipality Madibesi"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "कास्की मादी गाउँपालिका मादीवेसी"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1977-07-08",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/kaski"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Krishna Bahadur Charmakar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कृष्ण वहादुर चर्माकार"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bal Suba Charmakar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "वाल सुवा चर्माकार"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338395.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "ram-kaji-charmakar",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.795013Z",
+      "entity_or_relationship_id": "entity:person/ram-kaji-charmakar",
+      "id": "version:entity:person/ram-kaji-charmakar:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

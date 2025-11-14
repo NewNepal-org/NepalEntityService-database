@@ -1,0 +1,208 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "10 कक्षा"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Under SLC"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "UNDER SLC"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:23.101861Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333564,
+        "constituency_id": "entity:location/constituency/jhapa-2",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/mongol-national-organization",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 35,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Rooster"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "कुखुराको भाले"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 749
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333564"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Dev Narayan Dhimal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "देव नारायण धिमाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Madhu Tol, Mechinagar Municipality, Jhapa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "झापा मेची नगर नगरपालिका मधुटोल"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1968-05-24",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/jhapa"
+    },
+    "education": [
+      {
+        "degree": null,
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "10 कक्षा"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Kalu Dhimal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "कालु धिमाल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chandra Kumari Pradhan (dhimal)"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "चन्द्र कुमारी प्रधान (धिमाल)"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333564.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "dev-narayan-dhimal",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:23.101859Z",
+    "entity_or_relationship_id": "entity:person/dev-narayan-dhimal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

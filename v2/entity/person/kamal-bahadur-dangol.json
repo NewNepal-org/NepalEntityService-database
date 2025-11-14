@@ -1,0 +1,214 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "My main objective is to fight against anomalies, inconsistencies, corruption, procrastination, and injustice. To make the country self-reliant, protect it from dependency, and develop the country by mobilizing its own resources, freeing it from relying on foreign aid."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "विकृति, विसंगति, भ्रष्टचारी,ढिलासुस्ती, अन्याय विरुद्ध को संघर्ष गर्ने मेरो मूख्य उद्देश्य हो । देशलाई स्वाबलम्बी बनाई परनिर्भर हुनबाट जोगाउने र देश विकास गर्न आफ्नै स्रोत साधन परिचालन गरी विदेशीको सहयोगको मुख ताक्न पर्नेबाट मुक्त गर्न।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Intermediate Level"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "I.L"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.250266Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336252,
+        "constituency_id": "entity:location/constituency/kathmandu-2",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/nepal-workers-peasants-party",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 12,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Madal"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "मादल"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 194
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336252"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Kamal Bahadur Dangol",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "कमल बहादुर डंगोल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kathmandu Tokha Municipality Chagale"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "काठमाडौं टोखा नगरपालिका चागले"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1973-02-07",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kathmandu"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Intermediate"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": null,
+          "ne": null
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Bekha Lal Dangol"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "बेखा लाल डंगोल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Sanu Kanchhi Dangol"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "सानु कान्छी डंगोल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336252.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "kamal-bahadur-dangol",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.250263Z",
+    "entity_or_relationship_id": "entity:person/kamal-bahadur-dangol",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

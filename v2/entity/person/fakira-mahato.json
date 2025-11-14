@@ -1,0 +1,233 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "ल क्याम्पस काठमाण्डौ"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "I have been working in the political field for 24 years."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "मैले २४ वर्ष देखी राजनैतिक क्षेत्रमा काम गरेको ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bachelor"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Bachelor"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.163923Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 337808,
+        "constituency_id": "entity:location/constituency/sarlahi-4",
+        "elected": true,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/nepal-communist-party-maoist-centre",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 3,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Hammer and Sickle inside a Circle"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोलाकारभित्र हँसिया हथौडा"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 8033
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "337808"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Fakira Mahato",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "फकिरा महतो",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Got, Dhankaul Rural Municipality, Sarlahi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सर्लाही धनकौल गाउँपालिका गोट"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1970-05-13",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/sarlahi"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Bachelor"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Law"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Law Campus Kathmandu"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "ल क्याम्पस काठमाण्डौ"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Jhalu Mahato"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "झलु महतो"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Shobha Devi Mahato"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "शोभा देवी महतो"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337808.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "fakira-mahato",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate",
+    "provincial-election-2079-elected"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.163921Z",
+    "entity_or_relationship_id": "entity:person/fakira-mahato",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

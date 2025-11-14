@@ -1,0 +1,211 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.942444Z",
+  "entity_or_relationship_id": "entity:person/amerka-yadav",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": null,
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I, Amerka Yadav, candidate for Provincial Assembly Member 'B' of Janamat Party, pledge to always be loyal to society and dedicated to public service."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "म जनमत पार्टीको प्रदेश सभा सदस्य ख को उम्मेदवार अमेरिका यादव सधै समाज प्रति बफादर भई जनताको सेवामा समर्पित रहने प्रतिबद्धता जाहेर गर्दछु।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "8th Grade"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "8 कक्षा"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.942446Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 338558,
+          "constituency_id": "entity:location/constituency/rupandehi-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/janamat-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2289,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Loudspeaker"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "लाउड स्पिकर"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 2695
+        }
+      ]
+    },
+    "id": "entity:person/amerka-yadav",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "338558"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Amerka Yadav",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "अमेरीका यादव",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Rupandehi Rohini Rural Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "रुपन्देही रोहिणी गाउँपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1984-10-21",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/rupandehi"
+      },
+      "education": null,
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Santaram Yadav"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सन्तराम यादव"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sunita Yadav"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सुनिता यादव"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338558.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "amerka-yadav",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.942444Z",
+      "entity_or_relationship_id": "entity:person/amerka-yadav",
+      "id": "version:entity:person/amerka-yadav:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

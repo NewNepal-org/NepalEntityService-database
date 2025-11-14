@@ -1,0 +1,232 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.153436Z",
+  "entity_or_relationship_id": "entity:person/birendra-prasad-singh",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "सुन्तरपुर मा.वि."
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I will complete the unfinished development works. I will fully comply with the code of conduct issued by the Election Commission and carry out all election-related programs."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "विकासका अधुरा कामहरु पुरा गर्ने छु । निर्वाचन आयोग द्धारा जारी आचार सहिताको पूर्ण पालना गर्दै नि्र्वाचन सम्बन्धि सम्पर्ण कार्यक्रमहरु गर्ने छु"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bachelor"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Bachelor"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.153439Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 337134,
+          "constituency_id": "entity:location/constituency/sarlahi-4",
+          "elected": true,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/nepali-congress",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 1,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Tree"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "रुख"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 15693
+        }
+      ]
+    },
+    "id": "entity:person/birendra-prasad-singh",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "337134"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Birendra Prasad Singh",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "विरेन्द्र प्रसाद सिंह",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Sarlahi Dhankaul Rural Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सर्लाही धनकौल गाउँपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1978-04-18",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/sarlahi"
+      },
+      "education": [
+        {
+          "degree": null,
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": null,
+            "ne": {
+              "provenance": "imported",
+              "value": "सुन्तरपुर मा.वि."
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Baijnath Prasad Singh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "बैजनाथ प्रसाद सिंह"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Nutan Singh"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नुतन सिंह"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337134.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "birendra-prasad-singh",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate",
+      "provincial-election-2079-elected"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.153436Z",
+      "entity_or_relationship_id": "entity:person/birendra-prasad-singh",
+      "id": "version:entity:person/birendra-prasad-singh:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

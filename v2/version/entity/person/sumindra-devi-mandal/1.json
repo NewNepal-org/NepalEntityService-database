@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.677951Z",
+  "entity_or_relationship_id": "entity:person/sumindra-devi-mandal",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "बासु मा.वि. भगवानपुर।"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Fights for the rights and interests of poor and oppressed people."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "गरिव सोसित व्यक्तिको हक हितको लागि लडने।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "S.L.C."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.677954Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336997,
+          "constituency_id": "entity:location/constituency/siraha-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/bahujan-shakti-party",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 15,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Jug"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "जग"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 520
+        }
+      ]
+    },
+    "id": "entity:person/sumindra-devi-mandal",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336997"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sumindra Devi Mandal",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सुमिन्द्रा देवी मण्‍डल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Siraha Bhagwanpur Rural Municipality Kalyanpur"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सिराहा भगवानपुर गाउँपालिका कल्याणपुर"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1987-04-29",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/siraha"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "SLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Basu Secondary School Bhagwanpur"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "बासु मा.वि. भगवानपुर।"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Rajendra Mandal Khatwe"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "राजेन्द्र मण्‍डल खत्‍वे"
+        }
+      },
+      "gender": "female",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ramen Kumar Mandal"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रमेन कुमार मण्‍डल"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336997.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "sumindra-devi-mandal",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.677951Z",
+      "entity_or_relationship_id": "entity:person/sumindra-devi-mandal",
+      "id": "version:entity:person/sumindra-devi-mandal:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

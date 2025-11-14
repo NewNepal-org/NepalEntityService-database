@@ -1,0 +1,226 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "जनता कल्याण प्रा वि"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "For the rights of Mongols"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "मंगोलको अधिकारको लागि"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "6th Grade"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "६ कक्षाा"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:21.940490Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 339132,
+        "constituency_id": "entity:location/constituency/sarlahi-3",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/mongol-national-organization",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 35,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Rooster"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "कुखुराको भाले"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 486
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "339132"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Indra Man Waiba",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "ईन्द्र मान वाइवा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Dharahara, Bagmati Municipality, Sarlahi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सर्लाही बागमती नगरपालिका धरहरा"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1969-05-31",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/sarlahi"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "UnderSLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Janata Kalyan Primary School"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "जनता कल्याण प्रा वि"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Mangal Bahadur Waiba"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "मंगल वहादुर वाइवा"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Chhoisang Maya Syangtan"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "छोइसाङ्ग मायाँ स्याङ्गतान"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/339132.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "indra-man-waiba",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:21.940487Z",
+    "entity_or_relationship_id": "entity:person/indra-man-waiba",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

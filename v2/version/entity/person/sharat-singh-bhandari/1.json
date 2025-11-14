@@ -1,0 +1,261 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:21.884523Z",
+  "entity_or_relationship_id": "entity:person/sharat-singh-bhandari",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्वविद्यालय नेपाल"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "If elected from Mahottari District Election Constituency No. 2 in the House of Representatives election to be held on November 20, 2022, I will develop my constituency and also"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "२०७९ मंसिर ४ गते हुने प्रतिनिधिसभा निर्वाचनमा म महोत्तरी जिल्ला निर्वाचन क्षे.नं.२ बाट निर्वाचित भएको खण्डमा मैले मेरो क्षेत्रको विकास निर्माण तथा समते"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Bachelor"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Bachelor"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:21.884525Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 333411,
+          "constituency_id": "entity:location/constituency/mahottari-2",
+          "elected": true,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/democratic-socialist-party-nepal",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 92,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Bicycle"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "साइकल"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 25190
+        }
+      ]
+    },
+    "id": "entity:person/sharat-singh-bhandari",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "333411"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Sharat Singh Bhandari",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "शरत सिंह भण्डारी",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Aurahi, Aurahi Municipality, Mahottari"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "महोत्तरी औरही नगरपालिका औरही"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1954-10-08",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/lalitpur"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Tribhuvan University, Nepal"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "त्रिभुवन विश्वविद्यालय नेपाल"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Prithviman Singh Bhandari"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "पृथ्वीमान सिंह भण्डारी"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": [
+        {
+          "description": null,
+          "end_date": null,
+          "organization": {
+            "en": {
+              "provenance": "llm",
+              "value": "Government of Nepal"
+            },
+            "ne": null
+          },
+          "start_date": null,
+          "title": {
+            "en": {
+              "provenance": "llm",
+              "value": "Minister"
+            },
+            "ne": null
+          }
+        }
+      ],
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Rashmi Singh Bhandari"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रश्मि सिंह भण्डारी"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333411.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "sharat-singh-bhandari",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate",
+      "federal-election-2079-elected"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:21.884523Z",
+      "entity_or_relationship_id": "entity:person/sharat-singh-bhandari",
+      "id": "version:entity:person/sharat-singh-bhandari:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

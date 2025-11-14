@@ -1,0 +1,246 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:21.714413Z",
+  "entity_or_relationship_id": "entity:person/murali-mijhar",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "गान्धर्व संगीत महा विद्यालय, महाराष्ट्र, भारत"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Established senior singer and actor of Nepal, conducted free programs for financial support of various organizations, provided financial, moral and humanitarian services to thousands of Nepali brothers and sisters during the COVID-19 crisis."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "नेपालको स्थापित बरिष्ट गायक अभिनेता, विभिन्न संघ संस्थाहरुको आर्थिक सहयोशार्थ, निःशुल्क कार्यक्रम गरेको कोभिड-१९ को संकटकालमा हाजारौ नेपाली दाजु भाई लाई आर्थिक, नैतिक र मानविय सेवागरेको ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "B.Music Sangeet Bisharad"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "B.Music संगीत विशारद"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:21.714421Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336834,
+          "constituency_id": "entity:location/constituency/siraha-2",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/national-democratic-party",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2279,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Plough"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "हलो"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 782
+        }
+      ]
+    },
+    "id": "entity:person/murali-mijhar",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336834"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Murali Mijhar",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "मुरलि मिझार",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Siraha Aurahi Rural Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सिराहा औरही गाउँपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1955-05-18",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/siraha"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Bachelor"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Music"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Gandharva Sangeet Mahavidyalaya"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गान्धर्व संगीत महा विद्यालय, महाराष्ट्र, भारत"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Nathuni Mijhar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नथुनि मिझार"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bishnu Maya Mijhar"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "विष्णु माया मिझार"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336834.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "murali-mijhar",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:21.714413Z",
+      "entity_or_relationship_id": "entity:person/murali-mijhar",
+      "id": "version:entity:person/murali-mijhar:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

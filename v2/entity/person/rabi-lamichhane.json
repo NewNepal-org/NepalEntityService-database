@@ -1,0 +1,227 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "रत्नराज्य लक्ष्मी क्याम्पस"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Started political journey by continuously raising awareness against the country's anomalies through media. Commenced political journey with the conclusion that qualitative impact on public life cannot be achieved without intervening in policy making."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "देशको वेथिति विरुद्ध संचार माध्यबाट निरन्तर खवरदारिकै बलमा राजनीतिक यात्राको शुरुवात\nनिति निर्माणमा हस्तक्षेप नगरी जनजीविकामा गुणात्मक प्रभाव पार्न नसकिने निष्कर्ष सहित राजनितिक यात्राको प्रारम्भ ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Certificate Level"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "प्रमाणपत्र तह"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.392401Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 335208,
+        "constituency_id": "entity:location/constituency/chitwan-2",
+        "elected": true,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/national-independent-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2445,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Bell inside a circle"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोलाकार भित्र घण्टी"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 49300
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "335208"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Rabi Lamichhane",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "रबि लामिछाने",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kathmandu Metropolitan City, Kathmandu"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "काठमाडौं काठमाण्डौ महानगरपालिका"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1975-06-11",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/kathmandu"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "Intermediate"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Ratna Rajya Laxmi Campus"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "रत्नराज्य लक्ष्मी क्याम्पस"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Lal Chandra Lamichhane"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "लाल चन्द्र लामिछाने"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Nikita Poudel"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "निकिता पेाडेल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335208.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "rabi-lamichhane",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate",
+    "federal-election-2079-elected"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.392398Z",
+    "entity_or_relationship_id": "entity:person/rabi-lamichhane",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

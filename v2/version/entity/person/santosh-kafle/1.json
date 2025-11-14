@@ -1,0 +1,237 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.560429Z",
+  "entity_or_relationship_id": "entity:person/santosh-kafle",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्‍वविद्यालय अन्तर्गत जनज्योति वहुमुखी क्याम्पस चन्द्रनिगाहपुर"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "I have presented myself as an independent candidate as a democratic practice of clean politics, independently and neutrally, against the current political situation and the disillusionment of citizens towards political parties, the internal conflicts and power-sharing in political positions, and the irregularities arising from the misuse of special powers."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "वर्तमान राजनितिक अवस्था र दलहरु प्रति आय नागरिकमा पलाएको वितृष्णा तथा राजनितिक पार्टीहरुको आन्तरिक कलह र भागवण्डामा चलेको राजनितिक पदहरु र विशेष र शक्तिको दुरुपयोग गर्दै हुदै आएका विसँगतिका विरुद्ध स्वतन्त्र तटस्थ रुपले स्वच्छ राजनितिको प्रजातान्त्रिक अभ्यास स्वरुप आफूलाई स्वतन्त्र उम्मेदवारको रुपमा प्रस्तुत गरेको छु।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Postgraduate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "स्‍नातकोत्तर"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.560431Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 333492,
+          "constituency_id": "entity:location/constituency/rautahat-4",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2300,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Electric Bulb"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "बिजुलीको चिम"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 362
+        }
+      ]
+    },
+    "id": "entity:person/santosh-kafle",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "333492"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Santosh Kafle",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सन्तोष काफ्ले",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Thokartol, Chandrapur Municipality, Rautahat"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "रौतहट चन्द्रपुर नगरपालिका ठोकरटोल"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1989-12-13",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/rautahat"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Masters"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Political Science"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Janajyoti Multipurpose Campus, Chandranigahpur, under Tribhuvan University"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "त्रिभुवन विश्‍वविद्यालय अन्तर्गत जनज्योति वहुमुखी क्याम्पस चन्द्रनिगाहपुर"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Kavi Prasad Kafle"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "कवि प्रसाद काफ्ले"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": null
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333492.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "santosh-kafle",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.560429Z",
+      "entity_or_relationship_id": "entity:person/santosh-kafle",
+      "id": "version:entity:person/santosh-kafle:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,251 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:21.779051Z",
+  "entity_or_relationship_id": "entity:person/pradip-kumar-katuwal-chhetri-kc",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "कमला मा.वि. रा.रा.व क्याम्पस जनकपुर"
+          }
+        },
+        "other_details": null,
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "MCom Postgraduate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "mcom स्नातोकतर"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:21.779053Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 333982,
+          "constituency_id": "entity:location/constituency/sindhuli-1",
+          "elected": false,
+          "election_type": "federal",
+          "election_year": 2079,
+          "pa_subdivision": null,
+          "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+          "position": "federal_parliament",
+          "symbol": {
+            "nec_id": 2,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Sun"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "सूर्य"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 25546
+        }
+      ]
+    },
+    "id": "entity:person/pradip-kumar-katuwal-chhetri-kc",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "333982"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Pradip Kumar Katuwal Chhetri (KC)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "प्रदिप कुमार कटुवाल क्षेत्री (के सी)",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Sindhuli Fikkal Rural Municipality Upper Chanate"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सिन्धुली फिक्कल गाउँपालिका माथिल्लो चनँटे"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1962-06-01",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/sindhuli"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "Masters"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": {
+            "en": {
+              "provenance": "llm",
+              "value": "Commerce"
+            },
+            "ne": null
+          },
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Kamala M.V. R.R.W Campus Janakpur"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "कमला मा.वि. रा.रा.व क्याम्पस जनकपुर"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ratna Bahadur Katuwal Chhetri (KC)"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रत्‍न बहादुर कटुवाल क्षेत्री (के सी)"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": [
+        {
+          "description": null,
+          "end_date": null,
+          "organization": null,
+          "start_date": null,
+          "title": {
+            "en": {
+              "provenance": "llm",
+              "value": "Provincial Minister, Rural Municipality Chairman, District Coordination Committee Member"
+            },
+            "ne": null
+          }
+        }
+      ],
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Wal Kumari Karki Katuwal Chhetri (KC)"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "वाल कुमारी कार्की कटुवाल क्षेत्री (के सी)"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333982.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "pradip-kumar-katuwal-chhetri-kc",
+    "sub_type": null,
+    "tags": [
+      "federal-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:21.779051Z",
+      "entity_or_relationship_id": "entity:person/pradip-kumar-katuwal-chhetri-kc",
+      "id": "version:entity:person/pradip-kumar-katuwal-chhetri-kc:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

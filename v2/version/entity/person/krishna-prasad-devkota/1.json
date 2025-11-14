@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:25.388903Z",
+  "entity_or_relationship_id": "entity:person/krishna-prasad-devkota",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "श्री अमर ज्योती जनता मा.वि. लुईटेल गोरखा"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Ending the major enemies of the nation and its people: smugglers, corruption, commission, and bribery practices, establishing discipline in the social, economic, and political spheres of the country, disciplining the executive, judiciary, and legislature, building a prosperous nation and affluent people, producing disciplined citizens, and ensuring good governance through the overall development of the country."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "राष्ट्र र जनताका प्रमुख शत्रु तस्कर भष्ट्रचार कमिशन र घुस्याहा प्रथाको अन्त्य गर्दै मुलुकमा सामाजिक आर्थिक र राजनैतिक क्षेत्रमा अनुशासन  कायम गरी मुलुकको कार्यपालिका न्यायपालिका र व्यवस्थापीका लाई अनुशासित गराउँदै समुन्नत राष्ट्र र समवृद्ध जनता बनाउने र अनुशासित नागरिक उत्पादन गरी देशको संवाङ्गिण विकासगरी सुसानको प्रत्याभुति दिलाउने।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "एस.एल.सी."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:25.388906Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 337163,
+          "constituency_id": "entity:location/constituency/parasi-2",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2111,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Kangaroo"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "कङ्गारु"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 342
+        }
+      ]
+    },
+    "id": "entity:person/krishna-prasad-devkota",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "337163"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Krishna Prasad Devkota",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "कृष्‍ण प्रसाद देवकोटा",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Badera, Sunwal Municipality, Nawalparasi (Bardaghat Susta West)"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) सुनवल नगरपालिका बडेरा"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1962-07-25",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/gorkha"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "SLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Shree Amar Jyoti Janata Ma.Vi. Luitel Gorkha"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "श्री अमर ज्योती जनता मा.वि. लुईटेल गोरखा"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Hari Prasad Devkota"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "हरि प्रसाद देवकोटा"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Nisha K.C. Devkota"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "निसा के.सी देवकोटा"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/337163.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "krishna-prasad-devkota",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:25.388903Z",
+      "entity_or_relationship_id": "entity:person/krishna-prasad-devkota",
+      "id": "version:entity:person/krishna-prasad-devkota:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

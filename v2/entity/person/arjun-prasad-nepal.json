@@ -1,0 +1,226 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "सरस्वती मा.वि. थाकलमाठ भक्तपुर"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "I will fight against anomalies, irregularities, and corruption. I will protect Hindu religion and preserve temples. I will formulate a budget by operating according to the needs of development work."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "विकृति विसंगति अनियमिता र भ्रष्ट्रचार विरुद्ध संघर्ष गर्ने छु । हिन्दु धर्मको संरक्षण गरी मठ मन्दिरको जगेर्ना गर्ने छु । विकास कार्यमा आवश्यकता हेरेर कार्य संचालन गरी बजेट तर्जुमा गर्ने छु ।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "SLC PASS"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "SLC PASS"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.150863Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333177,
+        "constituency_id": "entity:location/constituency/bhaktapur-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/nepali-for-nepal-party",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2329,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Conch shell inside a circle"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "गोलाकार भित्र शंख"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 240
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333177"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Arjun Prasad Nepal",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "अर्जुन प्रसाद नेपाल",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Tharitol, Changunarayan Municipality, Bhaktapur"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "भक्तपुर चाँगुनारायण नगरपालिका थरिटोल"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1963-02-26",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/bhaktapur"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "SLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Saraswati Secondary School, Thakalmath, Bhaktapur"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "सरस्वती मा.वि. थाकलमाठ भक्तपुर"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Nanda Lal Nepal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "नन्द लाल नेपाल"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Bhakti Nepal"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "भक्ति नेपाल"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333177.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "arjun-prasad-nepal",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.150860Z",
+    "entity_or_relationship_id": "entity:person/arjun-prasad-nepal",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

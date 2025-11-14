@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:23.824217Z",
+  "entity_or_relationship_id": "entity:person/netra-bahadur-bhujel",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "श्री सुर्के मा.वि. , खरिढुङ्गा"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "To create employment and import goods produced in the country, to produce food, shelter and clothing in our own country, free education and health sectors, 100% insurance for Nepali workers in foreign employment, to remove social evils and make Dolakha district safe."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "रोजगारी श्रृजना गरी देशमा उत्पादन सामान आयत गर्ने, गाँसवास र कपासको उत्पादन आफ्नै देशमा बनाउन, शैक्षिक क्षेत्र र स्वास्थ्य क्षेत्र निशुल्क, वैदेशिक रोजगारीमा रहेका नेपाली मजदुरहरुको १०० % ईन्स्युरेन्सको व्यवस्था, समाजमा भएका विकृति हटाई दोलखा जिल्लालाई सुरक्षित बनाउन ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "S.L.C."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "S.L.C."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:23.824223Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 336232,
+          "constituency_id": "entity:location/constituency/dolakha-1",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2050,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Football Player"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "फुटबल खेलाडी"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 24
+        }
+      ]
+    },
+    "id": "entity:person/netra-bahadur-bhujel",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "336232"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Netra Bahadur Bhujel",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "नेत्र बहादुर भुजेल",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Dolakha Bhimeshwar Municipality"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "दोलखा भिमेश्वर  नगरपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1982-06-18",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/dolakha"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "SLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Shree Surke M.V., Kharidhunga"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "श्री सुर्के मा.वि. , खरिढुङ्गा"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Dal Bahadur Bhujel"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "दल बहादुर भुजेल"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ninu Shrestha"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नीनु श्रेष्ठ"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336232.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "netra-bahadur-bhujel",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:23.824217Z",
+      "entity_or_relationship_id": "entity:person/netra-bahadur-bhujel",
+      "id": "version:entity:person/netra-bahadur-bhujel:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

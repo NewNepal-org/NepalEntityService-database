@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.855055Z",
+  "entity_or_relationship_id": "entity:person/kharkabahadur-thapa",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "कालिका विद्यालय"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "My idea is to pay more attention to the basic necessities that people desire at the social level and work for the upliftment of all of us, such as water supply, transportation facilities, electricity arrangements, good education system, agriculture-related matters, etc."
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "हामी जनतालाई सामाजिक स्तरमा चाहने आधारभूत आवश्यकताका कुराहरुलाई बढी ध्यान दिई हामी सबैका उत्थान हुने कार्य गर्नु पर्छ, जस्तै पानीको व्यवस्था, यातायातको सुविधा, विजुली व्यवस्था, शिक्षाको राम्रो व्यवस्था, कृषि सम्बन्धी आदि सबै कुरामा ध्यान पुर्‍याउनु मेरो विचार हो ।"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "SLC"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "S.L.C."
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.855058Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335643,
+          "constituency_id": "entity:location/constituency/syangja-2",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": "entity:organization/political_party/mongol-national-organization",
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 35,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Rooster"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "कुखुराको भाले"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 502
+        }
+      ]
+    },
+    "id": "entity:person/kharkabahadur-thapa",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335643"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Kharkabahadur Thapa",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "खर्कवहादुर थापा",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Gharipatan, Chapakot Municipality, Syangja"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "स्याङ्जा चापाकोट नगरपालिका घारीपाटन"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1971-01-26",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/syangja"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "SLC"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Kalika School"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "कालिका विद्यालय"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Netra Bahadur Thapa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "नेत्र वहादुर थापा"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Prem Kumari Thapa"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "प्रेम कुमारी थापा"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335643.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "kharkabahadur-thapa",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.855055Z",
+      "entity_or_relationship_id": "entity:person/kharkabahadur-thapa",
+      "id": "version:entity:person/kharkabahadur-thapa:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

@@ -1,0 +1,197 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "I have decided to stand independently against these political parties because none of the existing parties have been able to achieve the prosperous development of society and the nation, nor have they been able to undertake any development or other work that directly benefits the people. Instead, they have consistently engaged in deceit to seize power and repeatedly attacked the nation's integrity. If I receive public support, I assure you that I will work with complete honesty."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "समाज तथा राष्ट्रको समन्नत विकास गर्न अहिले भए  रहेका  कुनै पनि  पार्टीले नसकेको र जनतालाई प्रत्यक्ष फाइदा पुग्ने कुनै पनि विकास तथा अन्य कार्य गर्न  नसकेको र सदैव झुटको खेती गरी सत्ता कब्जा गर्ने र देशको अस्मिता माथि बारम्बार धावा बोल्ने गरेका कारण यी राजनैतिक पार्टीहरुका विरुद्धमा  स्वतन्त्र रुपमा  उभिने निधो गरेको छु। जनताको साथ पाए  पूर्ण रुपमा इमान्दार भई काम गर्ने विश्वास  दिलाउन चाहन्छु।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Literate"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "साक्षार"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:22.712568Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 336905,
+        "constituency_id": "entity:location/constituency/rupandehi-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": null,
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2482,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sunflower"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सूर्यमुखी फूल"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 259
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "336905"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Tika Mani Pun",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "टिका मणी पुन",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Charange, Devdaha Municipality, Rupandehi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रुपन्देही देवदह नगरपालिका चरङ्गे"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1965-07-31",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/rupandehi"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Khadgadwaj Pun"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "खड्गध्वज पुन"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Shobha Pun"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "शोभा पुन"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/336905.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "tika-mani-pun",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:22.712566Z",
+    "entity_or_relationship_id": "entity:person/tika-mani-pun",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

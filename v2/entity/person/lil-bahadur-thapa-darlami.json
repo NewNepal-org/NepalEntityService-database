@@ -1,0 +1,217 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "गजेडी मा वि"
+        }
+      },
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Under SLC"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "UNDER SLC"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.988862Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 333335,
+        "constituency_id": "entity:location/constituency/rupandehi-5",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/rastriya-janamukti-party",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 13,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "House"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "घर"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 1327
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "333335"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Lil Bahadur Thapa Darlami",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "लिल बहादुर थापा दर्लामी",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Bhaata Tole, Kanchan Rural Municipality, Rupandehi"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "रुपन्देही कंचन गाउँपालिका भाटा टोल"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1974-10-29",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/rupandehi"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "UnderSLC"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": null,
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Gajedi Ma Vi"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "गजेडी मा वि"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Purna Bahadur Thapa Darlami"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "पुर्ण बहादुर थापा दर्लामी"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Gaumati Thapa Darlami"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "गौमति थापा दर्लामी"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/333335.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "lil-bahadur-thapa-darlami",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.988859Z",
+    "entity_or_relationship_id": "entity:person/lil-bahadur-thapa-darlami",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

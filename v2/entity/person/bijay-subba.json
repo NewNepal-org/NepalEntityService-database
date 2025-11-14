@@ -1,0 +1,232 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": {
+        "en": null,
+        "ne": {
+          "provenance": "imported",
+          "value": "त्रिभुवन विश्वविद्यालय, मानविकी तथा सामाजिक शास्त्र डीनको कार्यालय, किर्तिपुर"
+        }
+      },
+      "other_details": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "(a). Directly involved in Nepal's democratic cultural movement since 2032 BS. (b). In 2044 BS, served as a founding central member of the then National People's Cultural Forum, Nepal, then central vice-president, and central president for two terms. (c). Since 2041 BS, published 9 books related to songs, poems, ghazals, critiques, editions, and sociology, and released three audio cassettes of democratic songs (including collaborations)."
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "(क). वि.सं. २०३२ सालदेखि नेपालको जनवादी सांस्कृतिक जनवादी सांस्कृतिक आन्दोलनमा प्रत्यक्ष रुपमा संलग्न भएको।\n(ख). वि.सं. २०४४ सालमा तत्कालीन राष्ट्रिय जनसांस्कृतिक मञ्च, नेपालको संस्थापक केन्द्रिय सदस्य, त्यसपछि केन्द्रिय उपाध्यक्ष, दुई कार्यकाल केन्द्रिय अध्यक्षमा कार्यरत रहेको।\n(ग). वि.सं. २०४१ सालदेखि हालसम्ममा गीत, कविता, गजल, समालोचना, संस्करण, समाजशास्त्र सम्बन्धी ९ वटा पुस्तक प्रकाशन तथा तीनवटा जनवादी गित संङ्गितको अडियो क्यासेट प्रकाशन (सहकार्य समेत) गरेको।"
+        }
+      },
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Doctorate (Ph.D.)"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "विद्यावारिधी (पिएच.डि.)"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:21.487764Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 334143,
+        "constituency_id": "entity:location/constituency/terhathum-1",
+        "elected": false,
+        "election_type": "federal",
+        "election_year": 2079,
+        "pa_subdivision": null,
+        "party_id": "entity:organization/political_party/communist-party-of-nepal-unified-marxist-leninist",
+        "position": "federal_parliament",
+        "symbol": {
+          "nec_id": 2,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Sun"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "सूर्य"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 18631
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "334143"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Bijay Subba",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "बिजय सुब्बा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Terhathum Myanglung Municipality Majhgaun"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "तेर्हथुम म्याङलुङ नगरपालिका माझगाउँ"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1957-12-27",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/terhathum"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": {
+            "provenance": "llm",
+            "value": "PhD"
+          },
+          "ne": null
+        },
+        "end_year": null,
+        "field": {
+          "en": {
+            "provenance": "llm",
+            "value": "Humanities and Social Sciences"
+          },
+          "ne": null
+        },
+        "institution": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Tribhuvan University, Faculty of Humanities and Social Sciences, Dean's Office, Kirtipur"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "त्रिभुवन विश्वविद्यालय, मानविकी तथा सामाजिक शास्त्र डीनको कार्यालय, किर्तिपुर"
+          }
+        },
+        "start_year": null
+      }
+    ],
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Lalit Bahadur Tamwahangphe"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "ललित बहादुर तम्वाहाङफे"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Jhuma Kumari Subba"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "झुमा कुमारी सुब्बा"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/334143.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "bijay-subba",
+  "sub_type": null,
+  "tags": [
+    "federal-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:21.487762Z",
+    "entity_or_relationship_id": "entity:person/bijay-subba",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}

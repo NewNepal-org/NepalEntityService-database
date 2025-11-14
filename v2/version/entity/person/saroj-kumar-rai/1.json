@@ -1,0 +1,240 @@
+{
+  "author": {
+    "id": "author:damodar-dahal",
+    "name": "Damodar Dahal",
+    "slug": "damodar-dahal"
+  },
+  "change_description": "Initial sourcing from 2079 election results",
+  "created_at": "2025-11-14T01:32:24.142713Z",
+  "entity_or_relationship_id": "entity:person/saroj-kumar-rai",
+  "snapshot": {
+    "attributes": {
+      "election_council_misc": {
+        "institution": {
+          "en": null,
+          "ne": {
+            "provenance": "imported",
+            "value": "चन्द्रशेखर प्रसाद पाण्डे कलेज मधवनी विहार भारत"
+          }
+        },
+        "other_details": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Honored with Social Hero Award"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "Social Hero Award बाट सम्मानित"
+          }
+        },
+        "qualification": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Proficiency Certificate Level"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "प्रविणता प्रमाण पत्र तह"
+          }
+        }
+      }
+    },
+    "attributions": [
+      {
+        "details": {
+          "en": {
+            "provenance": "human",
+            "value": "2079 Election Results - imported 2025-11-12"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+          }
+        },
+        "title": {
+          "en": {
+            "provenance": "human",
+            "value": "Nepal Election Commission - 2079 results"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+          }
+        }
+      }
+    ],
+    "contacts": null,
+    "created_at": "2025-11-14T01:32:24.142715Z",
+    "description": null,
+    "electoral_details": {
+      "candidacies": [
+        {
+          "candidate_id": 335319,
+          "constituency_id": "entity:location/constituency/sarlahi-3",
+          "elected": false,
+          "election_type": "provincial",
+          "election_year": 2079,
+          "pa_subdivision": "B",
+          "party_id": null,
+          "position": "provincial_assembly",
+          "symbol": {
+            "nec_id": 2457,
+            "symbol_name": {
+              "en": {
+                "provenance": "translation_service",
+                "value": "Lantern"
+              },
+              "ne": {
+                "provenance": "imported",
+                "value": "लालटिन"
+              }
+            },
+            "url": null
+          },
+          "votes_received": 8348
+        }
+      ]
+    },
+    "id": "entity:person/saroj-kumar-rai",
+    "identifiers": [
+      {
+        "name": {
+          "en": {
+            "provenance": "human",
+            "value": "nec_candidate_id"
+          },
+          "ne": {
+            "provenance": "human",
+            "value": "निर्वाचन आयोग दर्ता नं०]"
+          }
+        },
+        "scheme": "other",
+        "url": null,
+        "value": "335319"
+      }
+    ],
+    "misspelled_names": null,
+    "names": [
+      {
+        "en": {
+          "family": null,
+          "full": "Saroj Kumar Rai",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        },
+        "kind": "PRIMARY",
+        "ne": {
+          "family": null,
+          "full": "सरोज कुमार राय",
+          "given": null,
+          "middle": null,
+          "prefix": null,
+          "suffix": null
+        }
+      }
+    ],
+    "personal_details": {
+      "address": {
+        "description": null,
+        "description2": {
+          "en": {
+            "provenance": "translation_service",
+            "value": "Dhanusha Janakpurdham Sub-Metropolitan City"
+          },
+          "ne": {
+            "provenance": "imported",
+            "value": "धनुषा जनकपुरधाम उपमहानगरपालिका"
+          }
+        },
+        "location_id": null
+      },
+      "birth_date": "1973-04-18",
+      "birth_place": null,
+      "citizenship_place": {
+        "description": null,
+        "description2": null,
+        "location_id": "entity:location/district/dhanusha"
+      },
+      "education": [
+        {
+          "degree": {
+            "en": {
+              "provenance": "llm",
+              "value": "PCL"
+            },
+            "ne": null
+          },
+          "end_year": null,
+          "field": null,
+          "institution": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Chandrashekhar Prasad Pandey College Madhwani Bihar India"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "चन्द्रशेखर प्रसाद पाण्डे कलेज मधवनी विहार भारत"
+            }
+          },
+          "start_year": null
+        }
+      ],
+      "father_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Ram Swarth Rai"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "राम स्‍वार्थ राय"
+        }
+      },
+      "gender": "male",
+      "mother_name": null,
+      "positions": null,
+      "spouse_name": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Sangita Rai"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "संगीता राय"
+        }
+      }
+    },
+    "pictures": [
+      {
+        "description": "Source: Nepal Election Commission",
+        "height": null,
+        "type": "thumb",
+        "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/335319.jpg",
+        "width": null
+      }
+    ],
+    "short_description": null,
+    "slug": "saroj-kumar-rai",
+    "sub_type": null,
+    "tags": [
+      "provincial-election-2079-candidate"
+    ],
+    "type": "person",
+    "version_summary": {
+      "author": {
+        "id": "author:damodar-dahal",
+        "name": "Damodar Dahal",
+        "slug": "damodar-dahal"
+      },
+      "change_description": "Initial sourcing from 2079 election results",
+      "created_at": "2025-11-14T01:32:24.142713Z",
+      "entity_or_relationship_id": "entity:person/saroj-kumar-rai",
+      "id": "version:entity:person/saroj-kumar-rai:1",
+      "type": "ENTITY",
+      "version_number": 1
+    }
+  },
+  "type": "ENTITY",
+  "version_number": 1
+}

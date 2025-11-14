@@ -1,0 +1,188 @@
+{
+  "attributes": {
+    "election_council_misc": {
+      "institution": null,
+      "other_details": null,
+      "qualification": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Education N/A"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "Education N/A"
+        }
+      }
+    }
+  },
+  "attributions": [
+    {
+      "details": {
+        "en": {
+          "provenance": "human",
+          "value": "2079 Election Results - imported 2025-11-12"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "२०७९ निर्वाचन परिणाम - आयात मिति 2025-11-12 A.D."
+        }
+      },
+      "title": {
+        "en": {
+          "provenance": "human",
+          "value": "Nepal Election Commission - 2079 results"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "नेपाल निर्वाचन आयोग - २०७९ को नतिजा"
+        }
+      }
+    }
+  ],
+  "contacts": null,
+  "created_at": "2025-11-14T01:32:24.456529Z",
+  "description": null,
+  "electoral_details": {
+    "candidacies": [
+      {
+        "candidate_id": 338505,
+        "constituency_id": "entity:location/constituency/sindhupalchok-1",
+        "elected": false,
+        "election_type": "provincial",
+        "election_year": 2079,
+        "pa_subdivision": "B",
+        "party_id": "entity:organization/political_party/federal-democratic-national-forum",
+        "position": "provincial_assembly",
+        "symbol": {
+          "nec_id": 56,
+          "symbol_name": {
+            "en": {
+              "provenance": "translation_service",
+              "value": "Khukuri with scabbard"
+            },
+            "ne": {
+              "provenance": "imported",
+              "value": "दाप सहितको खुकुरी"
+            }
+          },
+          "url": null
+        },
+        "votes_received": 236
+      }
+    ]
+  },
+  "identifiers": [
+    {
+      "name": {
+        "en": {
+          "provenance": "human",
+          "value": "nec_candidate_id"
+        },
+        "ne": {
+          "provenance": "human",
+          "value": "निर्वाचन आयोग दर्ता नं०]"
+        }
+      },
+      "scheme": "other",
+      "url": null,
+      "value": "338505"
+    }
+  ],
+  "misspelled_names": null,
+  "names": [
+    {
+      "en": {
+        "family": null,
+        "full": "Tulku Lama",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      },
+      "kind": "PRIMARY",
+      "ne": {
+        "family": null,
+        "full": "टुल्कु लामा",
+        "given": null,
+        "middle": null,
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  ],
+  "personal_details": {
+    "address": {
+      "description": null,
+      "description2": {
+        "en": {
+          "provenance": "translation_service",
+          "value": "Fedali, Lisankhu Pakhar Rural Municipality, Sindhupalchok"
+        },
+        "ne": {
+          "provenance": "imported",
+          "value": "सिन्धुपाल्चोक लिसंखु पाखर गाउँपालिका फेदाली"
+        }
+      },
+      "location_id": null
+    },
+    "birth_date": "1964-03-29",
+    "birth_place": null,
+    "citizenship_place": {
+      "description": null,
+      "description2": null,
+      "location_id": "entity:location/district/sindhupalchok"
+    },
+    "education": null,
+    "father_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Ran Bahadur Tamang"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "रण बहादुर तामाङ"
+      }
+    },
+    "gender": "male",
+    "mother_name": null,
+    "positions": null,
+    "spouse_name": {
+      "en": {
+        "provenance": "translation_service",
+        "value": "Bimala Lama (tamang)"
+      },
+      "ne": {
+        "provenance": "imported",
+        "value": "विमला लामा (तामाङ)"
+      }
+    }
+  },
+  "pictures": [
+    {
+      "description": "Source: Nepal Election Commission",
+      "height": null,
+      "type": "thumb",
+      "url": "https://assets.nes.newnepal.org/assets/images/election-commission-2079-pictures/338505.jpg",
+      "width": null
+    }
+  ],
+  "short_description": null,
+  "slug": "tulku-lama",
+  "sub_type": null,
+  "tags": [
+    "provincial-election-2079-candidate"
+  ],
+  "type": "person",
+  "version_summary": {
+    "author": {
+      "id": "author:damodar-dahal",
+      "name": "Damodar Dahal",
+      "slug": "damodar-dahal"
+    },
+    "change_description": "Initial sourcing from 2079 election results",
+    "created_at": "2025-11-14T01:32:24.456526Z",
+    "entity_or_relationship_id": "entity:person/tulku-lama",
+    "type": "ENTITY",
+    "version_number": 1
+  }
+}
